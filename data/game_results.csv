@@ -1,0 +1,2803 @@
+date,winner,winner_score,loser,loser_score
+2006-09-07,Pittsburgh Steelers,28,Miami Dolphins,17
+2006-09-10,Cincinnati Bengals,23,Kansas City Chiefs,10
+2006-09-10,Baltimore Ravens,27,Tampa Bay Buccaneers,0
+2006-09-10,New England Patriots,19,Buffalo Bills,17
+2006-09-10,Philadelphia Eagles,24,Houston Texans,10
+2006-09-10,St. Louis Rams,18,Denver Broncos,10
+2006-09-10,Carolina Panthers,6,Atlanta Falcons,20
+2006-09-10,New York Jets,23,Tennessee Titans,16
+2006-09-10,Seattle Seahawks,9,Detroit Lions,6
+2006-09-10,New Orleans Saints,19,Cleveland Browns,14
+2006-09-10,Jacksonville Jaguars,24,Dallas Cowboys,17
+2006-09-10,Chicago Bears,26,Green Bay Packers,0
+2006-09-10,Arizona Cardinals,34,San Francisco 49ers,27
+2006-09-10,Indianapolis Colts,26,New York Giants,21
+2006-09-11,Minnesota Vikings,19,Washington Redskins,16
+2006-09-11,San Diego Chargers,27,Oakland Raiders,0
+2006-09-17,New York Giants,30,Philadelphia Eagles,24
+2006-09-17,New Orleans Saints,34,Green Bay Packers,27
+2006-09-17,Oakland Raiders,6,Baltimore Ravens,28
+2006-09-17,Minnesota Vikings,16,Carolina Panthers,13
+2006-09-17,Miami Dolphins,6,Buffalo Bills,16
+2006-09-17,Indianapolis Colts,43,Houston Texans,24
+2006-09-17,Cincinnati Bengals,34,Cleveland Browns,17
+2006-09-17,Detroit Lions,7,Chicago Bears,34
+2006-09-17,Tampa Bay Buccaneers,3,Atlanta Falcons,14
+2006-09-17,San Francisco 49ers,20,St. Louis Rams,13
+2006-09-17,Seattle Seahawks,21,Arizona Cardinals,10
+2006-09-17,New England Patriots,24,New York Jets,17
+2006-09-17,Tennessee Titans,7,San Diego Chargers,40
+2006-09-17,Denver Broncos,9,Kansas City Chiefs,6
+2006-09-17,Dallas Cowboys,27,Washington Redskins,10
+2006-09-18,Jacksonville Jaguars,9,Pittsburgh Steelers,0
+2006-09-24,New York Jets,28,Buffalo Bills,20
+2006-09-24,Cincinnati Bengals,28,Pittsburgh Steelers,20
+2006-09-24,Miami Dolphins,13,Tennessee Titans,10
+2006-09-24,Green Bay Packers,31,Detroit Lions,24
+2006-09-24,Indianapolis Colts,21,Jacksonville Jaguars,14
+2006-09-24,Washington Redskins,31,Houston Texans,15
+2006-09-24,Carolina Panthers,26,Tampa Bay Buccaneers,24
+2006-09-24,Chicago Bears,19,Minnesota Vikings,16
+2006-09-24,Baltimore Ravens,15,Cleveland Browns,14
+2006-09-24,St. Louis Rams,16,Arizona Cardinals,14
+2006-09-24,Philadelphia Eagles,38,San Francisco 49ers,24
+2006-09-24,Seattle Seahawks,42,New York Giants,30
+2006-09-24,New England Patriots,7,Denver Broncos,17
+2006-09-25,Atlanta Falcons,3,New Orleans Saints,23
+2006-10-01,Kansas City Chiefs,41,San Francisco 49ers,0
+2006-10-01,Indianapolis Colts,31,New York Jets,28
+2006-10-01,Houston Texans,17,Miami Dolphins,15
+2006-10-01,Carolina Panthers,21,New Orleans Saints,18
+2006-10-01,Buffalo Bills,17,Minnesota Vikings,12
+2006-10-01,Baltimore Ravens,16,San Diego Chargers,13
+2006-10-01,Atlanta Falcons,32,Arizona Cardinals,10
+2006-10-01,Dallas Cowboys,45,Tennessee Titans,14
+2006-10-01,St. Louis Rams,41,Detroit Lions,34
+2006-10-01,Cleveland Browns,24,Oakland Raiders,21
+2006-10-01,New England Patriots,38,Cincinnati Bengals,13
+2006-10-01,Washington Redskins,36,Jacksonville Jaguars,30
+2006-10-01,Seattle Seahawks,6,Chicago Bears,37
+2006-10-02,Green Bay Packers,9,Philadelphia Eagles,31
+2006-10-08,Carolina Panthers,20,Cleveland Browns,12
+2006-10-08,New England Patriots,20,Miami Dolphins,10
+2006-10-08,St. Louis Rams,23,Green Bay Packers,20
+2006-10-08,Indianapolis Colts,14,Tennessee Titans,13
+2006-10-08,Washington Redskins,3,New York Giants,19
+2006-10-08,New Orleans Saints,24,Tampa Bay Buccaneers,21
+2006-10-08,Buffalo Bills,7,Chicago Bears,40
+2006-10-08,Minnesota Vikings,26,Detroit Lions,17
+2006-10-08,Jacksonville Jaguars,41,New York Jets,0
+2006-10-08,Kansas City Chiefs,23,Arizona Cardinals,20
+2006-10-08,San Francisco 49ers,34,Oakland Raiders,20
+2006-10-08,Philadelphia Eagles,38,Dallas Cowboys,24
+2006-10-08,San Diego Chargers,23,Pittsburgh Steelers,13
+2006-10-09,Baltimore Ravens,3,Denver Broncos,13
+2006-10-15,Tampa Bay Buccaneers,14,Cincinnati Bengals,13
+2006-10-15,Carolina Panthers,23,Baltimore Ravens,21
+2006-10-15,Seattle Seahawks,30,St. Louis Rams,28
+2006-10-15,New Orleans Saints,27,Philadelphia Eagles,24
+2006-10-15,Houston Texans,6,Dallas Cowboys,34
+2006-10-15,Tennessee Titans,25,Washington Redskins,22
+2006-10-15,Detroit Lions,20,Buffalo Bills,17
+2006-10-15,New York Giants,27,Atlanta Falcons,14
+2006-10-15,San Diego Chargers,48,San Francisco 49ers,19
+2006-10-15,Kansas City Chiefs,7,Pittsburgh Steelers,45
+2006-10-15,New York Jets,20,Miami Dolphins,17
+2006-10-15,Oakland Raiders,3,Denver Broncos,13
+2006-10-16,Chicago Bears,24,Arizona Cardinals,23
+2006-10-22,Kansas City Chiefs,30,San Diego Chargers,27
+2006-10-22,Green Bay Packers,34,Miami Dolphins,24
+2006-10-22,Buffalo Bills,6,New England Patriots,28
+2006-10-22,Tampa Bay Buccaneers,23,Philadelphia Eagles,21
+2006-10-22,New York Jets,31,Detroit Lions,24
+2006-10-22,Jacksonville Jaguars,7,Houston Texans,27
+2006-10-22,Cincinnati Bengals,17,Carolina Panthers,14
+2006-10-22,Atlanta Falcons,41,Pittsburgh Steelers,38
+2006-10-22,Cleveland Browns,7,Denver Broncos,17
+2006-10-22,Arizona Cardinals,9,Oakland Raiders,22
+2006-10-22,Indianapolis Colts,36,Washington Redskins,22
+2006-10-22,Minnesota Vikings,31,Seattle Seahawks,13
+2006-10-23,New York Giants,36,Dallas Cowboys,22
+2006-11-05,Washington Redskins,22,Dallas Cowboys,19
+2006-11-05,Miami Dolphins,31,Chicago Bears,13
+2006-11-05,New Orleans Saints,31,Tampa Bay Buccaneers,14
+2006-11-05,Buffalo Bills,24,Green Bay Packers,10
+2006-11-05,Baltimore Ravens,26,Cincinnati Bengals,20
+2006-11-05,Kansas City Chiefs,31,St. Louis Rams,17
+2006-11-05,New York Giants,14,Houston Texans,10
+2006-11-05,Tennessee Titans,7,Jacksonville Jaguars,37
+2006-11-05,Detroit Lions,30,Atlanta Falcons,14
+2006-11-05,San Francisco 49ers,9,Minnesota Vikings,3
+2006-11-05,San Diego Chargers,32,Cleveland Browns,25
+2006-11-05,Denver Broncos,31,Pittsburgh Steelers,20
+2006-11-05,Indianapolis Colts,27,New England Patriots,20
+2006-11-06,Seattle Seahawks,16,Oakland Raiders,0
+2006-11-12,Washington Redskins,3,Philadelphia Eagles,27
+2006-11-12,New York Jets,17,New England Patriots,14
+2006-11-12,Indianapolis Colts,17,Buffalo Bills,16
+2006-11-12,San Diego Chargers,49,Cincinnati Bengals,41
+2006-11-12,Baltimore Ravens,27,Tennessee Titans,26
+2006-11-12,Miami Dolphins,13,Kansas City Chiefs,10
+2006-11-12,Houston Texans,13,Jacksonville Jaguars,10
+2006-11-12,San Francisco 49ers,19,Detroit Lions,13
+2006-11-12,Cleveland Browns,17,Atlanta Falcons,13
+2006-11-12,Green Bay Packers,23,Minnesota Vikings,17
+2006-11-12,Denver Broncos,17,Oakland Raiders,13
+2006-11-12,Pittsburgh Steelers,38,New Orleans Saints,31
+2006-11-12,Dallas Cowboys,27,Arizona Cardinals,10
+2006-11-12,Seattle Seahawks,24,St. Louis Rams,22
+2006-11-12,Chicago Bears,38,New York Giants,20
+2006-11-13,Carolina Panthers,24,Tampa Bay Buccaneers,10
+2006-11-19,Kansas City Chiefs,17,Oakland Raiders,13
+2006-11-19,Tennessee Titans,31,Philadelphia Eagles,13
+2006-11-19,Baltimore Ravens,24,Atlanta Falcons,10
+2006-11-19,Carolina Panthers,15,St. Louis Rams,0
+2006-11-19,Cincinnati Bengals,31,New Orleans Saints,16
+2006-11-19,New England Patriots,35,Green Bay Packers,0
+2006-11-19,Pittsburgh Steelers,24,Cleveland Browns,20
+2006-11-19,Miami Dolphins,24,Minnesota Vikings,20
+2006-11-19,Buffalo Bills,24,Houston Texans,21
+2006-11-19,Tampa Bay Buccaneers,20,Washington Redskins,17
+2006-11-19,Chicago Bears,10,New York Jets,0
+2006-11-19,San Francisco 49ers,20,Seattle Seahawks,14
+2006-11-19,Arizona Cardinals,17,Detroit Lions,10
+2006-11-19,Dallas Cowboys,21,Indianapolis Colts,14
+2006-11-19,San Diego Chargers,35,Denver Broncos,27
+2006-11-20,Jacksonville Jaguars,26,New York Giants,10
+2006-11-23,Miami Dolphins,27,Detroit Lions,10
+2006-11-23,Dallas Cowboys,38,Tampa Bay Buccaneers,10
+2006-11-23,Kansas City Chiefs,19,Denver Broncos,10
+2006-11-26,Baltimore Ravens,27,Pittsburgh Steelers,0
+2006-11-26,St. Louis Rams,20,San Francisco 49ers,17
+2006-11-26,New York Jets,26,Houston Texans,11
+2006-11-26,Buffalo Bills,27,Jacksonville Jaguars,24
+2006-11-26,Washington Redskins,17,Carolina Panthers,13
+2006-11-26,Cincinnati Bengals,30,Cleveland Browns,0
+2006-11-26,Minnesota Vikings,31,Arizona Cardinals,26
+2006-11-26,New Orleans Saints,31,Atlanta Falcons,13
+2006-11-26,San Diego Chargers,21,Oakland Raiders,14
+2006-11-26,Tennessee Titans,24,New York Giants,21
+2006-11-26,New England Patriots,17,Chicago Bears,13
+2006-11-26,Indianapolis Colts,45,Philadelphia Eagles,21
+2006-11-27,Seattle Seahawks,34,Green Bay Packers,24
+2006-11-30,Baltimore Ravens,7,Cincinnati Bengals,13
+2006-12-03,San Diego Chargers,24,Buffalo Bills,21
+2006-12-03,New England Patriots,28,Detroit Lions,21
+2006-12-03,New York Jets,38,Green Bay Packers,10
+2006-12-03,Arizona Cardinals,34,St. Louis Rams,20
+2006-12-03,Tennessee Titans,20,Indianapolis Colts,17
+2006-12-03,Atlanta Falcons,24,Washington Redskins,14
+2006-12-03,Cleveland Browns,31,Kansas City Chiefs,28
+2006-12-03,Chicago Bears,23,Minnesota Vikings,13
+2006-12-03,New Orleans Saints,34,San Francisco 49ers,10
+2006-12-03,Houston Texans,23,Oakland Raiders,14
+2006-12-03,Jacksonville Jaguars,24,Miami Dolphins,10
+2006-12-03,Tampa Bay Buccaneers,3,Pittsburgh Steelers,20
+2006-12-03,Dallas Cowboys,23,New York Giants,20
+2006-12-03,Seattle Seahawks,23,Denver Broncos,20
+2006-12-04,Philadelphia Eagles,27,Carolina Panthers,24
+2006-12-07,Cleveland Browns,7,Pittsburgh Steelers,27
+2006-12-10,Baltimore Ravens,20,Kansas City Chiefs,10
+2006-12-10,New York Giants,27,Carolina Panthers,13
+2006-12-10,Miami Dolphins,21,New England Patriots,0
+2006-12-10,Tennessee Titans,26,Houston Texans,20
+2006-12-10,Tampa Bay Buccaneers,6,Atlanta Falcons,17
+2006-12-10,Jacksonville Jaguars,44,Indianapolis Colts,17
+2006-12-10,Minnesota Vikings,30,Detroit Lions,20
+2006-12-10,Philadelphia Eagles,21,Washington Redskins,19
+2006-12-10,Cincinnati Bengals,27,Oakland Raiders,10
+2006-12-10,Arizona Cardinals,27,Seattle Seahawks,21
+2006-12-10,Green Bay Packers,30,San Francisco 49ers,19
+2006-12-10,San Diego Chargers,48,Denver Broncos,20
+2006-12-10,Buffalo Bills,31,New York Jets,13
+2006-12-10,New Orleans Saints,42,Dallas Cowboys,17
+2006-12-11,Chicago Bears,42,St. Louis Rams,27
+2006-12-14,San Francisco 49ers,24,Seattle Seahawks,14
+2006-12-16,Dallas Cowboys,38,Atlanta Falcons,28
+2006-12-17,Houston Texans,7,New England Patriots,40
+2006-12-17,Detroit Lions,9,Green Bay Packers,17
+2006-12-17,Pittsburgh Steelers,37,Carolina Panthers,3
+2006-12-17,Baltimore Ravens,27,Cleveland Browns,17
+2006-12-17,Buffalo Bills,21,Miami Dolphins,0
+2006-12-17,Tennessee Titans,24,Jacksonville Jaguars,17
+2006-12-17,Washington Redskins,16,New Orleans Saints,10
+2006-12-17,New York Jets,26,Minnesota Vikings,13
+2006-12-17,Chicago Bears,34,Tampa Bay Buccaneers,31
+2006-12-17,Denver Broncos,37,Arizona Cardinals,20
+2006-12-17,St. Louis Rams,20,Oakland Raiders,0
+2006-12-17,Philadelphia Eagles,36,New York Giants,22
+2006-12-17,Kansas City Chiefs,9,San Diego Chargers,20
+2006-12-18,Indianapolis Colts,34,Cincinnati Bengals,16
+2006-12-21,Green Bay Packers,9,Minnesota Vikings,7
+2006-12-23,Oakland Raiders,9,Kansas City Chiefs,20
+2006-12-24,St. Louis Rams,37,Washington Redskins,31
+2006-12-24,Pittsburgh Steelers,7,Baltimore Ravens,31
+2006-12-24,Tennessee Titans,30,Buffalo Bills,29
+2006-12-24,New England Patriots,24,Jacksonville Jaguars,21
+2006-12-24,Houston Texans,27,Indianapolis Colts,24
+2006-12-24,Chicago Bears,26,Detroit Lions,21
+2006-12-24,Cleveland Browns,7,Tampa Bay Buccaneers,22
+2006-12-24,Atlanta Falcons,3,Carolina Panthers,10
+2006-12-24,New York Giants,7,New Orleans Saints,30
+2006-12-24,Arizona Cardinals,26,San Francisco 49ers,20
+2006-12-24,San Diego Chargers,20,Seattle Seahawks,17
+2006-12-24,Denver Broncos,24,Cincinnati Bengals,23
+2006-12-25,Dallas Cowboys,7,Philadelphia Eagles,23
+2006-12-25,New York Jets,13,Miami Dolphins,10
+2006-12-30,New York Giants,34,Washington Redskins,28
+2006-12-31,Kansas City Chiefs,35,Jacksonville Jaguars,30
+2006-12-31,New England Patriots,40,Tennessee Titans,23
+2006-12-31,Oakland Raiders,3,New York Jets,23
+2006-12-31,Cleveland Browns,6,Houston Texans,14
+2006-12-31,Detroit Lions,39,Dallas Cowboys,31
+2006-12-31,Carolina Panthers,31,New Orleans Saints,21
+2006-12-31,Tampa Bay Buccaneers,7,Seattle Seahawks,23
+2006-12-31,Pittsburgh Steelers,23,Cincinnati Bengals,17
+2006-12-31,St. Louis Rams,41,Minnesota Vikings,21
+2006-12-31,Philadelphia Eagles,24,Atlanta Falcons,17
+2006-12-31,San Diego Chargers,27,Arizona Cardinals,20
+2006-12-31,Indianapolis Colts,27,Miami Dolphins,22
+2006-12-31,San Francisco 49ers,26,Denver Broncos,23
+2006-12-31,Buffalo Bills,7,Baltimore Ravens,19
+2006-12-31,Chicago Bears,7,Green Bay Packers,26
+2007-09-06,Indianapolis Colts,41,New Orleans Saints,10
+2007-09-09,Carolina Panthers,27,St. Louis Rams,13
+2007-09-09,Atlanta Falcons,3,Minnesota Vikings,24
+2007-09-09,Denver Broncos,15,Buffalo Bills,14
+2007-09-09,Green Bay Packers,16,Philadelphia Eagles,13
+2007-09-09,Washington Redskins,16,Miami Dolphins,13
+2007-09-09,Cleveland Browns,7,Pittsburgh Steelers,34
+2007-09-09,New England Patriots,38,New York Jets,14
+2007-09-09,Tennessee Titans,13,Jacksonville Jaguars,10
+2007-09-09,Kansas City Chiefs,3,Houston Texans,20
+2007-09-09,Tampa Bay Buccaneers,6,Seattle Seahawks,20
+2007-09-09,Chicago Bears,3,San Diego Chargers,14
+2007-09-09,Detroit Lions,36,Oakland Raiders,21
+2007-09-09,Dallas Cowboys,45,New York Giants,35
+2007-09-10,Cincinnati Bengals,27,Baltimore Ravens,20
+2007-09-10,San Francisco 49ers,20,Arizona Cardinals,17
+2007-09-16,San Francisco 49ers,17,St. Louis Rams,16
+2007-09-16,Buffalo Bills,3,Pittsburgh Steelers,26
+2007-09-16,Houston Texans,34,Carolina Panthers,21
+2007-09-16,Indianapolis Colts,22,Tennessee Titans,20
+2007-09-16,Cleveland Browns,51,Cincinnati Bengals,45
+2007-09-16,Tampa Bay Buccaneers,31,New Orleans Saints,14
+2007-09-16,Green Bay Packers,35,New York Giants,13
+2007-09-16,Atlanta Falcons,7,Jacksonville Jaguars,13
+2007-09-16,Dallas Cowboys,37,Miami Dolphins,20
+2007-09-16,Detroit Lions,20,Minnesota Vikings,17
+2007-09-16,Arizona Cardinals,23,Seattle Seahawks,20
+2007-09-16,Chicago Bears,20,Kansas City Chiefs,10
+2007-09-16,Denver Broncos,23,Oakland Raiders,20
+2007-09-16,Baltimore Ravens,20,New York Jets,13
+2007-09-16,New England Patriots,38,San Diego Chargers,14
+2007-09-17,Washington Redskins,20,Philadelphia Eagles,12
+2007-09-23,Baltimore Ravens,26,Arizona Cardinals,23
+2007-09-23,Kansas City Chiefs,13,Minnesota Vikings,10
+2007-09-23,Pittsburgh Steelers,37,San Francisco 49ers,16
+2007-09-23,Philadelphia Eagles,56,Detroit Lions,21
+2007-09-23,New York Jets,31,Miami Dolphins,28
+2007-09-23,Buffalo Bills,7,New England Patriots,38
+2007-09-23,Green Bay Packers,31,San Diego Chargers,24
+2007-09-23,St. Louis Rams,3,Tampa Bay Buccaneers,24
+2007-09-23,Indianapolis Colts,30,Houston Texans,24
+2007-09-23,Jacksonville Jaguars,23,Denver Broncos,14
+2007-09-23,Seattle Seahawks,24,Cincinnati Bengals,21
+2007-09-23,Oakland Raiders,26,Cleveland Browns,24
+2007-09-23,Carolina Panthers,27,Atlanta Falcons,20
+2007-09-23,New York Giants,24,Washington Redskins,17
+2007-09-23,Dallas Cowboys,34,Chicago Bears,10
+2007-09-24,Tennessee Titans,31,New Orleans Saints,14
+2007-09-30,Buffalo Bills,17,New York Jets,14
+2007-09-30,Atlanta Falcons,26,Houston Texans,16
+2007-09-30,St. Louis Rams,7,Dallas Cowboys,35
+2007-09-30,Cleveland Browns,27,Baltimore Ravens,13
+2007-09-30,Detroit Lions,37,Chicago Bears,27
+2007-09-30,Green Bay Packers,23,Minnesota Vikings,16
+2007-09-30,Oakland Raiders,35,Miami Dolphins,17
+2007-09-30,San Francisco 49ers,3,Seattle Seahawks,23
+2007-09-30,Carolina Panthers,7,Tampa Bay Buccaneers,20
+2007-09-30,Kansas City Chiefs,30,San Diego Chargers,16
+2007-09-30,Arizona Cardinals,21,Pittsburgh Steelers,14
+2007-09-30,Indianapolis Colts,38,Denver Broncos,20
+2007-09-30,Philadelphia Eagles,3,New York Giants,16
+2007-10-01,New England Patriots,34,Cincinnati Bengals,13
+2007-10-07,Kansas City Chiefs,7,Jacksonville Jaguars,17
+2007-10-07,Washington Redskins,34,Detroit Lions,3
+2007-10-07,Arizona Cardinals,34,St. Louis Rams,31
+2007-10-07,Pittsburgh Steelers,21,Seattle Seahawks,0
+2007-10-07,New York Giants,35,New York Jets,24
+2007-10-07,New England Patriots,34,Cleveland Browns,17
+2007-10-07,Houston Texans,22,Miami Dolphins,19
+2007-10-07,Carolina Panthers,16,New Orleans Saints,13
+2007-10-07,Tennessee Titans,20,Atlanta Falcons,13
+2007-10-07,Indianapolis Colts,33,Tampa Bay Buccaneers,14
+2007-10-07,San Diego Chargers,41,Denver Broncos,3
+2007-10-07,Baltimore Ravens,9,San Francisco 49ers,7
+2007-10-07,Chicago Bears,27,Green Bay Packers,20
+2007-10-08,Dallas Cowboys,25,Buffalo Bills,24
+2007-10-14,Kansas City Chiefs,27,Cincinnati Bengals,20
+2007-10-14,Minnesota Vikings,34,Chicago Bears,31
+2007-10-14,St. Louis Rams,3,Baltimore Ravens,22
+2007-10-14,New York Jets,9,Philadelphia Eagles,16
+2007-10-14,Green Bay Packers,17,Washington Redskins,14
+2007-10-14,Cleveland Browns,41,Miami Dolphins,31
+2007-10-14,Tampa Bay Buccaneers,13,Tennessee Titans,10
+2007-10-14,Jacksonville Jaguars,37,Houston Texans,17
+2007-10-14,Carolina Panthers,25,Arizona Cardinals,10
+2007-10-14,San Diego Chargers,28,Oakland Raiders,14
+2007-10-14,New England Patriots,48,Dallas Cowboys,27
+2007-10-14,New Orleans Saints,28,Seattle Seahawks,17
+2007-10-15,New York Giants,31,Atlanta Falcons,10
+2007-10-21,Washington Redskins,21,Arizona Cardinals,19
+2007-10-21,Buffalo Bills,19,Baltimore Ravens,14
+2007-10-21,New England Patriots,49,Miami Dolphins,28
+2007-10-21,Tennessee Titans,38,Houston Texans,36
+2007-10-21,New York Giants,33,San Francisco 49ers,15
+2007-10-21,New Orleans Saints,22,Atlanta Falcons,16
+2007-10-21,Detroit Lions,23,Tampa Bay Buccaneers,16
+2007-10-21,Cincinnati Bengals,38,New York Jets,31
+2007-10-21,Kansas City Chiefs,12,Oakland Raiders,10
+2007-10-21,Chicago Bears,19,Philadelphia Eagles,16
+2007-10-21,Dallas Cowboys,24,Minnesota Vikings,14
+2007-10-21,St. Louis Rams,6,Seattle Seahawks,33
+2007-10-21,Denver Broncos,31,Pittsburgh Steelers,28
+2007-10-22,Jacksonville Jaguars,7,Indianapolis Colts,29
+2007-10-28,Cleveland Browns,27,St. Louis Rams,20
+2007-10-28,Pittsburgh Steelers,24,Cincinnati Bengals,13
+2007-10-28,Carolina Panthers,7,Indianapolis Colts,31
+2007-10-28,Oakland Raiders,9,Tennessee Titans,13
+2007-10-28,New York Giants,13,Miami Dolphins,10
+2007-10-28,Chicago Bears,7,Detroit Lions,16
+2007-10-28,Philadelphia Eagles,23,Minnesota Vikings,16
+2007-10-28,Jacksonville Jaguars,24,Tampa Bay Buccaneers,23
+2007-10-28,San Diego Chargers,35,Houston Texans,10
+2007-10-28,New York Jets,3,Buffalo Bills,13
+2007-10-28,New Orleans Saints,31,San Francisco 49ers,10
+2007-10-28,Washington Redskins,7,New England Patriots,52
+2007-10-29,Green Bay Packers,19,Denver Broncos,13
+2007-11-04,Tampa Bay Buccaneers,17,Arizona Cardinals,10
+2007-11-04,Green Bay Packers,33,Kansas City Chiefs,22
+2007-11-04,Buffalo Bills,33,Cincinnati Bengals,21
+2007-11-04,Atlanta Falcons,20,San Francisco 49ers,16
+2007-11-04,Carolina Panthers,7,Tennessee Titans,20
+2007-11-04,Washington Redskins,23,New York Jets,20
+2007-11-04,New Orleans Saints,41,Jacksonville Jaguars,24
+2007-11-04,Denver Broncos,7,Detroit Lions,44
+2007-11-04,Minnesota Vikings,35,San Diego Chargers,17
+2007-11-04,Cleveland Browns,33,Seattle Seahawks,30
+2007-11-04,Houston Texans,24,Oakland Raiders,17
+2007-11-04,New England Patriots,24,Indianapolis Colts,20
+2007-11-04,Dallas Cowboys,38,Philadelphia Eagles,17
+2007-11-05,Baltimore Ravens,7,Pittsburgh Steelers,38
+2007-11-11,Denver Broncos,27,Kansas City Chiefs,11
+2007-11-11,Green Bay Packers,34,Minnesota Vikings,0
+2007-11-11,Pittsburgh Steelers,31,Cleveland Browns,28
+2007-11-11,St. Louis Rams,37,New Orleans Saints,29
+2007-11-11,Buffalo Bills,13,Miami Dolphins,10
+2007-11-11,Philadelphia Eagles,33,Washington Redskins,25
+2007-11-11,Atlanta Falcons,20,Carolina Panthers,13
+2007-11-11,Jacksonville Jaguars,28,Tennessee Titans,13
+2007-11-11,Baltimore Ravens,7,Cincinnati Bengals,21
+2007-11-11,Arizona Cardinals,31,Detroit Lions,21
+2007-11-11,Oakland Raiders,6,Chicago Bears,17
+2007-11-11,Dallas Cowboys,31,New York Giants,20
+2007-11-11,San Diego Chargers,23,Indianapolis Colts,21
+2007-11-12,Seattle Seahawks,24,San Francisco 49ers,0
+2007-11-18,Arizona Cardinals,35,Cincinnati Bengals,27
+2007-11-18,Cleveland Browns,33,Baltimore Ravens,30
+2007-11-18,Miami Dolphins,7,Philadelphia Eagles,17
+2007-11-18,Houston Texans,23,New Orleans Saints,10
+2007-11-18,Green Bay Packers,31,Carolina Panthers,17
+2007-11-18,Indianapolis Colts,13,Kansas City Chiefs,10
+2007-11-18,Jacksonville Jaguars,24,San Diego Chargers,17
+2007-11-18,New York Giants,16,Detroit Lions,10
+2007-11-18,Atlanta Falcons,7,Tampa Bay Buccaneers,31
+2007-11-18,Minnesota Vikings,29,Oakland Raiders,22
+2007-11-18,New York Jets,19,Pittsburgh Steelers,16
+2007-11-18,Dallas Cowboys,28,Washington Redskins,23
+2007-11-18,San Francisco 49ers,9,St. Louis Rams,13
+2007-11-18,Seattle Seahawks,30,Chicago Bears,23
+2007-11-18,New England Patriots,56,Buffalo Bills,10
+2007-11-19,Denver Broncos,34,Tennessee Titans,20
+2007-11-22,Green Bay Packers,37,Detroit Lions,26
+2007-11-22,Dallas Cowboys,34,New York Jets,3
+2007-11-22,Indianapolis Colts,31,Atlanta Falcons,13
+2007-11-25,Seattle Seahawks,24,St. Louis Rams,19
+2007-11-25,Oakland Raiders,20,Kansas City Chiefs,17
+2007-11-25,Tennessee Titans,6,Cincinnati Bengals,35
+2007-11-25,Tampa Bay Buccaneers,19,Washington Redskins,13
+2007-11-25,Minnesota Vikings,41,New York Giants,17
+2007-11-25,Jacksonville Jaguars,36,Buffalo Bills,14
+2007-11-25,Cleveland Browns,27,Houston Texans,17
+2007-11-25,Carolina Panthers,6,New Orleans Saints,31
+2007-11-25,San Francisco 49ers,37,Arizona Cardinals,31
+2007-11-25,San Diego Chargers,32,Baltimore Ravens,14
+2007-11-25,Chicago Bears,37,Denver Broncos,34
+2007-11-25,New England Patriots,31,Philadelphia Eagles,28
+2007-11-26,Pittsburgh Steelers,3,Miami Dolphins,0
+2007-11-29,Dallas Cowboys,37,Green Bay Packers,27
+2007-12-02,San Diego Chargers,24,Kansas City Chiefs,10
+2007-12-02,St. Louis Rams,28,Atlanta Falcons,16
+2007-12-02,Seattle Seahawks,28,Philadelphia Eagles,24
+2007-12-02,Tennessee Titans,28,Houston Texans,20
+2007-12-02,Buffalo Bills,17,Washington Redskins,16
+2007-12-02,Indianapolis Colts,28,Jacksonville Jaguars,25
+2007-12-02,Carolina Panthers,31,San Francisco 49ers,14
+2007-12-02,New York Jets,40,Miami Dolphins,13
+2007-12-02,Minnesota Vikings,42,Detroit Lions,10
+2007-12-02,Oakland Raiders,34,Denver Broncos,20
+2007-12-02,Arizona Cardinals,27,Cleveland Browns,21
+2007-12-02,New York Giants,21,Chicago Bears,16
+2007-12-02,Tampa Bay Buccaneers,27,New Orleans Saints,23
+2007-12-02,Pittsburgh Steelers,24,Cincinnati Bengals,10
+2007-12-03,New England Patriots,27,Baltimore Ravens,24
+2007-12-06,Washington Redskins,24,Chicago Bears,16
+2007-12-09,Houston Texans,28,Tampa Bay Buccaneers,14
+2007-12-09,Cincinnati Bengals,19,St. Louis Rams,10
+2007-12-09,Buffalo Bills,38,Miami Dolphins,17
+2007-12-09,New York Giants,16,Philadelphia Eagles,13
+2007-12-09,San Diego Chargers,23,Tennessee Titans,17
+2007-12-09,Oakland Raiders,7,Green Bay Packers,38
+2007-12-09,Carolina Panthers,6,Jacksonville Jaguars,37
+2007-12-09,Dallas Cowboys,28,Detroit Lions,27
+2007-12-09,San Francisco 49ers,7,Minnesota Vikings,27
+2007-12-09,Seattle Seahawks,42,Arizona Cardinals,21
+2007-12-09,Cleveland Browns,24,New York Jets,18
+2007-12-09,New England Patriots,34,Pittsburgh Steelers,13
+2007-12-09,Kansas City Chiefs,7,Denver Broncos,41
+2007-12-09,Indianapolis Colts,44,Baltimore Ravens,20
+2007-12-10,New Orleans Saints,34,Atlanta Falcons,14
+2007-12-13,Houston Texans,31,Denver Broncos,13
+2007-12-15,San Francisco 49ers,20,Cincinnati Bengals,13
+2007-12-16,Green Bay Packers,33,St. Louis Rams,14
+2007-12-16,Tennessee Titans,26,Kansas City Chiefs,17
+2007-12-16,Carolina Panthers,13,Seattle Seahawks,10
+2007-12-16,New England Patriots,20,New York Jets,10
+2007-12-16,Jacksonville Jaguars,29,Pittsburgh Steelers,22
+2007-12-16,New Orleans Saints,31,Arizona Cardinals,24
+2007-12-16,Miami Dolphins,22,Baltimore Ravens,16
+2007-12-16,Tampa Bay Buccaneers,37,Atlanta Falcons,3
+2007-12-16,Cleveland Browns,8,Buffalo Bills,0
+2007-12-16,Indianapolis Colts,21,Oakland Raiders,14
+2007-12-16,Dallas Cowboys,6,Philadelphia Eagles,10
+2007-12-16,San Diego Chargers,51,Detroit Lions,14
+2007-12-16,Washington Redskins,22,New York Giants,10
+2007-12-17,Minnesota Vikings,20,Chicago Bears,13
+2007-12-20,Pittsburgh Steelers,41,St. Louis Rams,24
+2007-12-22,Dallas Cowboys,20,Carolina Panthers,13
+2007-12-23,New York Giants,38,Buffalo Bills,21
+2007-12-23,Philadelphia Eagles,38,New Orleans Saints,23
+2007-12-23,Jacksonville Jaguars,49,Oakland Raiders,11
+2007-12-23,Detroit Lions,25,Kansas City Chiefs,20
+2007-12-23,Indianapolis Colts,38,Houston Texans,15
+2007-12-23,Cincinnati Bengals,19,Cleveland Browns,14
+2007-12-23,Green Bay Packers,7,Chicago Bears,35
+2007-12-23,Arizona Cardinals,30,Atlanta Falcons,27
+2007-12-23,San Francisco 49ers,21,Tampa Bay Buccaneers,19
+2007-12-23,New York Jets,6,Tennessee Titans,10
+2007-12-23,Miami Dolphins,7,New England Patriots,28
+2007-12-23,Baltimore Ravens,6,Seattle Seahawks,27
+2007-12-23,Washington Redskins,32,Minnesota Vikings,21
+2007-12-24,Denver Broncos,3,San Diego Chargers,23
+2007-12-29,New England Patriots,38,New York Giants,35
+2007-12-30,Chicago Bears,33,New Orleans Saints,25
+2007-12-30,Buffalo Bills,9,Philadelphia Eagles,17
+2007-12-30,Houston Texans,42,Jacksonville Jaguars,28
+2007-12-30,Green Bay Packers,34,Detroit Lions,13
+2007-12-30,Carolina Panthers,31,Tampa Bay Buccaneers,23
+2007-12-30,Cincinnati Bengals,38,Miami Dolphins,25
+2007-12-30,San Francisco 49ers,7,Cleveland Browns,20
+2007-12-30,Atlanta Falcons,44,Seattle Seahawks,41
+2007-12-30,San Diego Chargers,30,Oakland Raiders,17
+2007-12-30,New York Jets,13,Kansas City Chiefs,10
+2007-12-30,Arizona Cardinals,48,St. Louis Rams,19
+2007-12-30,Dallas Cowboys,6,Washington Redskins,27
+2007-12-30,Denver Broncos,22,Minnesota Vikings,19
+2007-12-30,Baltimore Ravens,27,Pittsburgh Steelers,21
+2007-12-30,Tennessee Titans,16,Indianapolis Colts,10
+2008-09-04,Washington Redskins,7,New York Giants,16
+2008-09-07,New Orleans Saints,24,Tampa Bay Buccaneers,20
+2008-09-07,New York Jets,20,Miami Dolphins,14
+2008-09-07,Buffalo Bills,34,Seattle Seahawks,10
+2008-09-07,Pittsburgh Steelers,38,Houston Texans,17
+2008-09-07,Philadelphia Eagles,38,St. Louis Rams,3
+2008-09-07,New England Patriots,17,Kansas City Chiefs,10
+2008-09-07,Atlanta Falcons,34,Detroit Lions,21
+2008-09-07,Tennessee Titans,17,Jacksonville Jaguars,10
+2008-09-07,Baltimore Ravens,17,Cincinnati Bengals,10
+2008-09-07,Carolina Panthers,26,San Diego Chargers,24
+2008-09-07,Dallas Cowboys,28,Cleveland Browns,10
+2008-09-07,Arizona Cardinals,23,San Francisco 49ers,13
+2008-09-07,Chicago Bears,29,Indianapolis Colts,13
+2008-09-08,Green Bay Packers,24,Minnesota Vikings,19
+2008-09-08,Denver Broncos,41,Oakland Raiders,14
+2008-09-14,New York Giants,41,St. Louis Rams,13
+2008-09-14,Kansas City Chiefs,8,Oakland Raiders,23
+2008-09-14,Cincinnati Bengals,7,Tennessee Titans,24
+2008-09-14,Buffalo Bills,20,Jacksonville Jaguars,16
+2008-09-14,Green Bay Packers,48,Detroit Lions,25
+2008-09-14,Washington Redskins,29,New Orleans Saints,24
+2008-09-14,Carolina Panthers,20,Chicago Bears,17
+2008-09-14,Indianapolis Colts,18,Minnesota Vikings,15
+2008-09-14,Atlanta Falcons,9,Tampa Bay Buccaneers,24
+2008-09-14,San Francisco 49ers,33,Seattle Seahawks,30
+2008-09-14,Denver Broncos,39,San Diego Chargers,38
+2008-09-14,Arizona Cardinals,31,Miami Dolphins,10
+2008-09-14,New England Patriots,19,New York Jets,10
+2008-09-14,Cleveland Browns,6,Pittsburgh Steelers,10
+2008-09-15,Dallas Cowboys,41,Philadelphia Eagles,37
+2008-09-21,Washington Redskins,24,Arizona Cardinals,17
+2008-09-21,Tampa Bay Buccaneers,27,Chicago Bears,24
+2008-09-21,Buffalo Bills,24,Oakland Raiders,23
+2008-09-21,Atlanta Falcons,38,Kansas City Chiefs,14
+2008-09-21,Tennessee Titans,31,Houston Texans,12
+2008-09-21,New York Giants,26,Cincinnati Bengals,23
+2008-09-21,Miami Dolphins,38,New England Patriots,13
+2008-09-21,Minnesota Vikings,20,Carolina Panthers,10
+2008-09-21,Denver Broncos,34,New Orleans Saints,32
+2008-09-21,San Francisco 49ers,31,Detroit Lions,13
+2008-09-21,Seattle Seahawks,37,St. Louis Rams,13
+2008-09-21,Pittsburgh Steelers,6,Philadelphia Eagles,15
+2008-09-21,Jacksonville Jaguars,23,Indianapolis Colts,21
+2008-09-21,Baltimore Ravens,28,Cleveland Browns,10
+2008-09-21,Dallas Cowboys,27,Green Bay Packers,16
+2008-09-22,San Diego Chargers,48,New York Jets,29
+2008-09-28,Kansas City Chiefs,33,Denver Broncos,19
+2008-09-28,Jacksonville Jaguars,30,Houston Texans,27
+2008-09-28,Cleveland Browns,20,Cincinnati Bengals,12
+2008-09-28,Tampa Bay Buccaneers,30,Green Bay Packers,21
+2008-09-28,New York Jets,56,Arizona Cardinals,35
+2008-09-28,New Orleans Saints,31,San Francisco 49ers,17
+2008-09-28,Tennessee Titans,30,Minnesota Vikings,17
+2008-09-28,Atlanta Falcons,9,Carolina Panthers,24
+2008-09-28,Buffalo Bills,31,St. Louis Rams,14
+2008-09-28,San Diego Chargers,28,Oakland Raiders,18
+2008-09-28,Washington Redskins,26,Dallas Cowboys,24
+2008-09-28,Chicago Bears,24,Philadelphia Eagles,20
+2008-09-29,Pittsburgh Steelers,23,Baltimore Ravens,20
+2008-10-05,Indianapolis Colts,31,Houston Texans,27
+2008-10-05,Atlanta Falcons,27,Green Bay Packers,24
+2008-10-05,Detroit Lions,7,Chicago Bears,34
+2008-10-05,Tennessee Titans,13,Baltimore Ravens,10
+2008-10-05,Seattle Seahawks,6,New York Giants,44
+2008-10-05,Miami Dolphins,17,San Diego Chargers,10
+2008-10-05,Carolina Panthers,34,Kansas City Chiefs,0
+2008-10-05,Washington Redskins,23,Philadelphia Eagles,17
+2008-10-05,Denver Broncos,16,Tampa Bay Buccaneers,13
+2008-10-05,Dallas Cowboys,31,Cincinnati Bengals,22
+2008-10-05,New England Patriots,30,San Francisco 49ers,21
+2008-10-05,Arizona Cardinals,41,Buffalo Bills,17
+2008-10-05,Pittsburgh Steelers,26,Jacksonville Jaguars,21
+2008-10-06,Minnesota Vikings,30,New Orleans Saints,27
+2008-10-12,New Orleans Saints,34,Oakland Raiders,3
+2008-10-12,Houston Texans,29,Miami Dolphins,28
+2008-10-12,Indianapolis Colts,31,Baltimore Ravens,3
+2008-10-12,Carolina Panthers,3,Tampa Bay Buccaneers,27
+2008-10-12,Atlanta Falcons,22,Chicago Bears,20
+2008-10-12,New York Jets,26,Cincinnati Bengals,14
+2008-10-12,St. Louis Rams,19,Washington Redskins,17
+2008-10-12,Minnesota Vikings,12,Detroit Lions,10
+2008-10-12,Jacksonville Jaguars,24,Denver Broncos,17
+2008-10-12,Arizona Cardinals,30,Dallas Cowboys,24
+2008-10-12,Philadelphia Eagles,40,San Francisco 49ers,26
+2008-10-12,Green Bay Packers,27,Seattle Seahawks,17
+2008-10-12,San Diego Chargers,30,New England Patriots,10
+2008-10-13,Cleveland Browns,35,New York Giants,14
+2008-10-19,Tennessee Titans,34,Kansas City Chiefs,10
+2008-10-19,St. Louis Rams,34,Dallas Cowboys,14
+2008-10-19,Chicago Bears,48,Minnesota Vikings,41
+2008-10-19,Buffalo Bills,23,San Diego Chargers,14
+2008-10-19,New York Giants,29,San Francisco 49ers,17
+2008-10-19,Baltimore Ravens,27,Miami Dolphins,13
+2008-10-19,Pittsburgh Steelers,38,Cincinnati Bengals,10
+2008-10-19,New Orleans Saints,7,Carolina Panthers,30
+2008-10-19,Houston Texans,28,Detroit Lions,21
+2008-10-19,Green Bay Packers,34,Indianapolis Colts,14
+2008-10-19,Oakland Raiders,16,New York Jets,13
+2008-10-19,Washington Redskins,14,Cleveland Browns,11
+2008-10-19,Tampa Bay Buccaneers,20,Seattle Seahawks,10
+2008-10-20,Denver Broncos,7,New England Patriots,41
+2008-10-26,Tampa Bay Buccaneers,9,Dallas Cowboys,13
+2008-10-26,Baltimore Ravens,29,Oakland Raiders,10
+2008-10-26,Philadelphia Eagles,27,Atlanta Falcons,14
+2008-10-26,New England Patriots,23,St. Louis Rams,16
+2008-10-26,Washington Redskins,25,Detroit Lions,17
+2008-10-26,Carolina Panthers,27,Arizona Cardinals,23
+2008-10-26,Miami Dolphins,25,Buffalo Bills,16
+2008-10-26,New York Jets,28,Kansas City Chiefs,24
+2008-10-26,New Orleans Saints,37,San Diego Chargers,32
+2008-10-26,Cincinnati Bengals,6,Houston Texans,35
+2008-10-26,Cleveland Browns,23,Jacksonville Jaguars,17
+2008-10-26,Seattle Seahawks,34,San Francisco 49ers,13
+2008-10-26,New York Giants,21,Pittsburgh Steelers,14
+2008-10-27,Tennessee Titans,31,Indianapolis Colts,21
+2008-11-02,Arizona Cardinals,34,St. Louis Rams,13
+2008-11-02,Baltimore Ravens,37,Cleveland Browns,27
+2008-11-02,Cincinnati Bengals,21,Jacksonville Jaguars,19
+2008-11-02,Chicago Bears,27,Detroit Lions,23
+2008-11-02,New York Jets,26,Buffalo Bills,17
+2008-11-02,Tennessee Titans,19,Green Bay Packers,16
+2008-11-02,Tampa Bay Buccaneers,30,Kansas City Chiefs,27
+2008-11-02,Minnesota Vikings,28,Houston Texans,21
+2008-11-02,Miami Dolphins,26,Denver Broncos,17
+2008-11-02,Atlanta Falcons,24,Oakland Raiders,0
+2008-11-02,New York Giants,35,Dallas Cowboys,14
+2008-11-02,Seattle Seahawks,7,Philadelphia Eagles,26
+2008-11-02,Indianapolis Colts,18,New England Patriots,15
+2008-11-03,Washington Redskins,6,Pittsburgh Steelers,23
+2008-11-06,Denver Broncos,34,Cleveland Browns,30
+2008-11-09,Baltimore Ravens,41,Houston Texans,13
+2008-11-09,Jacksonville Jaguars,38,Detroit Lions,14
+2008-11-09,Tennessee Titans,21,Chicago Bears,14
+2008-11-09,New England Patriots,20,Buffalo Bills,10
+2008-11-09,Miami Dolphins,21,Seattle Seahawks,19
+2008-11-09,Atlanta Falcons,34,New Orleans Saints,20
+2008-11-09,New York Jets,47,St. Louis Rams,3
+2008-11-09,Minnesota Vikings,28,Green Bay Packers,27
+2008-11-09,Oakland Raiders,6,Carolina Panthers,17
+2008-11-09,San Diego Chargers,20,Kansas City Chiefs,19
+2008-11-09,Indianapolis Colts,24,Pittsburgh Steelers,20
+2008-11-09,New York Giants,36,Philadelphia Eagles,31
+2008-11-10,Arizona Cardinals,29,San Francisco 49ers,24
+2008-11-13,New York Jets,34,New England Patriots,31
+2008-11-16,New Orleans Saints,30,Kansas City Chiefs,20
+2008-11-16,Green Bay Packers,37,Chicago Bears,3
+2008-11-16,Indianapolis Colts,33,Houston Texans,27
+2008-11-16,Tampa Bay Buccaneers,19,Minnesota Vikings,13
+2008-11-16,Denver Broncos,24,Atlanta Falcons,20
+2008-11-16,New York Giants,30,Baltimore Ravens,10
+2008-11-16,Miami Dolphins,17,Oakland Raiders,15
+2008-11-16,Cincinnati Bengals,13,Philadelphia Eagles,13
+2008-11-16,Carolina Panthers,31,Detroit Lions,22
+2008-11-16,San Francisco 49ers,35,St. Louis Rams,16
+2008-11-16,Arizona Cardinals,26,Seattle Seahawks,20
+2008-11-16,Tennessee Titans,24,Jacksonville Jaguars,14
+2008-11-16,Pittsburgh Steelers,11,San Diego Chargers,10
+2008-11-16,Dallas Cowboys,14,Washington Redskins,10
+2008-11-17,Cleveland Browns,29,Buffalo Bills,27
+2008-11-20,Pittsburgh Steelers,27,Cincinnati Bengals,10
+2008-11-23,St. Louis Rams,3,Chicago Bears,27
+2008-11-23,Buffalo Bills,54,Kansas City Chiefs,31
+2008-11-23,Philadelphia Eagles,7,Baltimore Ravens,36
+2008-11-23,New York Jets,34,Tennessee Titans,13
+2008-11-23,New England Patriots,48,Miami Dolphins,28
+2008-11-23,Tampa Bay Buccaneers,38,Detroit Lions,20
+2008-11-23,Dallas Cowboys,35,San Francisco 49ers,22
+2008-11-23,Cleveland Browns,6,Houston Texans,16
+2008-11-23,Minnesota Vikings,30,Jacksonville Jaguars,12
+2008-11-23,Oakland Raiders,31,Denver Broncos,10
+2008-11-23,Atlanta Falcons,45,Carolina Panthers,28
+2008-11-23,Washington Redskins,20,Seattle Seahawks,17
+2008-11-23,New York Giants,37,Arizona Cardinals,29
+2008-11-23,Indianapolis Colts,23,San Diego Chargers,20
+2008-11-24,New Orleans Saints,51,Green Bay Packers,29
+2008-11-27,Tennessee Titans,47,Detroit Lions,10
+2008-11-27,Seattle Seahawks,9,Dallas Cowboys,34
+2008-11-27,Philadelphia Eagles,48,Arizona Cardinals,20
+2008-11-30,Miami Dolphins,16,St. Louis Rams,12
+2008-11-30,Buffalo Bills,3,San Francisco 49ers,10
+2008-11-30,Carolina Panthers,35,Green Bay Packers,31
+2008-11-30,Cleveland Browns,6,Indianapolis Colts,10
+2008-11-30,Baltimore Ravens,34,Cincinnati Bengals,3
+2008-11-30,Tampa Bay Buccaneers,23,New Orleans Saints,20
+2008-11-30,Washington Redskins,7,New York Giants,23
+2008-11-30,Atlanta Falcons,22,San Diego Chargers,16
+2008-11-30,Kansas City Chiefs,20,Oakland Raiders,13
+2008-11-30,Denver Broncos,34,New York Jets,17
+2008-11-30,Pittsburgh Steelers,33,New England Patriots,10
+2008-11-30,Minnesota Vikings,34,Chicago Bears,14
+2008-12-01,Houston Texans,30,Jacksonville Jaguars,17
+2008-12-04,Oakland Raiders,7,San Diego Chargers,34
+2008-12-07,Indianapolis Colts,35,Cincinnati Bengals,3
+2008-12-07,Chicago Bears,23,Jacksonville Jaguars,10
+2008-12-07,New Orleans Saints,29,Atlanta Falcons,25
+2008-12-07,Houston Texans,24,Green Bay Packers,21
+2008-12-07,Minnesota Vikings,20,Detroit Lions,16
+2008-12-07,Cleveland Browns,9,Tennessee Titans,28
+2008-12-07,Philadelphia Eagles,20,New York Giants,14
+2008-12-07,Denver Broncos,24,Kansas City Chiefs,17
+2008-12-07,San Francisco 49ers,24,New York Jets,14
+2008-12-07,Buffalo Bills,3,Miami Dolphins,16
+2008-12-07,New England Patriots,24,Seattle Seahawks,21
+2008-12-07,Arizona Cardinals,34,St. Louis Rams,10
+2008-12-07,Pittsburgh Steelers,20,Dallas Cowboys,13
+2008-12-07,Baltimore Ravens,24,Washington Redskins,10
+2008-12-08,Carolina Panthers,38,Tampa Bay Buccaneers,23
+2008-12-11,Chicago Bears,27,New Orleans Saints,24
+2008-12-14,Seattle Seahawks,23,St. Louis Rams,20
+2008-12-14,San Diego Chargers,22,Kansas City Chiefs,21
+2008-12-14,Indianapolis Colts,31,Detroit Lions,21
+2008-12-14,New York Jets,31,Buffalo Bills,27
+2008-12-14,Cincinnati Bengals,20,Washington Redskins,13
+2008-12-14,Atlanta Falcons,13,Tampa Bay Buccaneers,10
+2008-12-14,San Francisco 49ers,9,Miami Dolphins,14
+2008-12-14,Jacksonville Jaguars,20,Green Bay Packers,16
+2008-12-14,Houston Texans,13,Tennessee Titans,12
+2008-12-14,Minnesota Vikings,35,Arizona Cardinals,14
+2008-12-14,Baltimore Ravens,9,Pittsburgh Steelers,13
+2008-12-14,Carolina Panthers,30,Denver Broncos,10
+2008-12-14,New England Patriots,49,Oakland Raiders,26
+2008-12-14,New York Giants,8,Dallas Cowboys,20
+2008-12-15,Philadelphia Eagles,30,Cleveland Browns,10
+2008-12-18,Indianapolis Colts,31,Jacksonville Jaguars,24
+2008-12-20,Baltimore Ravens,33,Dallas Cowboys,24
+2008-12-21,Miami Dolphins,38,Kansas City Chiefs,31
+2008-12-21,San Francisco 49ers,17,St. Louis Rams,16
+2008-12-21,San Diego Chargers,41,Tampa Bay Buccaneers,24
+2008-12-21,Tennessee Titans,31,Pittsburgh Steelers,14
+2008-12-21,Arizona Cardinals,7,New England Patriots,47
+2008-12-21,Detroit Lions,7,New Orleans Saints,42
+2008-12-21,Cincinnati Bengals,14,Cleveland Browns,0
+2008-12-21,Oakland Raiders,27,Houston Texans,16
+2008-12-21,Buffalo Bills,30,Denver Broncos,23
+2008-12-21,New York Jets,3,Seattle Seahawks,13
+2008-12-21,Atlanta Falcons,24,Minnesota Vikings,17
+2008-12-21,Philadelphia Eagles,3,Washington Redskins,10
+2008-12-21,New York Giants,34,Carolina Panthers,28
+2008-12-22,Chicago Bears,20,Green Bay Packers,17
+2008-12-28,Green Bay Packers,31,Detroit Lions,21
+2008-12-28,Oakland Raiders,31,Tampa Bay Buccaneers,24
+2008-12-28,Indianapolis Colts,23,Tennessee Titans,0
+2008-12-28,Kansas City Chiefs,6,Cincinnati Bengals,16
+2008-12-28,New England Patriots,13,Buffalo Bills,0
+2008-12-28,Pittsburgh Steelers,31,Cleveland Browns,0
+2008-12-28,Atlanta Falcons,31,St. Louis Rams,27
+2008-12-28,Houston Texans,31,Chicago Bears,24
+2008-12-28,Carolina Panthers,33,New Orleans Saints,31
+2008-12-28,Minnesota Vikings,20,New York Giants,19
+2008-12-28,Arizona Cardinals,34,Seattle Seahawks,21
+2008-12-28,San Francisco 49ers,27,Washington Redskins,24
+2008-12-28,Dallas Cowboys,6,Philadelphia Eagles,44
+2008-12-28,Jacksonville Jaguars,7,Baltimore Ravens,27
+2008-12-28,Miami Dolphins,24,New York Jets,17
+2008-12-28,San Diego Chargers,52,Denver Broncos,21
+2009-09-10,Pittsburgh Steelers,13,Tennessee Titans,10
+2009-09-13,Cincinnati Bengals,7,Denver Broncos,12
+2009-09-13,Baltimore Ravens,38,Kansas City Chiefs,24
+2009-09-13,Indianapolis Colts,14,Jacksonville Jaguars,12
+2009-09-13,Minnesota Vikings,34,Cleveland Browns,20
+2009-09-13,Dallas Cowboys,34,Tampa Bay Buccaneers,21
+2009-09-13,New Orleans Saints,45,Detroit Lions,27
+2009-09-13,Houston Texans,7,New York Jets,24
+2009-09-13,Philadelphia Eagles,38,Carolina Panthers,10
+2009-09-13,Miami Dolphins,7,Atlanta Falcons,19
+2009-09-13,San Francisco 49ers,20,Arizona Cardinals,16
+2009-09-13,New York Giants,23,Washington Redskins,17
+2009-09-13,Seattle Seahawks,28,St. Louis Rams,0
+2009-09-13,Green Bay Packers,21,Chicago Bears,15
+2009-09-14,New England Patriots,25,Buffalo Bills,24
+2009-09-14,San Diego Chargers,24,Oakland Raiders,20
+2009-09-20,Oakland Raiders,13,Kansas City Chiefs,10
+2009-09-20,Washington Redskins,9,St. Louis Rams,7
+2009-09-20,Atlanta Falcons,28,Carolina Panthers,20
+2009-09-20,New England Patriots,9,New York Jets,16
+2009-09-20,Cincinnati Bengals,31,Green Bay Packers,24
+2009-09-20,Houston Texans,34,Tennessee Titans,31
+2009-09-20,Arizona Cardinals,31,Jacksonville Jaguars,17
+2009-09-20,Minnesota Vikings,27,Detroit Lions,13
+2009-09-20,New Orleans Saints,48,Philadelphia Eagles,22
+2009-09-20,San Francisco 49ers,23,Seattle Seahawks,10
+2009-09-20,Buffalo Bills,33,Tampa Bay Buccaneers,20
+2009-09-20,Cleveland Browns,6,Denver Broncos,27
+2009-09-20,Chicago Bears,17,Pittsburgh Steelers,14
+2009-09-20,Baltimore Ravens,31,San Diego Chargers,26
+2009-09-20,New York Giants,33,Dallas Cowboys,31
+2009-09-21,Indianapolis Colts,27,Miami Dolphins,23
+2009-09-27,New York Giants,24,Tampa Bay Buccaneers,0
+2009-09-27,Green Bay Packers,36,St. Louis Rams,17
+2009-09-27,Detroit Lions,19,Washington Redskins,14
+2009-09-27,Baltimore Ravens,34,Cleveland Browns,3
+2009-09-27,Philadelphia Eagles,34,Kansas City Chiefs,14
+2009-09-27,New England Patriots,26,Atlanta Falcons,10
+2009-09-27,Jacksonville Jaguars,31,Houston Texans,24
+2009-09-27,New York Jets,24,Tennessee Titans,17
+2009-09-27,Minnesota Vikings,27,San Francisco 49ers,24
+2009-09-27,Buffalo Bills,7,New Orleans Saints,27
+2009-09-27,Chicago Bears,25,Seattle Seahawks,19
+2009-09-27,San Diego Chargers,23,Miami Dolphins,13
+2009-09-27,Cincinnati Bengals,23,Pittsburgh Steelers,20
+2009-09-27,Oakland Raiders,3,Denver Broncos,23
+2009-09-27,Indianapolis Colts,31,Arizona Cardinals,10
+2009-09-28,Carolina Panthers,7,Dallas Cowboys,21
+2009-10-04,Washington Redskins,16,Tampa Bay Buccaneers,13
+2009-10-04,New York Giants,27,Kansas City Chiefs,16
+2009-10-04,Oakland Raiders,6,Houston Texans,29
+2009-10-04,Chicago Bears,48,Detroit Lions,24
+2009-10-04,New England Patriots,27,Baltimore Ravens,21
+2009-10-04,Indianapolis Colts,34,Seattle Seahawks,17
+2009-10-04,Cincinnati Bengals,23,Cleveland Browns,20
+2009-10-04,Jacksonville Jaguars,37,Tennessee Titans,17
+2009-10-04,New Orleans Saints,24,New York Jets,10
+2009-10-04,Miami Dolphins,38,Buffalo Bills,10
+2009-10-04,Denver Broncos,17,Dallas Cowboys,10
+2009-10-04,San Francisco 49ers,35,St. Louis Rams,0
+2009-10-04,Pittsburgh Steelers,38,San Diego Chargers,28
+2009-10-05,Minnesota Vikings,30,Green Bay Packers,23
+2009-10-11,Minnesota Vikings,38,St. Louis Rams,10
+2009-10-11,Dallas Cowboys,26,Kansas City Chiefs,20
+2009-10-11,Cleveland Browns,6,Buffalo Bills,3
+2009-10-11,Pittsburgh Steelers,28,Detroit Lions,20
+2009-10-11,Cincinnati Bengals,17,Baltimore Ravens,14
+2009-10-11,Philadelphia Eagles,33,Tampa Bay Buccaneers,14
+2009-10-11,Oakland Raiders,7,New York Giants,44
+2009-10-11,Carolina Panthers,20,Washington Redskins,17
+2009-10-11,Atlanta Falcons,45,San Francisco 49ers,10
+2009-10-11,Arizona Cardinals,28,Houston Texans,21
+2009-10-11,Denver Broncos,20,New England Patriots,17
+2009-10-11,Seattle Seahawks,41,Jacksonville Jaguars,0
+2009-10-11,Tennessee Titans,9,Indianapolis Colts,31
+2009-10-12,Miami Dolphins,31,New York Jets,27
+2009-10-18,Carolina Panthers,28,Tampa Bay Buccaneers,21
+2009-10-18,Pittsburgh Steelers,27,Cleveland Browns,14
+2009-10-18,Green Bay Packers,26,Detroit Lions,0
+2009-10-18,Houston Texans,28,Cincinnati Bengals,17
+2009-10-18,Jacksonville Jaguars,23,St. Louis Rams,20
+2009-10-18,Washington Redskins,6,Kansas City Chiefs,14
+2009-10-18,New Orleans Saints,48,New York Giants,27
+2009-10-18,Minnesota Vikings,33,Baltimore Ravens,31
+2009-10-18,Seattle Seahawks,3,Arizona Cardinals,27
+2009-10-18,Philadelphia Eagles,9,Oakland Raiders,13
+2009-10-18,Buffalo Bills,16,New York Jets,13
+2009-10-18,New England Patriots,59,Tennessee Titans,0
+2009-10-18,Atlanta Falcons,21,Chicago Bears,14
+2009-10-19,Denver Broncos,34,San Diego Chargers,23
+2009-10-25,St. Louis Rams,6,Indianapolis Colts,42
+2009-10-25,Kansas City Chiefs,7,San Diego Chargers,37
+2009-10-25,Green Bay Packers,31,Cleveland Browns,3
+2009-10-25,Pittsburgh Steelers,27,Minnesota Vikings,17
+2009-10-25,Houston Texans,24,San Francisco 49ers,21
+2009-10-25,Tampa Bay Buccaneers,7,New England Patriots,35
+2009-10-25,Carolina Panthers,9,Buffalo Bills,20
+2009-10-25,New York Jets,38,Oakland Raiders,0
+2009-10-25,Dallas Cowboys,37,Atlanta Falcons,21
+2009-10-25,New Orleans Saints,46,Miami Dolphins,34
+2009-10-25,Cincinnati Bengals,45,Chicago Bears,10
+2009-10-25,Arizona Cardinals,24,New York Giants,17
+2009-10-26,Philadelphia Eagles,27,Washington Redskins,17
+2009-11-01,Cleveland Browns,6,Chicago Bears,30
+2009-11-01,Houston Texans,31,Buffalo Bills,10
+2009-11-01,Denver Broncos,7,Baltimore Ravens,30
+2009-11-01,Miami Dolphins,30,New York Jets,25
+2009-11-01,Dallas Cowboys,38,Seattle Seahawks,17
+2009-11-01,Indianapolis Colts,18,San Francisco 49ers,14
+2009-11-01,Philadelphia Eagles,40,New York Giants,17
+2009-11-01,St. Louis Rams,17,Detroit Lions,10
+2009-11-01,San Diego Chargers,24,Oakland Raiders,16
+2009-11-01,Tennessee Titans,30,Jacksonville Jaguars,13
+2009-11-01,Carolina Panthers,34,Arizona Cardinals,21
+2009-11-01,Minnesota Vikings,38,Green Bay Packers,26
+2009-11-02,New Orleans Saints,35,Atlanta Falcons,27
+2009-11-08,Indianapolis Colts,20,Houston Texans,17
+2009-11-08,Baltimore Ravens,7,Cincinnati Bengals,17
+2009-11-08,New England Patriots,27,Miami Dolphins,17
+2009-11-08,Jacksonville Jaguars,24,Kansas City Chiefs,21
+2009-11-08,Arizona Cardinals,41,Chicago Bears,21
+2009-11-08,Tampa Bay Buccaneers,38,Green Bay Packers,28
+2009-11-08,Atlanta Falcons,31,Washington Redskins,17
+2009-11-08,New Orleans Saints,30,Carolina Panthers,20
+2009-11-08,Seattle Seahawks,32,Detroit Lions,20
+2009-11-08,Tennessee Titans,34,San Francisco 49ers,27
+2009-11-08,San Diego Chargers,21,New York Giants,20
+2009-11-08,Dallas Cowboys,20,Philadelphia Eagles,16
+2009-11-09,Pittsburgh Steelers,28,Denver Broncos,10
+2009-11-12,Chicago Bears,6,San Francisco 49ers,10
+2009-11-15,New Orleans Saints,28,St. Louis Rams,23
+2009-11-15,Washington Redskins,27,Denver Broncos,17
+2009-11-15,Cincinnati Bengals,18,Pittsburgh Steelers,12
+2009-11-15,Tennessee Titans,41,Buffalo Bills,17
+2009-11-15,Jacksonville Jaguars,24,New York Jets,22
+2009-11-15,Carolina Panthers,28,Atlanta Falcons,19
+2009-11-15,Miami Dolphins,25,Tampa Bay Buccaneers,23
+2009-11-15,Minnesota Vikings,27,Detroit Lions,10
+2009-11-15,Kansas City Chiefs,16,Oakland Raiders,10
+2009-11-15,Dallas Cowboys,7,Green Bay Packers,17
+2009-11-15,Arizona Cardinals,31,Seattle Seahawks,20
+2009-11-15,San Diego Chargers,31,Philadelphia Eagles,23
+2009-11-15,Indianapolis Colts,35,New England Patriots,34
+2009-11-16,Baltimore Ravens,16,Cleveland Browns,0
+2009-11-19,Miami Dolphins,24,Carolina Panthers,17
+2009-11-22,Tampa Bay Buccaneers,7,New Orleans Saints,38
+2009-11-22,Kansas City Chiefs,27,Pittsburgh Steelers,24
+2009-11-22,Detroit Lions,38,Cleveland Browns,37
+2009-11-22,Indianapolis Colts,17,Baltimore Ravens,15
+2009-11-22,Green Bay Packers,30,San Francisco 49ers,24
+2009-11-22,Dallas Cowboys,7,Washington Redskins,6
+2009-11-22,New York Giants,34,Atlanta Falcons,31
+2009-11-22,Jacksonville Jaguars,18,Buffalo Bills,15
+2009-11-22,Seattle Seahawks,9,Minnesota Vikings,35
+2009-11-22,Arizona Cardinals,21,St. Louis Rams,13
+2009-11-22,San Diego Chargers,32,Denver Broncos,3
+2009-11-22,Oakland Raiders,20,Cincinnati Bengals,17
+2009-11-22,New England Patriots,31,New York Jets,14
+2009-11-22,Philadelphia Eagles,24,Chicago Bears,20
+2009-11-23,Tennessee Titans,20,Houston Texans,17
+2009-11-26,Green Bay Packers,34,Detroit Lions,12
+2009-11-26,Oakland Raiders,7,Dallas Cowboys,24
+2009-11-26,New York Giants,6,Denver Broncos,26
+2009-11-29,Seattle Seahawks,27,St. Louis Rams,17
+2009-11-29,Buffalo Bills,31,Miami Dolphins,14
+2009-11-29,Carolina Panthers,6,New York Jets,17
+2009-11-29,Indianapolis Colts,35,Houston Texans,27
+2009-11-29,Cleveland Browns,7,Cincinnati Bengals,16
+2009-11-29,Atlanta Falcons,20,Tampa Bay Buccaneers,17
+2009-11-29,Philadelphia Eagles,27,Washington Redskins,24
+2009-11-29,Jacksonville Jaguars,3,San Francisco 49ers,20
+2009-11-29,San Diego Chargers,43,Kansas City Chiefs,14
+2009-11-29,Tennessee Titans,20,Arizona Cardinals,17
+2009-11-29,Minnesota Vikings,36,Chicago Bears,10
+2009-11-29,Baltimore Ravens,20,Pittsburgh Steelers,17
+2009-11-30,New Orleans Saints,38,New England Patriots,17
+2009-12-03,New York Jets,19,Buffalo Bills,13
+2009-12-06,Denver Broncos,44,Kansas City Chiefs,13
+2009-12-06,Cincinnati Bengals,23,Detroit Lions,13
+2009-12-06,St. Louis Rams,9,Chicago Bears,17
+2009-12-06,Oakland Raiders,27,Pittsburgh Steelers,24
+2009-12-06,Miami Dolphins,22,New England Patriots,21
+2009-12-06,New Orleans Saints,33,Washington Redskins,30
+2009-12-06,Tampa Bay Buccaneers,6,Carolina Panthers,16
+2009-12-06,Atlanta Falcons,7,Philadelphia Eagles,34
+2009-12-06,Jacksonville Jaguars,23,Houston Texans,18
+2009-12-06,Indianapolis Colts,27,Tennessee Titans,17
+2009-12-06,San Diego Chargers,30,Cleveland Browns,23
+2009-12-06,New York Giants,31,Dallas Cowboys,24
+2009-12-06,Seattle Seahawks,20,San Francisco 49ers,17
+2009-12-06,Arizona Cardinals,30,Minnesota Vikings,17
+2009-12-07,Green Bay Packers,27,Baltimore Ravens,14
+2009-12-10,Pittsburgh Steelers,6,Cleveland Browns,13
+2009-12-13,Tampa Bay Buccaneers,3,New York Jets,26
+2009-12-13,Buffalo Bills,16,Kansas City Chiefs,10
+2009-12-13,Indianapolis Colts,28,Denver Broncos,16
+2009-12-13,Baltimore Ravens,48,Detroit Lions,3
+2009-12-13,Green Bay Packers,21,Chicago Bears,14
+2009-12-13,New Orleans Saints,26,Atlanta Falcons,23
+2009-12-13,New England Patriots,20,Carolina Panthers,10
+2009-12-13,Seattle Seahawks,7,Houston Texans,34
+2009-12-13,Miami Dolphins,14,Jacksonville Jaguars,10
+2009-12-13,Minnesota Vikings,30,Cincinnati Bengals,10
+2009-12-13,Washington Redskins,34,Oakland Raiders,13
+2009-12-13,St. Louis Rams,7,Tennessee Titans,47
+2009-12-13,San Diego Chargers,20,Dallas Cowboys,17
+2009-12-13,Philadelphia Eagles,45,New York Giants,38
+2009-12-14,Arizona Cardinals,9,San Francisco 49ers,24
+2009-12-17,Indianapolis Colts,35,Jacksonville Jaguars,31
+2009-12-19,Dallas Cowboys,24,New Orleans Saints,17
+2009-12-20,Houston Texans,16,St. Louis Rams,13
+2009-12-20,Cleveland Browns,41,Kansas City Chiefs,34
+2009-12-20,New England Patriots,17,Buffalo Bills,10
+2009-12-20,Tennessee Titans,27,Miami Dolphins,24
+2009-12-20,Arizona Cardinals,31,Detroit Lions,24
+2009-12-20,New York Jets,7,Atlanta Falcons,10
+2009-12-20,Oakland Raiders,20,Denver Broncos,19
+2009-12-20,San Diego Chargers,27,Cincinnati Bengals,24
+2009-12-20,Chicago Bears,7,Baltimore Ravens,31
+2009-12-20,Pittsburgh Steelers,37,Green Bay Packers,36
+2009-12-20,Seattle Seahawks,7,Tampa Bay Buccaneers,24
+2009-12-20,Philadelphia Eagles,27,San Francisco 49ers,13
+2009-12-20,Minnesota Vikings,7,Carolina Panthers,26
+2009-12-21,New York Giants,45,Washington Redskins,12
+2009-12-25,San Diego Chargers,42,Tennessee Titans,17
+2009-12-27,Oakland Raiders,9,Cleveland Browns,23
+2009-12-27,Pittsburgh Steelers,23,Baltimore Ravens,20
+2009-12-27,Atlanta Falcons,31,Buffalo Bills,3
+2009-12-27,Jacksonville Jaguars,7,New England Patriots,35
+2009-12-27,Houston Texans,27,Miami Dolphins,20
+2009-12-27,Green Bay Packers,48,Seattle Seahawks,10
+2009-12-27,Cincinnati Bengals,17,Kansas City Chiefs,10
+2009-12-27,New York Giants,9,Carolina Panthers,41
+2009-12-27,Tampa Bay Buccaneers,20,New Orleans Saints,17
+2009-12-27,Detroit Lions,6,San Francisco 49ers,20
+2009-12-27,Arizona Cardinals,31,St. Louis Rams,10
+2009-12-27,New York Jets,29,Indianapolis Colts,15
+2009-12-27,Philadelphia Eagles,30,Denver Broncos,27
+2009-12-27,Dallas Cowboys,17,Washington Redskins,0
+2009-12-28,Chicago Bears,36,Minnesota Vikings,30
+2010-01-03,St. Louis Rams,6,San Francisco 49ers,28
+2010-01-03,Cleveland Browns,23,Jacksonville Jaguars,17
+2010-01-03,Indianapolis Colts,7,Buffalo Bills,30
+2010-01-03,Pittsburgh Steelers,30,Miami Dolphins,24
+2010-01-03,Houston Texans,34,New England Patriots,27
+2010-01-03,Atlanta Falcons,20,Tampa Bay Buccaneers,10
+2010-01-03,Chicago Bears,37,Detroit Lions,23
+2010-01-03,Carolina Panthers,23,New Orleans Saints,10
+2010-01-03,New York Giants,7,Minnesota Vikings,44
+2010-01-03,Dallas Cowboys,24,Philadelphia Eagles,0
+2010-01-03,Arizona Cardinals,7,Green Bay Packers,33
+2010-01-03,San Diego Chargers,23,Washington Redskins,20
+2010-01-03,Baltimore Ravens,21,Oakland Raiders,13
+2010-01-03,Kansas City Chiefs,44,Denver Broncos,24
+2010-01-03,Tennessee Titans,17,Seattle Seahawks,13
+2010-01-03,New York Jets,37,Cincinnati Bengals,0
+2010-09-09,Minnesota Vikings,9,New Orleans Saints,14
+2010-09-12,New England Patriots,38,Cincinnati Bengals,24
+2010-09-12,Houston Texans,34,Indianapolis Colts,24
+2010-09-12,Chicago Bears,19,Detroit Lions,14
+2010-09-12,Tampa Bay Buccaneers,17,Cleveland Browns,14
+2010-09-12,Miami Dolphins,15,Buffalo Bills,10
+2010-09-12,Atlanta Falcons,9,Pittsburgh Steelers,15
+2010-09-12,Tennessee Titans,38,Oakland Raiders,13
+2010-09-12,Jacksonville Jaguars,24,Denver Broncos,17
+2010-09-12,New York Giants,31,Carolina Panthers,18
+2010-09-12,Arizona Cardinals,17,St. Louis Rams,13
+2010-09-12,San Francisco 49ers,6,Seattle Seahawks,31
+2010-09-12,Green Bay Packers,27,Philadelphia Eagles,20
+2010-09-12,Dallas Cowboys,7,Washington Redskins,13
+2010-09-13,New York Jets,9,Baltimore Ravens,10
+2010-09-13,Kansas City Chiefs,21,San Diego Chargers,14
+2010-09-19,Kansas City Chiefs,16,Cleveland Browns,14
+2010-09-19,Cincinnati Bengals,15,Baltimore Ravens,10
+2010-09-19,Pittsburgh Steelers,19,Tennessee Titans,11
+2010-09-19,Buffalo Bills,7,Green Bay Packers,34
+2010-09-19,Philadelphia Eagles,35,Detroit Lions,32
+2010-09-19,Carolina Panthers,7,Tampa Bay Buccaneers,20
+2010-09-19,Arizona Cardinals,7,Atlanta Falcons,41
+2010-09-19,Chicago Bears,27,Dallas Cowboys,20
+2010-09-19,Miami Dolphins,14,Minnesota Vikings,10
+2010-09-19,Oakland Raiders,16,St. Louis Rams,14
+2010-09-19,Denver Broncos,31,Seattle Seahawks,14
+2010-09-19,Houston Texans,30,Washington Redskins,27
+2010-09-19,San Diego Chargers,38,Jacksonville Jaguars,13
+2010-09-19,New York Jets,28,New England Patriots,14
+2010-09-19,Indianapolis Colts,38,New York Giants,14
+2010-09-20,New Orleans Saints,25,San Francisco 49ers,22
+2010-09-26,Dallas Cowboys,27,Houston Texans,13
+2010-09-26,Baltimore Ravens,24,Cleveland Browns,17
+2010-09-26,Carolina Panthers,7,Cincinnati Bengals,20
+2010-09-26,Tennessee Titans,29,New York Giants,10
+2010-09-26,New England Patriots,38,Buffalo Bills,30
+2010-09-26,Pittsburgh Steelers,38,Tampa Bay Buccaneers,13
+2010-09-26,Atlanta Falcons,27,New Orleans Saints,24
+2010-09-26,Kansas City Chiefs,31,San Francisco 49ers,10
+2010-09-26,Minnesota Vikings,24,Detroit Lions,10
+2010-09-26,Arizona Cardinals,24,Oakland Raiders,23
+2010-09-26,Jacksonville Jaguars,3,Philadelphia Eagles,28
+2010-09-26,St. Louis Rams,30,Washington Redskins,16
+2010-09-26,Seattle Seahawks,27,San Diego Chargers,20
+2010-09-26,Indianapolis Colts,27,Denver Broncos,13
+2010-09-26,New York Jets,31,Miami Dolphins,23
+2010-09-27,Chicago Bears,20,Green Bay Packers,17
+2010-10-03,Seattle Seahawks,3,St. Louis Rams,20
+2010-10-03,Green Bay Packers,28,Detroit Lions,26
+2010-10-03,Cleveland Browns,23,Cincinnati Bengals,20
+2010-10-03,New York Jets,38,Buffalo Bills,14
+2010-10-03,Baltimore Ravens,17,Pittsburgh Steelers,14
+2010-10-03,Denver Broncos,26,Tennessee Titans,20
+2010-10-03,New Orleans Saints,16,Carolina Panthers,14
+2010-10-03,Atlanta Falcons,16,San Francisco 49ers,14
+2010-10-03,Jacksonville Jaguars,31,Indianapolis Colts,28
+2010-10-03,Houston Texans,31,Oakland Raiders,24
+2010-10-03,San Diego Chargers,41,Arizona Cardinals,10
+2010-10-03,Washington Redskins,17,Philadelphia Eagles,12
+2010-10-03,Chicago Bears,3,New York Giants,17
+2010-10-04,New England Patriots,41,Miami Dolphins,14
+2010-10-10,St. Louis Rams,6,Detroit Lions,44
+2010-10-10,Washington Redskins,16,Green Bay Packers,13
+2010-10-10,Jacksonville Jaguars,36,Buffalo Bills,26
+2010-10-10,Baltimore Ravens,31,Denver Broncos,17
+2010-10-10,Kansas City Chiefs,9,Indianapolis Colts,19
+2010-10-10,Atlanta Falcons,20,Cleveland Browns,10
+2010-10-10,Tampa Bay Buccaneers,24,Cincinnati Bengals,21
+2010-10-10,Carolina Panthers,6,Chicago Bears,23
+2010-10-10,New York Giants,34,Houston Texans,10
+2010-10-10,Arizona Cardinals,30,New Orleans Saints,20
+2010-10-10,Oakland Raiders,35,San Diego Chargers,27
+2010-10-10,Tennessee Titans,34,Dallas Cowboys,27
+2010-10-10,Philadelphia Eagles,27,San Francisco 49ers,24
+2010-10-11,New York Jets,29,Minnesota Vikings,20
+2010-10-17,St. Louis Rams,20,San Diego Chargers,17
+2010-10-17,New England Patriots,23,Baltimore Ravens,20
+2010-10-17,Miami Dolphins,23,Green Bay Packers,20
+2010-10-17,Tampa Bay Buccaneers,6,New Orleans Saints,31
+2010-10-17,Seattle Seahawks,23,Chicago Bears,20
+2010-10-17,Pittsburgh Steelers,28,Cleveland Browns,10
+2010-10-17,Philadelphia Eagles,31,Atlanta Falcons,17
+2010-10-17,Houston Texans,35,Kansas City Chiefs,31
+2010-10-17,New York Giants,28,Detroit Lions,20
+2010-10-17,New York Jets,24,Denver Broncos,20
+2010-10-17,Oakland Raiders,9,San Francisco 49ers,17
+2010-10-17,Minnesota Vikings,24,Dallas Cowboys,21
+2010-10-17,Indianapolis Colts,27,Washington Redskins,24
+2010-10-18,Tennessee Titans,30,Jacksonville Jaguars,3
+2010-10-24,Tampa Bay Buccaneers,18,St. Louis Rams,17
+2010-10-24,Baltimore Ravens,37,Buffalo Bills,34
+2010-10-24,Tennessee Titans,37,Philadelphia Eagles,19
+2010-10-24,Cleveland Browns,30,New Orleans Saints,17
+2010-10-24,Pittsburgh Steelers,23,Miami Dolphins,22
+2010-10-24,Kansas City Chiefs,42,Jacksonville Jaguars,20
+2010-10-24,Carolina Panthers,23,San Francisco 49ers,20
+2010-10-24,Washington Redskins,17,Chicago Bears,14
+2010-10-24,Atlanta Falcons,39,Cincinnati Bengals,32
+2010-10-24,Seattle Seahawks,22,Arizona Cardinals,10
+2010-10-24,Oakland Raiders,59,Denver Broncos,14
+2010-10-24,New England Patriots,23,San Diego Chargers,20
+2010-10-24,Green Bay Packers,28,Minnesota Vikings,24
+2010-10-25,New York Giants,41,Dallas Cowboys,35
+2010-10-31,St. Louis Rams,20,Carolina Panthers,10
+2010-10-31,Detroit Lions,37,Washington Redskins,25
+2010-10-31,Green Bay Packers,9,New York Jets,0
+2010-10-31,Jacksonville Jaguars,35,Dallas Cowboys,17
+2010-10-31,Miami Dolphins,22,Cincinnati Bengals,14
+2010-10-31,San Francisco 49ers,24,Denver Broncos,16
+2010-10-31,Kansas City Chiefs,13,Buffalo Bills,10
+2010-10-31,Tampa Bay Buccaneers,38,Arizona Cardinals,35
+2010-10-31,San Diego Chargers,33,Tennessee Titans,25
+2010-10-31,Oakland Raiders,33,Seattle Seahawks,3
+2010-10-31,New England Patriots,28,Minnesota Vikings,18
+2010-10-31,New Orleans Saints,20,Pittsburgh Steelers,10
+2010-11-01,Indianapolis Colts,30,Houston Texans,17
+2010-11-07,Cleveland Browns,34,New England Patriots,14
+2010-11-07,Chicago Bears,22,Buffalo Bills,19
+2010-11-07,Atlanta Falcons,27,Tampa Bay Buccaneers,21
+2010-11-07,Baltimore Ravens,26,Miami Dolphins,10
+2010-11-07,San Diego Chargers,29,Houston Texans,23
+2010-11-07,New York Jets,23,Detroit Lions,20
+2010-11-07,New Orleans Saints,34,Carolina Panthers,3
+2010-11-07,Minnesota Vikings,27,Arizona Cardinals,24
+2010-11-07,Seattle Seahawks,7,New York Giants,41
+2010-11-07,Oakland Raiders,23,Kansas City Chiefs,20
+2010-11-07,Philadelphia Eagles,26,Indianapolis Colts,24
+2010-11-07,Dallas Cowboys,7,Green Bay Packers,45
+2010-11-08,Pittsburgh Steelers,27,Cincinnati Bengals,21
+2010-11-11,Atlanta Falcons,26,Baltimore Ravens,21
+2010-11-14,Indianapolis Colts,23,Cincinnati Bengals,17
+2010-11-14,New York Jets,26,Cleveland Browns,20
+2010-11-14,Chicago Bears,27,Minnesota Vikings,13
+2010-11-14,Tampa Bay Buccaneers,31,Carolina Panthers,16
+2010-11-14,Buffalo Bills,14,Detroit Lions,12
+2010-11-14,Miami Dolphins,29,Tennessee Titans,17
+2010-11-14,Jacksonville Jaguars,31,Houston Texans,24
+2010-11-14,Denver Broncos,49,Kansas City Chiefs,29
+2010-11-14,Seattle Seahawks,36,Arizona Cardinals,18
+2010-11-14,San Francisco 49ers,23,St. Louis Rams,20
+2010-11-14,Dallas Cowboys,33,New York Giants,20
+2010-11-14,New England Patriots,39,Pittsburgh Steelers,26
+2010-11-15,Philadelphia Eagles,59,Washington Redskins,28
+2010-11-18,Chicago Bears,16,Miami Dolphins,0
+2010-11-21,Dallas Cowboys,35,Detroit Lions,19
+2010-11-21,Buffalo Bills,49,Cincinnati Bengals,31
+2010-11-21,Pittsburgh Steelers,35,Oakland Raiders,3
+2010-11-21,Kansas City Chiefs,31,Arizona Cardinals,13
+2010-11-21,Jacksonville Jaguars,24,Cleveland Browns,20
+2010-11-21,Washington Redskins,19,Tennessee Titans,16
+2010-11-21,New York Jets,30,Houston Texans,27
+2010-11-21,Baltimore Ravens,37,Carolina Panthers,13
+2010-11-21,Green Bay Packers,31,Minnesota Vikings,3
+2010-11-21,Tampa Bay Buccaneers,21,San Francisco 49ers,0
+2010-11-21,Atlanta Falcons,34,St. Louis Rams,17
+2010-11-21,New Orleans Saints,34,Seattle Seahawks,19
+2010-11-21,New England Patriots,31,Indianapolis Colts,28
+2010-11-21,Philadelphia Eagles,27,New York Giants,17
+2010-11-22,San Diego Chargers,35,Denver Broncos,14
+2010-11-25,New England Patriots,45,Detroit Lions,24
+2010-11-25,New Orleans Saints,30,Dallas Cowboys,27
+2010-11-25,New York Jets,26,Cincinnati Bengals,10
+2010-11-28,Pittsburgh Steelers,19,Buffalo Bills,16
+2010-11-28,Minnesota Vikings,17,Washington Redskins,13
+2010-11-28,Atlanta Falcons,20,Green Bay Packers,17
+2010-11-28,New York Giants,24,Jacksonville Jaguars,20
+2010-11-28,Houston Texans,20,Tennessee Titans,0
+2010-11-28,Cleveland Browns,24,Carolina Panthers,23
+2010-11-28,Miami Dolphins,33,Oakland Raiders,17
+2010-11-28,Kansas City Chiefs,42,Seattle Seahawks,24
+2010-11-28,Chicago Bears,31,Philadelphia Eagles,26
+2010-11-28,Baltimore Ravens,17,Tampa Bay Buccaneers,10
+2010-11-28,St. Louis Rams,36,Denver Broncos,33
+2010-11-28,San Diego Chargers,36,Indianapolis Colts,14
+2010-11-29,Arizona Cardinals,6,San Francisco 49ers,27
+2010-12-02,Philadelphia Eagles,34,Houston Texans,24
+2010-12-05,Green Bay Packers,34,San Francisco 49ers,16
+2010-12-05,Washington Redskins,7,New York Giants,31
+2010-12-05,Cleveland Browns,13,Miami Dolphins,10
+2010-12-05,Chicago Bears,24,Detroit Lions,20
+2010-12-05,New Orleans Saints,34,Cincinnati Bengals,30
+2010-12-05,Tennessee Titans,6,Jacksonville Jaguars,17
+2010-12-05,Denver Broncos,6,Kansas City Chiefs,10
+2010-12-05,Minnesota Vikings,38,Buffalo Bills,14
+2010-12-05,Oakland Raiders,28,San Diego Chargers,13
+2010-12-05,Arizona Cardinals,6,St. Louis Rams,19
+2010-12-05,Dallas Cowboys,38,Indianapolis Colts,35
+2010-12-05,Atlanta Falcons,28,Tampa Bay Buccaneers,24
+2010-12-05,Seattle Seahawks,31,Carolina Panthers,14
+2010-12-05,Pittsburgh Steelers,13,Baltimore Ravens,10
+2010-12-06,New England Patriots,45,New York Jets,3
+2010-12-09,Indianapolis Colts,30,Tennessee Titans,28
+2010-12-12,Cleveland Browns,6,Buffalo Bills,13
+2010-12-12,Cincinnati Bengals,7,Pittsburgh Steelers,23
+2010-12-12,Jacksonville Jaguars,38,Oakland Raiders,31
+2010-12-12,Tampa Bay Buccaneers,17,Washington Redskins,16
+2010-12-12,Atlanta Falcons,31,Carolina Panthers,10
+2010-12-12,Detroit Lions,7,Green Bay Packers,3
+2010-12-12,San Francisco 49ers,40,Seattle Seahawks,21
+2010-12-12,New Orleans Saints,31,St. Louis Rams,13
+2010-12-12,Arizona Cardinals,43,Denver Broncos,13
+2010-12-12,San Diego Chargers,31,Kansas City Chiefs,0
+2010-12-12,New York Jets,6,Miami Dolphins,10
+2010-12-12,Chicago Bears,7,New England Patriots,36
+2010-12-12,Philadelphia Eagles,30,Dallas Cowboys,27
+2010-12-13,Minnesota Vikings,3,New York Giants,21
+2010-12-13,Baltimore Ravens,34,Houston Texans,28
+2010-12-16,San Francisco 49ers,7,San Diego Chargers,34
+2010-12-19,Kansas City Chiefs,27,St. Louis Rams,13
+2010-12-19,Buffalo Bills,17,Miami Dolphins,14
+2010-12-19,Indianapolis Colts,34,Jacksonville Jaguars,24
+2010-12-19,Cincinnati Bengals,19,Cleveland Browns,17
+2010-12-19,Tennessee Titans,31,Houston Texans,17
+2010-12-19,Dallas Cowboys,33,Washington Redskins,30
+2010-12-19,Detroit Lions,23,Tampa Bay Buccaneers,20
+2010-12-19,Baltimore Ravens,30,New Orleans Saints,24
+2010-12-19,Philadelphia Eagles,38,New York Giants,31
+2010-12-19,Carolina Panthers,19,Arizona Cardinals,12
+2010-12-19,Atlanta Falcons,34,Seattle Seahawks,18
+2010-12-19,Oakland Raiders,39,Denver Broncos,23
+2010-12-19,New York Jets,22,Pittsburgh Steelers,17
+2010-12-19,New England Patriots,31,Green Bay Packers,27
+2010-12-20,Chicago Bears,40,Minnesota Vikings,14
+2010-12-23,Carolina Panthers,3,Pittsburgh Steelers,27
+2010-12-25,Arizona Cardinals,27,Dallas Cowboys,26
+2010-12-26,St. Louis Rams,25,San Francisco 49ers,17
+2010-12-26,Baltimore Ravens,20,Cleveland Browns,10
+2010-12-26,Chicago Bears,38,New York Jets,34
+2010-12-26,New England Patriots,34,Buffalo Bills,3
+2010-12-26,Detroit Lions,34,Miami Dolphins,27
+2010-12-26,Kansas City Chiefs,34,Tennessee Titans,14
+2010-12-26,Washington Redskins,20,Jacksonville Jaguars,17
+2010-12-26,Cincinnati Bengals,34,San Diego Chargers,20
+2010-12-26,Indianapolis Colts,31,Oakland Raiders,26
+2010-12-26,Denver Broncos,24,Houston Texans,23
+2010-12-26,Green Bay Packers,45,New York Giants,17
+2010-12-26,Tampa Bay Buccaneers,38,Seattle Seahawks,15
+2010-12-27,New Orleans Saints,17,Atlanta Falcons,14
+2010-12-28,Minnesota Vikings,24,Philadelphia Eagles,14
+2011-01-02,Tampa Bay Buccaneers,23,New Orleans Saints,13
+2011-01-02,Cincinnati Bengals,7,Baltimore Ravens,13
+2011-01-02,Cleveland Browns,9,Pittsburgh Steelers,41
+2011-01-02,Miami Dolphins,7,New England Patriots,38
+2011-01-02,Oakland Raiders,31,Kansas City Chiefs,10
+2011-01-02,Detroit Lions,20,Minnesota Vikings,13
+2011-01-02,Atlanta Falcons,31,Carolina Panthers,10
+2011-01-02,Buffalo Bills,7,New York Jets,38
+2011-01-02,Chicago Bears,3,Green Bay Packers,10
+2011-01-02,Arizona Cardinals,7,San Francisco 49ers,38
+2011-01-02,San Diego Chargers,33,Denver Broncos,28
+2011-01-02,Dallas Cowboys,14,Philadelphia Eagles,13
+2011-01-02,Houston Texans,34,Jacksonville Jaguars,17
+2011-01-02,New York Giants,17,Washington Redskins,14
+2011-01-02,Indianapolis Colts,23,Tennessee Titans,20
+2011-01-02,St. Louis Rams,6,Seattle Seahawks,16
+2011-09-08,Green Bay Packers,42,New Orleans Saints,34
+2011-09-11,Philadelphia Eagles,31,St. Louis Rams,13
+2011-09-11,Jacksonville Jaguars,16,Tennessee Titans,14
+2011-09-11,Indianapolis Colts,7,Houston Texans,34
+2011-09-11,Pittsburgh Steelers,7,Baltimore Ravens,35
+2011-09-11,Cincinnati Bengals,27,Cleveland Browns,17
+2011-09-11,Detroit Lions,27,Tampa Bay Buccaneers,20
+2011-09-11,Chicago Bears,30,Atlanta Falcons,12
+2011-09-11,Kansas City Chiefs,7,Buffalo Bills,41
+2011-09-11,Arizona Cardinals,28,Carolina Panthers,21
+2011-09-11,San Diego Chargers,24,Minnesota Vikings,17
+2011-09-11,San Francisco 49ers,33,Seattle Seahawks,17
+2011-09-11,Washington Redskins,28,New York Giants,14
+2011-09-11,New York Jets,27,Dallas Cowboys,24
+2011-09-12,New England Patriots,38,Miami Dolphins,24
+2011-09-12,Oakland Raiders,23,Denver Broncos,20
+2011-09-18,Detroit Lions,48,Kansas City Chiefs,3
+2011-09-18,Cleveland Browns,27,Indianapolis Colts,19
+2011-09-18,Green Bay Packers,30,Carolina Panthers,23
+2011-09-18,Pittsburgh Steelers,24,Seattle Seahawks,0
+2011-09-18,Tennessee Titans,26,Baltimore Ravens,13
+2011-09-18,New York Jets,32,Jacksonville Jaguars,3
+2011-09-18,New Orleans Saints,30,Chicago Bears,13
+2011-09-18,Washington Redskins,22,Arizona Cardinals,21
+2011-09-18,Buffalo Bills,38,Oakland Raiders,35
+2011-09-18,Tampa Bay Buccaneers,24,Minnesota Vikings,20
+2011-09-18,Dallas Cowboys,27,San Francisco 49ers,24
+2011-09-18,Denver Broncos,24,Cincinnati Bengals,22
+2011-09-18,New England Patriots,35,San Diego Chargers,21
+2011-09-18,Houston Texans,23,Miami Dolphins,13
+2011-09-18,Atlanta Falcons,35,Philadelphia Eagles,31
+2011-09-19,New York Giants,28,St. Louis Rams,16
+2011-09-25,Cleveland Browns,17,Miami Dolphins,16
+2011-09-25,Cincinnati Bengals,8,San Francisco 49ers,13
+2011-09-25,Carolina Panthers,16,Jacksonville Jaguars,10
+2011-09-25,Tennessee Titans,17,Denver Broncos,14
+2011-09-25,New Orleans Saints,40,Houston Texans,33
+2011-09-25,Buffalo Bills,34,New England Patriots,31
+2011-09-25,New York Giants,29,Philadelphia Eagles,16
+2011-09-25,Detroit Lions,26,Minnesota Vikings,23
+2011-09-25,Oakland Raiders,34,New York Jets,24
+2011-09-25,San Diego Chargers,20,Kansas City Chiefs,17
+2011-09-25,St. Louis Rams,7,Baltimore Ravens,37
+2011-09-25,Seattle Seahawks,13,Arizona Cardinals,10
+2011-09-25,Green Bay Packers,27,Chicago Bears,17
+2011-09-25,Tampa Bay Buccaneers,16,Atlanta Falcons,13
+2011-09-25,Pittsburgh Steelers,23,Indianapolis Colts,20
+2011-09-26,Dallas Cowboys,18,Washington Redskins,16
+2011-10-02,Washington Redskins,17,St. Louis Rams,10
+2011-10-02,Detroit Lions,34,Dallas Cowboys,30
+2011-10-02,Kansas City Chiefs,22,Minnesota Vikings,17
+2011-10-02,Tennessee Titans,31,Cleveland Browns,13
+2011-10-02,Cincinnati Bengals,23,Buffalo Bills,20
+2011-10-02,San Francisco 49ers,24,Philadelphia Eagles,23
+2011-10-02,New Orleans Saints,23,Jacksonville Jaguars,10
+2011-10-02,Houston Texans,17,Pittsburgh Steelers,10
+2011-10-02,Chicago Bears,34,Carolina Panthers,29
+2011-10-02,New York Giants,31,Arizona Cardinals,27
+2011-10-02,Atlanta Falcons,30,Seattle Seahawks,28
+2011-10-02,Green Bay Packers,49,Denver Broncos,23
+2011-10-02,San Diego Chargers,26,Miami Dolphins,16
+2011-10-02,New England Patriots,31,Oakland Raiders,19
+2011-10-02,Baltimore Ravens,34,New York Jets,17
+2011-10-03,Tampa Bay Buccaneers,24,Indianapolis Colts,17
+2011-10-09,Oakland Raiders,25,Houston Texans,20
+2011-10-09,Kansas City Chiefs,28,Indianapolis Colts,24
+2011-10-09,Pittsburgh Steelers,38,Tennessee Titans,17
+2011-10-09,Cincinnati Bengals,30,Jacksonville Jaguars,20
+2011-10-09,New Orleans Saints,30,Carolina Panthers,27
+2011-10-09,Buffalo Bills,31,Philadelphia Eagles,24
+2011-10-09,Seattle Seahawks,36,New York Giants,25
+2011-10-09,Minnesota Vikings,34,Arizona Cardinals,10
+2011-10-09,San Francisco 49ers,48,Tampa Bay Buccaneers,3
+2011-10-09,New England Patriots,30,New York Jets,21
+2011-10-09,San Diego Chargers,29,Denver Broncos,24
+2011-10-09,Green Bay Packers,25,Atlanta Falcons,14
+2011-10-10,Detroit Lions,24,Chicago Bears,13
+2011-10-16,St. Louis Rams,3,Green Bay Packers,24
+2011-10-16,Cincinnati Bengals,27,Indianapolis Colts,17
+2011-10-16,Atlanta Falcons,31,Carolina Panthers,17
+2011-10-16,Pittsburgh Steelers,17,Jacksonville Jaguars,13
+2011-10-16,New York Giants,27,Buffalo Bills,24
+2011-10-16,San Francisco 49ers,25,Detroit Lions,19
+2011-10-16,Philadelphia Eagles,20,Washington Redskins,13
+2011-10-16,Oakland Raiders,24,Cleveland Browns,17
+2011-10-16,Baltimore Ravens,29,Houston Texans,14
+2011-10-16,New England Patriots,20,Dallas Cowboys,16
+2011-10-16,Tampa Bay Buccaneers,26,New Orleans Saints,20
+2011-10-16,Chicago Bears,39,Minnesota Vikings,10
+2011-10-17,Miami Dolphins,6,New York Jets,24
+2011-10-23,Denver Broncos,18,Miami Dolphins,15
+2011-10-23,Tennessee Titans,7,Houston Texans,41
+2011-10-23,New York Jets,27,San Diego Chargers,21
+2011-10-23,Atlanta Falcons,23,Detroit Lions,16
+2011-10-23,Cleveland Browns,6,Seattle Seahawks,3
+2011-10-23,Chicago Bears,24,Tampa Bay Buccaneers,18
+2011-10-23,Carolina Panthers,33,Washington Redskins,20
+2011-10-23,Pittsburgh Steelers,32,Arizona Cardinals,20
+2011-10-23,St. Louis Rams,7,Dallas Cowboys,34
+2011-10-23,Green Bay Packers,33,Minnesota Vikings,27
+2011-10-23,Kansas City Chiefs,28,Oakland Raiders,0
+2011-10-23,Indianapolis Colts,7,New Orleans Saints,62
+2011-10-24,Baltimore Ravens,7,Jacksonville Jaguars,12
+2011-10-30,St. Louis Rams,31,New Orleans Saints,21
+2011-10-30,Tennessee Titans,27,Indianapolis Colts,10
+2011-10-30,New York Giants,20,Miami Dolphins,17
+2011-10-30,Houston Texans,24,Jacksonville Jaguars,14
+2011-10-30,Baltimore Ravens,30,Arizona Cardinals,27
+2011-10-30,Minnesota Vikings,24,Carolina Panthers,21
+2011-10-30,Buffalo Bills,23,Washington Redskins,0
+2011-10-30,Detroit Lions,45,Denver Broncos,10
+2011-10-30,San Francisco 49ers,20,Cleveland Browns,10
+2011-10-30,Pittsburgh Steelers,25,New England Patriots,17
+2011-10-30,Cincinnati Bengals,34,Seattle Seahawks,12
+2011-10-30,Dallas Cowboys,7,Philadelphia Eagles,34
+2011-10-31,Kansas City Chiefs,23,San Diego Chargers,20
+2011-11-06,Dallas Cowboys,23,Seattle Seahawks,13
+2011-11-06,Indianapolis Colts,7,Atlanta Falcons,31
+2011-11-06,Miami Dolphins,31,Kansas City Chiefs,3
+2011-11-06,Houston Texans,30,Cleveland Browns,12
+2011-11-06,San Francisco 49ers,19,Washington Redskins,11
+2011-11-06,New York Jets,27,Buffalo Bills,11
+2011-11-06,New Orleans Saints,27,Tampa Bay Buccaneers,16
+2011-11-06,Denver Broncos,38,Oakland Raiders,24
+2011-11-06,Cincinnati Bengals,24,Tennessee Titans,17
+2011-11-06,Arizona Cardinals,19,St. Louis Rams,13
+2011-11-06,Green Bay Packers,45,San Diego Chargers,38
+2011-11-06,New York Giants,24,New England Patriots,20
+2011-11-06,Baltimore Ravens,23,Pittsburgh Steelers,20
+2011-11-07,Chicago Bears,30,Philadelphia Eagles,24
+2011-11-10,Oakland Raiders,24,San Diego Chargers,17
+2011-11-13,Pittsburgh Steelers,24,Cincinnati Bengals,17
+2011-11-13,Tampa Bay Buccaneers,9,Houston Texans,37
+2011-11-13,Arizona Cardinals,21,Philadelphia Eagles,17
+2011-11-13,Buffalo Bills,7,Dallas Cowboys,44
+2011-11-13,Indianapolis Colts,3,Jacksonville Jaguars,17
+2011-11-13,St. Louis Rams,13,Cleveland Browns,12
+2011-11-13,New Orleans Saints,26,Atlanta Falcons,23
+2011-11-13,Washington Redskins,9,Miami Dolphins,20
+2011-11-13,Denver Broncos,17,Kansas City Chiefs,10
+2011-11-13,Tennessee Titans,30,Carolina Panthers,3
+2011-11-13,Seattle Seahawks,22,Baltimore Ravens,17
+2011-11-13,San Francisco 49ers,27,New York Giants,20
+2011-11-13,Chicago Bears,37,Detroit Lions,13
+2011-11-13,New England Patriots,37,New York Jets,16
+2011-11-14,Minnesota Vikings,7,Green Bay Packers,45
+2011-11-17,Denver Broncos,17,New York Jets,13
+2011-11-20,Green Bay Packers,35,Tampa Bay Buccaneers,26
+2011-11-20,Detroit Lions,49,Carolina Panthers,35
+2011-11-20,Cleveland Browns,14,Jacksonville Jaguars,10
+2011-11-20,Baltimore Ravens,31,Cincinnati Bengals,24
+2011-11-20,Buffalo Bills,8,Miami Dolphins,35
+2011-11-20,Dallas Cowboys,27,Washington Redskins,24
+2011-11-20,Oakland Raiders,27,Minnesota Vikings,21
+2011-11-20,Arizona Cardinals,7,San Francisco 49ers,23
+2011-11-20,St. Louis Rams,7,Seattle Seahawks,24
+2011-11-20,Atlanta Falcons,23,Tennessee Titans,17
+2011-11-20,Chicago Bears,31,San Diego Chargers,20
+2011-11-20,Philadelphia Eagles,17,New York Giants,10
+2011-11-21,New England Patriots,34,Kansas City Chiefs,3
+2011-11-24,Green Bay Packers,27,Detroit Lions,15
+2011-11-24,Dallas Cowboys,20,Miami Dolphins,19
+2011-11-24,San Francisco 49ers,6,Baltimore Ravens,16
+2011-11-27,Arizona Cardinals,23,St. Louis Rams,20
+2011-11-27,Cincinnati Bengals,23,Cleveland Browns,20
+2011-11-27,Atlanta Falcons,24,Minnesota Vikings,14
+2011-11-27,Tennessee Titans,23,Tampa Bay Buccaneers,17
+2011-11-27,New York Jets,28,Buffalo Bills,24
+2011-11-27,Carolina Panthers,27,Indianapolis Colts,19
+2011-11-27,Houston Texans,20,Jacksonville Jaguars,13
+2011-11-27,Oakland Raiders,25,Chicago Bears,20
+2011-11-27,Washington Redskins,23,Seattle Seahawks,17
+2011-11-27,Denver Broncos,16,San Diego Chargers,13
+2011-11-27,New England Patriots,38,Philadelphia Eagles,20
+2011-11-27,Kansas City Chiefs,9,Pittsburgh Steelers,13
+2011-11-28,New Orleans Saints,49,New York Giants,24
+2011-12-01,Seattle Seahawks,31,Philadelphia Eagles,14
+2011-12-04,Carolina Panthers,38,Tampa Bay Buccaneers,19
+2011-12-04,Tennessee Titans,23,Buffalo Bills,17
+2011-12-04,Cincinnati Bengals,7,Pittsburgh Steelers,35
+2011-12-04,New England Patriots,31,Indianapolis Colts,24
+2011-12-04,Houston Texans,17,Atlanta Falcons,10
+2011-12-04,New York Jets,34,Washington Redskins,19
+2011-12-04,Chicago Bears,3,Kansas City Chiefs,10
+2011-12-04,Miami Dolphins,34,Oakland Raiders,14
+2011-12-04,Denver Broncos,35,Minnesota Vikings,32
+2011-12-04,Baltimore Ravens,24,Cleveland Browns,10
+2011-12-04,Arizona Cardinals,19,Dallas Cowboys,13
+2011-12-04,San Francisco 49ers,26,St. Louis Rams,0
+2011-12-04,Green Bay Packers,38,New York Giants,35
+2011-12-04,New Orleans Saints,31,Detroit Lions,17
+2011-12-05,San Diego Chargers,38,Jacksonville Jaguars,14
+2011-12-08,Cleveland Browns,3,Pittsburgh Steelers,14
+2011-12-11,Houston Texans,20,Cincinnati Bengals,19
+2011-12-11,Baltimore Ravens,24,Indianapolis Colts,10
+2011-12-11,New York Jets,37,Kansas City Chiefs,10
+2011-12-11,New England Patriots,34,Washington Redskins,27
+2011-12-11,New Orleans Saints,22,Tennessee Titans,17
+2011-12-11,Philadelphia Eagles,26,Miami Dolphins,10
+2011-12-11,Jacksonville Jaguars,41,Tampa Bay Buccaneers,14
+2011-12-11,Detroit Lions,34,Minnesota Vikings,28
+2011-12-11,Atlanta Falcons,31,Carolina Panthers,23
+2011-12-11,Denver Broncos,13,Chicago Bears,10
+2011-12-11,Arizona Cardinals,21,San Francisco 49ers,19
+2011-12-11,San Diego Chargers,37,Buffalo Bills,10
+2011-12-11,Green Bay Packers,46,Oakland Raiders,16
+2011-12-11,New York Giants,37,Dallas Cowboys,34
+2011-12-12,Seattle Seahawks,30,St. Louis Rams,13
+2011-12-15,Atlanta Falcons,41,Jacksonville Jaguars,14
+2011-12-17,Dallas Cowboys,31,Tampa Bay Buccaneers,15
+2011-12-18,Cincinnati Bengals,20,St. Louis Rams,13
+2011-12-18,Miami Dolphins,30,Buffalo Bills,23
+2011-12-18,Washington Redskins,23,New York Giants,10
+2011-12-18,Indianapolis Colts,27,Tennessee Titans,13
+2011-12-18,Seattle Seahawks,38,Chicago Bears,14
+2011-12-18,Kansas City Chiefs,19,Green Bay Packers,14
+2011-12-18,Carolina Panthers,28,Houston Texans,13
+2011-12-18,New Orleans Saints,42,Minnesota Vikings,20
+2011-12-18,Detroit Lions,28,Oakland Raiders,27
+2011-12-18,Arizona Cardinals,20,Cleveland Browns,17
+2011-12-18,Philadelphia Eagles,45,New York Jets,19
+2011-12-18,New England Patriots,41,Denver Broncos,23
+2011-12-18,San Diego Chargers,34,Baltimore Ravens,14
+2011-12-19,Pittsburgh Steelers,3,San Francisco 49ers,20
+2011-12-22,Indianapolis Colts,19,Houston Texans,16
+2011-12-24,Cincinnati Bengals,23,Arizona Cardinals,16
+2011-12-24,Buffalo Bills,40,Denver Broncos,14
+2011-12-24,Pittsburgh Steelers,27,St. Louis Rams,0
+2011-12-24,Tennessee Titans,23,Jacksonville Jaguars,17
+2011-12-24,New England Patriots,27,Miami Dolphins,24
+2011-12-24,Baltimore Ravens,20,Cleveland Browns,14
+2011-12-24,New York Giants,29,New York Jets,14
+2011-12-24,Oakland Raiders,16,Kansas City Chiefs,13
+2011-12-24,Carolina Panthers,48,Tampa Bay Buccaneers,16
+2011-12-24,Minnesota Vikings,33,Washington Redskins,26
+2011-12-24,Detroit Lions,38,San Diego Chargers,10
+2011-12-24,Dallas Cowboys,7,Philadelphia Eagles,20
+2011-12-24,San Francisco 49ers,19,Seattle Seahawks,17
+2011-12-25,Green Bay Packers,35,Chicago Bears,21
+2011-12-26,New Orleans Saints,45,Atlanta Falcons,16
+2012-01-01,San Francisco 49ers,34,St. Louis Rams,27
+2012-01-01,Green Bay Packers,45,Detroit Lions,41
+2012-01-01,Philadelphia Eagles,34,Washington Redskins,10
+2012-01-01,New England Patriots,49,Buffalo Bills,21
+2012-01-01,Miami Dolphins,19,New York Jets,17
+2012-01-01,Tennessee Titans,23,Houston Texans,22
+2012-01-01,New Orleans Saints,45,Carolina Panthers,17
+2012-01-01,Jacksonville Jaguars,19,Indianapolis Colts,13
+2012-01-01,Chicago Bears,17,Minnesota Vikings,13
+2012-01-01,San Diego Chargers,38,Oakland Raiders,26
+2012-01-01,Arizona Cardinals,23,Seattle Seahawks,20
+2012-01-01,Kansas City Chiefs,7,Denver Broncos,3
+2012-01-01,Cleveland Browns,9,Pittsburgh Steelers,13
+2012-01-01,Baltimore Ravens,24,Cincinnati Bengals,16
+2012-01-01,Atlanta Falcons,45,Tampa Bay Buccaneers,24
+2012-01-01,New York Giants,31,Dallas Cowboys,14
+2012-09-05,Dallas Cowboys,24,New York Giants,17
+2012-09-09,Chicago Bears,41,Indianapolis Colts,21
+2012-09-09,Detroit Lions,27,St. Louis Rams,23
+2012-09-09,Philadelphia Eagles,17,Cleveland Browns,16
+2012-09-09,New England Patriots,34,Tennessee Titans,13
+2012-09-09,New York Jets,48,Buffalo Bills,28
+2012-09-09,Washington Redskins,40,New Orleans Saints,32
+2012-09-09,Atlanta Falcons,40,Kansas City Chiefs,24
+2012-09-09,Houston Texans,30,Miami Dolphins,10
+2012-09-09,Minnesota Vikings,26,Jacksonville Jaguars,23
+2012-09-09,Arizona Cardinals,20,Seattle Seahawks,16
+2012-09-09,San Francisco 49ers,30,Green Bay Packers,22
+2012-09-09,Tampa Bay Buccaneers,16,Carolina Panthers,10
+2012-09-09,Denver Broncos,31,Pittsburgh Steelers,19
+2012-09-10,Baltimore Ravens,44,Cincinnati Bengals,13
+2012-09-10,San Diego Chargers,22,Oakland Raiders,14
+2012-09-13,Green Bay Packers,23,Chicago Bears,10
+2012-09-16,Cincinnati Bengals,34,Cleveland Browns,27
+2012-09-16,Buffalo Bills,35,Kansas City Chiefs,17
+2012-09-16,Arizona Cardinals,20,New England Patriots,18
+2012-09-16,Miami Dolphins,35,Oakland Raiders,13
+2012-09-16,Jacksonville Jaguars,7,Houston Texans,27
+2012-09-16,Indianapolis Colts,23,Minnesota Vikings,20
+2012-09-16,Carolina Panthers,35,New Orleans Saints,27
+2012-09-16,Philadelphia Eagles,24,Baltimore Ravens,23
+2012-09-16,New York Giants,41,Tampa Bay Buccaneers,34
+2012-09-16,St. Louis Rams,31,Washington Redskins,28
+2012-09-16,Dallas Cowboys,7,Seattle Seahawks,27
+2012-09-16,San Diego Chargers,38,Tennessee Titans,10
+2012-09-16,Pittsburgh Steelers,27,New York Jets,10
+2012-09-16,San Francisco 49ers,27,Detroit Lions,19
+2012-09-17,Atlanta Falcons,27,Denver Broncos,21
+2012-09-20,Carolina Panthers,7,New York Giants,36
+2012-09-23,Buffalo Bills,24,Cleveland Browns,14
+2012-09-23,Kansas City Chiefs,27,New Orleans Saints,24
+2012-09-23,Cincinnati Bengals,38,Washington Redskins,31
+2012-09-23,Jacksonville Jaguars,22,Indianapolis Colts,17
+2012-09-23,Tennessee Titans,44,Detroit Lions,41
+2012-09-23,New York Jets,23,Miami Dolphins,20
+2012-09-23,St. Louis Rams,6,Chicago Bears,23
+2012-09-23,Dallas Cowboys,16,Tampa Bay Buccaneers,10
+2012-09-23,Minnesota Vikings,24,San Francisco 49ers,13
+2012-09-23,Philadelphia Eagles,6,Arizona Cardinals,27
+2012-09-23,San Diego Chargers,3,Atlanta Falcons,27
+2012-09-23,Oakland Raiders,34,Pittsburgh Steelers,31
+2012-09-23,Houston Texans,31,Denver Broncos,25
+2012-09-23,Baltimore Ravens,31,New England Patriots,30
+2012-09-24,Seattle Seahawks,14,Green Bay Packers,12
+2012-09-27,Baltimore Ravens,23,Cleveland Browns,16
+2012-09-30,St. Louis Rams,19,Seattle Seahawks,13
+2012-09-30,New England Patriots,52,Buffalo Bills,28
+2012-09-30,Minnesota Vikings,20,Detroit Lions,13
+2012-09-30,Atlanta Falcons,30,Carolina Panthers,28
+2012-09-30,San Francisco 49ers,34,New York Jets,0
+2012-09-30,San Diego Chargers,37,Kansas City Chiefs,20
+2012-09-30,Houston Texans,38,Tennessee Titans,14
+2012-09-30,Arizona Cardinals,24,Miami Dolphins,21
+2012-09-30,Oakland Raiders,6,Denver Broncos,37
+2012-09-30,Cincinnati Bengals,27,Jacksonville Jaguars,10
+2012-09-30,Washington Redskins,24,Tampa Bay Buccaneers,22
+2012-09-30,Green Bay Packers,28,New Orleans Saints,27
+2012-09-30,Philadelphia Eagles,19,New York Giants,17
+2012-10-01,Chicago Bears,34,Dallas Cowboys,18
+2012-10-04,Arizona Cardinals,3,St. Louis Rams,17
+2012-10-07,Baltimore Ravens,9,Kansas City Chiefs,6
+2012-10-07,Pittsburgh Steelers,16,Philadelphia Eagles,14
+2012-10-07,New York Giants,41,Cleveland Browns,27
+2012-10-07,Indianapolis Colts,30,Green Bay Packers,27
+2012-10-07,Miami Dolphins,17,Cincinnati Bengals,13
+2012-10-07,Atlanta Falcons,24,Washington Redskins,17
+2012-10-07,Seattle Seahawks,16,Carolina Panthers,12
+2012-10-07,Chicago Bears,41,Jacksonville Jaguars,3
+2012-10-07,Tennessee Titans,7,Minnesota Vikings,30
+2012-10-07,San Francisco 49ers,45,Buffalo Bills,3
+2012-10-07,New England Patriots,31,Denver Broncos,21
+2012-10-07,New Orleans Saints,31,San Diego Chargers,24
+2012-10-08,Houston Texans,23,New York Jets,17
+2012-10-11,Tennessee Titans,26,Pittsburgh Steelers,23
+2012-10-14,Miami Dolphins,17,St. Louis Rams,14
+2012-10-14,Tampa Bay Buccaneers,38,Kansas City Chiefs,10
+2012-10-14,Atlanta Falcons,23,Oakland Raiders,20
+2012-10-14,Cleveland Browns,34,Cincinnati Bengals,24
+2012-10-14,Baltimore Ravens,31,Dallas Cowboys,29
+2012-10-14,Indianapolis Colts,9,New York Jets,35
+2012-10-14,Detroit Lions,26,Philadelphia Eagles,23
+2012-10-14,Seattle Seahawks,24,New England Patriots,23
+2012-10-14,Buffalo Bills,19,Arizona Cardinals,16
+2012-10-14,San Francisco 49ers,3,New York Giants,26
+2012-10-14,Washington Redskins,38,Minnesota Vikings,26
+2012-10-14,Green Bay Packers,42,Houston Texans,24
+2012-10-15,Denver Broncos,35,San Diego Chargers,24
+2012-10-18,Seattle Seahawks,6,San Francisco 49ers,13
+2012-10-21,Green Bay Packers,30,St. Louis Rams,20
+2012-10-21,Houston Texans,43,Baltimore Ravens,13
+2012-10-21,Indianapolis Colts,17,Cleveland Browns,13
+2012-10-21,Tennessee Titans,35,Buffalo Bills,34
+2012-10-21,New Orleans Saints,35,Tampa Bay Buccaneers,28
+2012-10-21,Dallas Cowboys,19,Carolina Panthers,14
+2012-10-21,New York Giants,27,Washington Redskins,23
+2012-10-21,Minnesota Vikings,21,Arizona Cardinals,14
+2012-10-21,Oakland Raiders,26,Jacksonville Jaguars,23
+2012-10-21,New England Patriots,29,New York Jets,26
+2012-10-21,Pittsburgh Steelers,24,Cincinnati Bengals,17
+2012-10-22,Detroit Lions,7,Chicago Bears,13
+2012-10-25,Tampa Bay Buccaneers,36,Minnesota Vikings,17
+2012-10-28,Pittsburgh Steelers,27,Washington Redskins,12
+2012-10-28,Detroit Lions,28,Seattle Seahawks,24
+2012-10-28,Chicago Bears,23,Carolina Panthers,22
+2012-10-28,Atlanta Falcons,30,Philadelphia Eagles,17
+2012-10-28,Green Bay Packers,24,Jacksonville Jaguars,15
+2012-10-28,Cleveland Browns,7,San Diego Chargers,6
+2012-10-28,St. Louis Rams,7,New England Patriots,45
+2012-10-28,Indianapolis Colts,19,Tennessee Titans,13
+2012-10-28,New York Jets,9,Miami Dolphins,30
+2012-10-28,Oakland Raiders,26,Kansas City Chiefs,16
+2012-10-28,New York Giants,29,Dallas Cowboys,24
+2012-10-28,Denver Broncos,34,New Orleans Saints,14
+2012-10-29,Arizona Cardinals,3,San Francisco 49ers,24
+2012-11-01,San Diego Chargers,31,Kansas City Chiefs,13
+2012-11-04,Green Bay Packers,31,Arizona Cardinals,17
+2012-11-04,Indianapolis Colts,23,Miami Dolphins,20
+2012-11-04,Denver Broncos,31,Cincinnati Bengals,23
+2012-11-04,Buffalo Bills,9,Houston Texans,21
+2012-11-04,Baltimore Ravens,25,Cleveland Browns,15
+2012-11-04,Chicago Bears,51,Tennessee Titans,20
+2012-11-04,Detroit Lions,31,Jacksonville Jaguars,14
+2012-11-04,Carolina Panthers,21,Washington Redskins,13
+2012-11-04,Tampa Bay Buccaneers,42,Oakland Raiders,32
+2012-11-04,Seattle Seahawks,30,Minnesota Vikings,20
+2012-11-04,Pittsburgh Steelers,24,New York Giants,20
+2012-11-04,Atlanta Falcons,19,Dallas Cowboys,13
+2012-11-05,New Orleans Saints,28,Philadelphia Eagles,13
+2012-11-08,Indianapolis Colts,27,Jacksonville Jaguars,10
+2012-11-11,Denver Broncos,36,Carolina Panthers,14
+2012-11-11,Baltimore Ravens,55,Oakland Raiders,20
+2012-11-11,New England Patriots,37,Buffalo Bills,31
+2012-11-11,New Orleans Saints,31,Atlanta Falcons,27
+2012-11-11,Tennessee Titans,37,Miami Dolphins,3
+2012-11-11,Cincinnati Bengals,31,New York Giants,13
+2012-11-11,Tampa Bay Buccaneers,34,San Diego Chargers,24
+2012-11-11,Minnesota Vikings,34,Detroit Lions,24
+2012-11-11,New York Jets,7,Seattle Seahawks,28
+2012-11-11,San Francisco 49ers,24,St. Louis Rams,24
+2012-11-11,Dallas Cowboys,38,Philadelphia Eagles,23
+2012-11-11,Chicago Bears,6,Houston Texans,13
+2012-11-12,Pittsburgh Steelers,16,Kansas City Chiefs,13
+2012-11-15,Buffalo Bills,19,Miami Dolphins,14
+2012-11-18,New York Jets,27,St. Louis Rams,13
+2012-11-18,Green Bay Packers,24,Detroit Lions,20
+2012-11-18,Philadelphia Eagles,6,Washington Redskins,31
+2012-11-18,Atlanta Falcons,23,Arizona Cardinals,19
+2012-11-18,Kansas City Chiefs,6,Cincinnati Bengals,28
+2012-11-18,Houston Texans,43,Jacksonville Jaguars,37
+2012-11-18,Dallas Cowboys,23,Cleveland Browns,20
+2012-11-18,Tampa Bay Buccaneers,27,Carolina Panthers,21
+2012-11-18,New Orleans Saints,38,Oakland Raiders,17
+2012-11-18,Denver Broncos,30,San Diego Chargers,23
+2012-11-18,New England Patriots,59,Indianapolis Colts,24
+2012-11-18,Baltimore Ravens,13,Pittsburgh Steelers,10
+2012-11-19,Chicago Bears,7,San Francisco 49ers,32
+2012-11-22,Houston Texans,34,Detroit Lions,31
+2012-11-22,Washington Redskins,38,Dallas Cowboys,31
+2012-11-22,New England Patriots,49,New York Jets,19
+2012-11-25,Chicago Bears,28,Minnesota Vikings,10
+2012-11-25,Cleveland Browns,20,Pittsburgh Steelers,14
+2012-11-25,Cincinnati Bengals,34,Oakland Raiders,10
+2012-11-25,Atlanta Falcons,24,Tampa Bay Buccaneers,23
+2012-11-25,Miami Dolphins,24,Seattle Seahawks,21
+2012-11-25,Kansas City Chiefs,9,Denver Broncos,17
+2012-11-25,Jacksonville Jaguars,24,Tennessee Titans,19
+2012-11-25,Indianapolis Colts,20,Buffalo Bills,13
+2012-11-25,Baltimore Ravens,16,San Diego Chargers,13
+2012-11-25,San Francisco 49ers,31,New Orleans Saints,21
+2012-11-25,St. Louis Rams,31,Arizona Cardinals,17
+2012-11-25,New York Giants,38,Green Bay Packers,10
+2012-11-26,Carolina Panthers,30,Philadelphia Eagles,22
+2012-11-29,Atlanta Falcons,23,New Orleans Saints,13
+2012-12-02,St. Louis Rams,16,San Francisco 49ers,13
+2012-12-02,Buffalo Bills,34,Jacksonville Jaguars,18
+2012-12-02,Houston Texans,24,Tennessee Titans,10
+2012-12-02,New England Patriots,23,Miami Dolphins,16
+2012-12-02,Green Bay Packers,23,Minnesota Vikings,14
+2012-12-02,Indianapolis Colts,35,Detroit Lions,33
+2012-12-02,Seattle Seahawks,23,Chicago Bears,17
+2012-12-02,New York Jets,7,Arizona Cardinals,6
+2012-12-02,Kansas City Chiefs,27,Carolina Panthers,21
+2012-12-02,Denver Broncos,31,Tampa Bay Buccaneers,23
+2012-12-02,Cincinnati Bengals,20,San Diego Chargers,13
+2012-12-02,Pittsburgh Steelers,23,Baltimore Ravens,20
+2012-12-02,Cleveland Browns,20,Oakland Raiders,17
+2012-12-02,Dallas Cowboys,38,Philadelphia Eagles,33
+2012-12-03,Washington Redskins,17,New York Giants,16
+2012-12-06,Denver Broncos,26,Oakland Raiders,13
+2012-12-09,Indianapolis Colts,27,Tennessee Titans,23
+2012-12-09,Kansas City Chiefs,7,Cleveland Browns,30
+2012-12-09,St. Louis Rams,15,Buffalo Bills,12
+2012-12-09,San Diego Chargers,34,Pittsburgh Steelers,24
+2012-12-09,New York Jets,17,Jacksonville Jaguars,10
+2012-12-09,Washington Redskins,31,Baltimore Ravens,28
+2012-12-09,Dallas Cowboys,20,Cincinnati Bengals,19
+2012-12-09,Philadelphia Eagles,23,Tampa Bay Buccaneers,21
+2012-12-09,Carolina Panthers,30,Atlanta Falcons,20
+2012-12-09,Minnesota Vikings,21,Chicago Bears,14
+2012-12-09,San Francisco 49ers,27,Miami Dolphins,13
+2012-12-09,Seattle Seahawks,58,Arizona Cardinals,0
+2012-12-09,New York Giants,52,New Orleans Saints,27
+2012-12-09,Green Bay Packers,27,Detroit Lions,20
+2012-12-10,New England Patriots,42,Houston Texans,14
+2012-12-13,Cincinnati Bengals,34,Philadelphia Eagles,13
+2012-12-16,Minnesota Vikings,36,St. Louis Rams,22
+2012-12-16,Denver Broncos,34,Baltimore Ravens,17
+2012-12-16,Houston Texans,29,Indianapolis Colts,17
+2012-12-16,Washington Redskins,38,Cleveland Browns,21
+2012-12-16,Green Bay Packers,21,Chicago Bears,13
+2012-12-16,Atlanta Falcons,34,New York Giants,0
+2012-12-16,New Orleans Saints,41,Tampa Bay Buccaneers,0
+2012-12-16,Jacksonville Jaguars,3,Miami Dolphins,24
+2012-12-16,Arizona Cardinals,38,Detroit Lions,10
+2012-12-16,San Diego Chargers,7,Carolina Panthers,31
+2012-12-16,Seattle Seahawks,50,Buffalo Bills,17
+2012-12-16,Oakland Raiders,15,Kansas City Chiefs,0
+2012-12-16,Dallas Cowboys,27,Pittsburgh Steelers,24
+2012-12-16,San Francisco 49ers,41,New England Patriots,34
+2012-12-17,Tennessee Titans,14,New York Jets,10
+2012-12-22,Atlanta Falcons,31,Detroit Lions,18
+2012-12-23,Tennessee Titans,7,Green Bay Packers,55
+2012-12-23,New Orleans Saints,34,Dallas Cowboys,31
+2012-12-23,Cincinnati Bengals,13,Pittsburgh Steelers,10
+2012-12-23,Miami Dolphins,24,Buffalo Bills,10
+2012-12-23,New England Patriots,23,Jacksonville Jaguars,16
+2012-12-23,St. Louis Rams,28,Tampa Bay Buccaneers,13
+2012-12-23,Washington Redskins,27,Philadelphia Eagles,20
+2012-12-23,San Diego Chargers,27,New York Jets,17
+2012-12-23,Indianapolis Colts,20,Kansas City Chiefs,13
+2012-12-23,Houston Texans,6,Minnesota Vikings,23
+2012-12-23,Oakland Raiders,6,Carolina Panthers,17
+2012-12-23,Denver Broncos,34,Cleveland Browns,12
+2012-12-23,Baltimore Ravens,33,New York Giants,14
+2012-12-23,Chicago Bears,28,Arizona Cardinals,13
+2012-12-23,Seattle Seahawks,42,San Francisco 49ers,13
+2012-12-30,Indianapolis Colts,28,Houston Texans,16
+2012-12-30,New York Jets,9,Buffalo Bills,28
+2012-12-30,Pittsburgh Steelers,24,Cleveland Browns,10
+2012-12-30,Tampa Bay Buccaneers,22,Atlanta Falcons,17
+2012-12-30,Tennessee Titans,38,Jacksonville Jaguars,20
+2012-12-30,Chicago Bears,26,Detroit Lions,24
+2012-12-30,Cincinnati Bengals,23,Baltimore Ravens,17
+2012-12-30,Carolina Panthers,44,New Orleans Saints,38
+2012-12-30,Philadelphia Eagles,7,New York Giants,42
+2012-12-30,San Diego Chargers,24,Oakland Raiders,21
+2012-12-30,Denver Broncos,38,Kansas City Chiefs,3
+2012-12-30,San Francisco 49ers,27,Arizona Cardinals,13
+2012-12-30,New England Patriots,28,Miami Dolphins,0
+2012-12-30,Minnesota Vikings,37,Green Bay Packers,34
+2012-12-30,Seattle Seahawks,20,St. Louis Rams,13
+2012-12-30,Washington Redskins,28,Dallas Cowboys,18
+2013-09-05,Denver Broncos,49,Baltimore Ravens,27
+2013-09-08,Indianapolis Colts,21,Oakland Raiders,17
+2013-09-08,Miami Dolphins,23,Cleveland Browns,10
+2013-09-08,Chicago Bears,24,Cincinnati Bengals,21
+2013-09-08,New England Patriots,23,Buffalo Bills,21
+2013-09-08,Pittsburgh Steelers,9,Tennessee Titans,16
+2013-09-08,Detroit Lions,34,Minnesota Vikings,24
+2013-09-08,New York Jets,18,Tampa Bay Buccaneers,17
+2013-09-08,New Orleans Saints,23,Atlanta Falcons,17
+2013-09-08,Kansas City Chiefs,28,Jacksonville Jaguars,2
+2013-09-08,Carolina Panthers,7,Seattle Seahawks,12
+2013-09-08,St. Louis Rams,27,Arizona Cardinals,24
+2013-09-08,San Francisco 49ers,34,Green Bay Packers,28
+2013-09-08,Dallas Cowboys,36,New York Giants,31
+2013-09-09,Philadelphia Eagles,33,Washington Redskins,27
+2013-09-09,Houston Texans,31,San Diego Chargers,28
+2013-09-12,New England Patriots,13,New York Jets,10
+2013-09-15,Miami Dolphins,24,Indianapolis Colts,20
+2013-09-15,Buffalo Bills,24,Carolina Panthers,23
+2013-09-15,Cleveland Browns,6,Baltimore Ravens,14
+2013-09-15,San Diego Chargers,33,Philadelphia Eagles,30
+2013-09-15,Kansas City Chiefs,17,Dallas Cowboys,16
+2013-09-15,Green Bay Packers,38,Washington Redskins,20
+2013-09-15,Chicago Bears,31,Minnesota Vikings,30
+2013-09-15,Atlanta Falcons,31,St. Louis Rams,24
+2013-09-15,Houston Texans,30,Tennessee Titans,24
+2013-09-15,Arizona Cardinals,25,Detroit Lions,21
+2013-09-15,New Orleans Saints,16,Tampa Bay Buccaneers,14
+2013-09-15,Jacksonville Jaguars,9,Oakland Raiders,19
+2013-09-15,Denver Broncos,41,New York Giants,23
+2013-09-15,San Francisco 49ers,3,Seattle Seahawks,29
+2013-09-16,Cincinnati Bengals,20,Pittsburgh Steelers,10
+2013-09-19,Kansas City Chiefs,26,Philadelphia Eagles,16
+2013-09-22,St. Louis Rams,7,Dallas Cowboys,31
+2013-09-22,Tampa Bay Buccaneers,3,New England Patriots,23
+2013-09-22,Detroit Lions,27,Washington Redskins,20
+2013-09-22,Cincinnati Bengals,34,Green Bay Packers,30
+2013-09-22,Carolina Panthers,38,New York Giants,0
+2013-09-22,Houston Texans,9,Baltimore Ravens,30
+2013-09-22,Tennessee Titans,20,San Diego Chargers,17
+2013-09-22,Arizona Cardinals,7,New Orleans Saints,31
+2013-09-22,Cleveland Browns,31,Minnesota Vikings,27
+2013-09-22,Miami Dolphins,27,Atlanta Falcons,23
+2013-09-22,San Francisco 49ers,7,Indianapolis Colts,27
+2013-09-22,New York Jets,27,Buffalo Bills,20
+2013-09-22,Seattle Seahawks,45,Jacksonville Jaguars,17
+2013-09-22,Chicago Bears,40,Pittsburgh Steelers,23
+2013-09-23,Denver Broncos,37,Oakland Raiders,21
+2013-09-26,San Francisco 49ers,35,St. Louis Rams,11
+2013-09-29,Buffalo Bills,23,Baltimore Ravens,20
+2013-09-29,New York Giants,7,Kansas City Chiefs,31
+2013-09-29,Detroit Lions,40,Chicago Bears,32
+2013-09-29,Arizona Cardinals,13,Tampa Bay Buccaneers,10
+2013-09-29,Seattle Seahawks,23,Houston Texans,20
+2013-09-29,Cincinnati Bengals,6,Cleveland Browns,17
+2013-09-29,Indianapolis Colts,37,Jacksonville Jaguars,3
+2013-09-29,Minnesota Vikings,34,Pittsburgh Steelers,27
+2013-09-29,Tennessee Titans,38,New York Jets,13
+2013-09-29,Denver Broncos,52,Philadelphia Eagles,20
+2013-09-29,San Diego Chargers,30,Dallas Cowboys,21
+2013-09-29,Washington Redskins,24,Oakland Raiders,14
+2013-09-29,New England Patriots,30,Atlanta Falcons,23
+2013-09-30,New Orleans Saints,38,Miami Dolphins,17
+2013-10-03,Cleveland Browns,37,Buffalo Bills,24
+2013-10-06,St. Louis Rams,34,Jacksonville Jaguars,20
+2013-10-06,New England Patriots,6,Cincinnati Bengals,13
+2013-10-06,New Orleans Saints,26,Chicago Bears,18
+2013-10-06,Philadelphia Eagles,36,New York Giants,21
+2013-10-06,Baltimore Ravens,26,Miami Dolphins,23
+2013-10-06,Detroit Lions,9,Green Bay Packers,22
+2013-10-06,Indianapolis Colts,34,Seattle Seahawks,28
+2013-10-06,Kansas City Chiefs,26,Tennessee Titans,17
+2013-10-06,Carolina Panthers,6,Arizona Cardinals,22
+2013-10-06,Denver Broncos,51,Dallas Cowboys,48
+2013-10-06,San Francisco 49ers,34,Houston Texans,3
+2013-10-06,Oakland Raiders,27,San Diego Chargers,17
+2013-10-07,New York Jets,30,Atlanta Falcons,28
+2013-10-10,Chicago Bears,27,New York Giants,21
+2013-10-13,Detroit Lions,31,Cleveland Browns,17
+2013-10-13,Cincinnati Bengals,27,Buffalo Bills,24
+2013-10-13,Green Bay Packers,19,Baltimore Ravens,17
+2013-10-13,Oakland Raiders,7,Kansas City Chiefs,24
+2013-10-13,St. Louis Rams,38,Houston Texans,13
+2013-10-13,Philadelphia Eagles,31,Tampa Bay Buccaneers,20
+2013-10-13,New York Jets,6,Pittsburgh Steelers,19
+2013-10-13,Carolina Panthers,35,Minnesota Vikings,10
+2013-10-13,Denver Broncos,35,Jacksonville Jaguars,19
+2013-10-13,Seattle Seahawks,20,Tennessee Titans,13
+2013-10-13,San Francisco 49ers,32,Arizona Cardinals,20
+2013-10-13,New England Patriots,30,New Orleans Saints,27
+2013-10-13,Dallas Cowboys,31,Washington Redskins,16
+2013-10-14,Indianapolis Colts,9,San Diego Chargers,19
+2013-10-17,Seattle Seahawks,34,Arizona Cardinals,22
+2013-10-20,Cincinnati Bengals,27,Detroit Lions,24
+2013-10-20,Atlanta Falcons,31,Tampa Bay Buccaneers,23
+2013-10-20,Philadelphia Eagles,3,Dallas Cowboys,17
+2013-10-20,Buffalo Bills,23,Miami Dolphins,21
+2013-10-20,Jacksonville Jaguars,6,San Diego Chargers,24
+2013-10-20,Carolina Panthers,30,St. Louis Rams,15
+2013-10-20,New York Jets,30,New England Patriots,27
+2013-10-20,Washington Redskins,45,Chicago Bears,41
+2013-10-20,San Francisco 49ers,31,Tennessee Titans,17
+2013-10-20,Green Bay Packers,31,Cleveland Browns,13
+2013-10-20,Pittsburgh Steelers,19,Baltimore Ravens,16
+2013-10-20,Kansas City Chiefs,17,Houston Texans,16
+2013-10-20,Indianapolis Colts,39,Denver Broncos,33
+2013-10-21,Minnesota Vikings,7,New York Giants,23
+2013-10-24,Carolina Panthers,31,Tampa Bay Buccaneers,13
+2013-10-27,Philadelphia Eagles,7,New York Giants,15
+2013-10-27,New England Patriots,27,Miami Dolphins,17
+2013-10-27,New Orleans Saints,35,Buffalo Bills,17
+2013-10-27,Kansas City Chiefs,23,Cleveland Browns,17
+2013-10-27,Detroit Lions,31,Dallas Cowboys,30
+2013-10-27,San Francisco 49ers,42,Jacksonville Jaguars,10
+2013-10-27,Arizona Cardinals,27,Atlanta Falcons,13
+2013-10-27,Oakland Raiders,21,Pittsburgh Steelers,18
+2013-10-27,New York Jets,9,Cincinnati Bengals,49
+2013-10-27,Denver Broncos,45,Washington Redskins,21
+2013-10-27,Green Bay Packers,44,Minnesota Vikings,31
+2013-10-28,St. Louis Rams,9,Seattle Seahawks,14
+2013-10-31,Miami Dolphins,22,Cincinnati Bengals,20
+2013-11-03,Tennessee Titans,28,St. Louis Rams,21
+2013-11-03,Kansas City Chiefs,23,Buffalo Bills,13
+2013-11-03,Dallas Cowboys,27,Minnesota Vikings,23
+2013-11-03,Carolina Panthers,34,Atlanta Falcons,10
+2013-11-03,Washington Redskins,30,San Diego Chargers,24
+2013-11-03,New York Jets,26,New Orleans Saints,20
+2013-11-03,Seattle Seahawks,27,Tampa Bay Buccaneers,24
+2013-11-03,Philadelphia Eagles,49,Oakland Raiders,20
+2013-11-03,Cleveland Browns,24,Baltimore Ravens,18
+2013-11-03,New England Patriots,55,Pittsburgh Steelers,31
+2013-11-03,Indianapolis Colts,27,Houston Texans,24
+2013-11-04,Chicago Bears,27,Green Bay Packers,20
+2013-11-07,Minnesota Vikings,34,Washington Redskins,27
+2013-11-10,Philadelphia Eagles,27,Green Bay Packers,13
+2013-11-10,Baltimore Ravens,20,Cincinnati Bengals,17
+2013-11-10,Pittsburgh Steelers,23,Buffalo Bills,10
+2013-11-10,Jacksonville Jaguars,29,Tennessee Titans,27
+2013-11-10,Indianapolis Colts,8,St. Louis Rams,38
+2013-11-10,Detroit Lions,21,Chicago Bears,19
+2013-11-10,Seattle Seahawks,33,Atlanta Falcons,10
+2013-11-10,New York Giants,24,Oakland Raiders,20
+2013-11-10,San Francisco 49ers,9,Carolina Panthers,10
+2013-11-10,Arizona Cardinals,27,Houston Texans,24
+2013-11-10,Denver Broncos,28,San Diego Chargers,20
+2013-11-10,New Orleans Saints,49,Dallas Cowboys,17
+2013-11-11,Tampa Bay Buccaneers,22,Miami Dolphins,19
+2013-11-14,Indianapolis Colts,30,Tennessee Titans,27
+2013-11-17,Cincinnati Bengals,41,Cleveland Browns,20
+2013-11-17,Chicago Bears,23,Baltimore Ravens,20
+2013-11-17,Buffalo Bills,37,New York Jets,14
+2013-11-17,Pittsburgh Steelers,37,Detroit Lions,27
+2013-11-17,Philadelphia Eagles,24,Washington Redskins,16
+2013-11-17,Oakland Raiders,28,Houston Texans,23
+2013-11-17,Tampa Bay Buccaneers,41,Atlanta Falcons,28
+2013-11-17,Arizona Cardinals,27,Jacksonville Jaguars,14
+2013-11-17,Miami Dolphins,20,San Diego Chargers,16
+2013-11-17,New York Giants,27,Green Bay Packers,13
+2013-11-17,New Orleans Saints,23,San Francisco 49ers,20
+2013-11-17,Seattle Seahawks,41,Minnesota Vikings,20
+2013-11-17,Denver Broncos,27,Kansas City Chiefs,17
+2013-11-18,Carolina Panthers,24,New England Patriots,20
+2013-11-21,New Orleans Saints,17,Atlanta Falcons,13
+2013-11-24,St. Louis Rams,42,Chicago Bears,21
+2013-11-24,Houston Texans,6,Jacksonville Jaguars,13
+2013-11-24,Green Bay Packers,26,Minnesota Vikings,26
+2013-11-24,New York Jets,3,Baltimore Ravens,19
+2013-11-24,Tampa Bay Buccaneers,24,Detroit Lions,21
+2013-11-24,Pittsburgh Steelers,27,Cleveland Browns,11
+2013-11-24,Carolina Panthers,20,Miami Dolphins,16
+2013-11-24,San Diego Chargers,41,Kansas City Chiefs,38
+2013-11-24,Arizona Cardinals,40,Indianapolis Colts,11
+2013-11-24,Tennessee Titans,23,Oakland Raiders,19
+2013-11-24,Dallas Cowboys,24,New York Giants,21
+2013-11-24,New England Patriots,34,Denver Broncos,31
+2013-11-25,Washington Redskins,6,San Francisco 49ers,27
+2013-11-28,Detroit Lions,40,Green Bay Packers,10
+2013-11-28,Dallas Cowboys,31,Oakland Raiders,24
+2013-11-28,Baltimore Ravens,22,Pittsburgh Steelers,20
+2013-12-01,Jacksonville Jaguars,32,Cleveland Browns,28
+2013-12-01,Philadelphia Eagles,24,Arizona Cardinals,21
+2013-12-01,New York Jets,3,Miami Dolphins,23
+2013-12-01,New England Patriots,34,Houston Texans,31
+2013-12-01,Indianapolis Colts,22,Tennessee Titans,14
+2013-12-01,Tampa Bay Buccaneers,6,Carolina Panthers,27
+2013-12-01,Minnesota Vikings,23,Chicago Bears,20
+2013-12-01,Atlanta Falcons,34,Buffalo Bills,31
+2013-12-01,San Francisco 49ers,23,St. Louis Rams,13
+2013-12-01,Cincinnati Bengals,17,San Diego Chargers,10
+2013-12-01,Denver Broncos,35,Kansas City Chiefs,28
+2013-12-01,New York Giants,24,Washington Redskins,17
+2013-12-02,New Orleans Saints,7,Seattle Seahawks,34
+2013-12-05,Jacksonville Jaguars,27,Houston Texans,20
+2013-12-08,Green Bay Packers,22,Atlanta Falcons,21
+2013-12-08,Buffalo Bills,6,Tampa Bay Buccaneers,27
+2013-12-08,Cincinnati Bengals,42,Indianapolis Colts,28
+2013-12-08,Miami Dolphins,34,Pittsburgh Steelers,28
+2013-12-08,Philadelphia Eagles,34,Detroit Lions,20
+2013-12-08,New York Jets,37,Oakland Raiders,27
+2013-12-08,New England Patriots,27,Cleveland Browns,26
+2013-12-08,Kansas City Chiefs,45,Washington Redskins,10
+2013-12-08,Baltimore Ravens,29,Minnesota Vikings,26
+2013-12-08,Denver Broncos,51,Tennessee Titans,28
+2013-12-08,Arizona Cardinals,30,St. Louis Rams,10
+2013-12-08,San Diego Chargers,37,New York Giants,14
+2013-12-08,San Francisco 49ers,19,Seattle Seahawks,17
+2013-12-08,New Orleans Saints,31,Carolina Panthers,13
+2013-12-09,Chicago Bears,45,Dallas Cowboys,28
+2013-12-12,San Diego Chargers,27,Denver Broncos,20
+2013-12-15,Houston Texans,3,Indianapolis Colts,25
+2013-12-15,San Francisco 49ers,33,Tampa Bay Buccaneers,14
+2013-12-15,Minnesota Vikings,48,Philadelphia Eagles,30
+2013-12-15,Miami Dolphins,24,New England Patriots,20
+2013-12-15,Buffalo Bills,27,Jacksonville Jaguars,20
+2013-12-15,Chicago Bears,38,Cleveland Browns,31
+2013-12-15,Atlanta Falcons,27,Washington Redskins,26
+2013-12-15,Seattle Seahawks,23,New York Giants,0
+2013-12-15,Carolina Panthers,30,New York Jets,20
+2013-12-15,Kansas City Chiefs,56,Oakland Raiders,31
+2013-12-15,Green Bay Packers,37,Dallas Cowboys,36
+2013-12-15,St. Louis Rams,27,New Orleans Saints,16
+2013-12-15,Arizona Cardinals,37,Tennessee Titans,34
+2013-12-15,Pittsburgh Steelers,30,Cincinnati Bengals,20
+2013-12-16,Baltimore Ravens,18,Detroit Lions,16
+2013-12-22,St. Louis Rams,23,Tampa Bay Buccaneers,13
+2013-12-22,Denver Broncos,37,Houston Texans,13
+2013-12-22,Cincinnati Bengals,42,Minnesota Vikings,14
+2013-12-22,Buffalo Bills,19,Miami Dolphins,0
+2013-12-22,New York Jets,24,Cleveland Browns,13
+2013-12-22,Kansas City Chiefs,7,Indianapolis Colts,23
+2013-12-22,Tennessee Titans,20,Jacksonville Jaguars,16
+2013-12-22,Dallas Cowboys,24,Washington Redskins,23
+2013-12-22,Carolina Panthers,17,New Orleans Saints,13
+2013-12-22,New York Giants,23,Detroit Lions,20
+2013-12-22,Arizona Cardinals,17,Seattle Seahawks,10
+2013-12-22,Pittsburgh Steelers,38,Green Bay Packers,31
+2013-12-22,San Diego Chargers,26,Oakland Raiders,13
+2013-12-22,Baltimore Ravens,7,New England Patriots,41
+2013-12-22,Philadelphia Eagles,54,Chicago Bears,11
+2013-12-23,San Francisco 49ers,34,Atlanta Falcons,24
+2013-12-29,Indianapolis Colts,30,Jacksonville Jaguars,10
+2013-12-29,Cincinnati Bengals,34,Baltimore Ravens,17
+2013-12-29,Cleveland Browns,7,Pittsburgh Steelers,20
+2013-12-29,Tennessee Titans,16,Houston Texans,10
+2013-12-29,Miami Dolphins,7,New York Jets,20
+2013-12-29,Washington Redskins,6,New York Giants,20
+2013-12-29,Carolina Panthers,21,Atlanta Falcons,20
+2013-12-29,Minnesota Vikings,14,Detroit Lions,13
+2013-12-29,San Francisco 49ers,23,Arizona Cardinals,20
+2013-12-29,Denver Broncos,34,Oakland Raiders,14
+2013-12-29,Green Bay Packers,33,Chicago Bears,28
+2013-12-29,New England Patriots,34,Buffalo Bills,20
+2013-12-29,New Orleans Saints,42,Tampa Bay Buccaneers,17
+2013-12-29,St. Louis Rams,9,Seattle Seahawks,27
+2013-12-29,San Diego Chargers,27,Kansas City Chiefs,24
+2013-12-29,Philadelphia Eagles,24,Dallas Cowboys,22
+2014-09-04,Seattle Seahawks,36,Green Bay Packers,16
+2014-09-07,Buffalo Bills,23,Chicago Bears,20
+2014-09-07,St. Louis Rams,6,Minnesota Vikings,34
+2014-09-07,Cincinnati Bengals,23,Baltimore Ravens,16
+2014-09-07,Pittsburgh Steelers,30,Cleveland Browns,27
+2014-09-07,Philadelphia Eagles,34,Jacksonville Jaguars,17
+2014-09-07,New York Jets,19,Oakland Raiders,14
+2014-09-07,Tennessee Titans,26,Kansas City Chiefs,10
+2014-09-07,Washington Redskins,6,Houston Texans,17
+2014-09-07,Atlanta Falcons,37,New Orleans Saints,34
+2014-09-07,Miami Dolphins,33,New England Patriots,20
+2014-09-07,San Francisco 49ers,28,Dallas Cowboys,17
+2014-09-07,Carolina Panthers,20,Tampa Bay Buccaneers,14
+2014-09-07,Denver Broncos,31,Indianapolis Colts,24
+2014-09-08,Detroit Lions,35,New York Giants,14
+2014-09-08,Arizona Cardinals,18,San Diego Chargers,17
+2014-09-11,Pittsburgh Steelers,6,Baltimore Ravens,26
+2014-09-14,Buffalo Bills,29,Miami Dolphins,10
+2014-09-14,Cleveland Browns,26,New Orleans Saints,24
+2014-09-14,Dallas Cowboys,26,Tennessee Titans,10
+2014-09-14,Detroit Lions,7,Carolina Panthers,24
+2014-09-14,Arizona Cardinals,25,New York Giants,14
+2014-09-14,Washington Redskins,41,Jacksonville Jaguars,10
+2014-09-14,Cincinnati Bengals,24,Atlanta Falcons,10
+2014-09-14,Minnesota Vikings,7,New England Patriots,30
+2014-09-14,St. Louis Rams,19,Tampa Bay Buccaneers,17
+2014-09-14,San Diego Chargers,30,Seattle Seahawks,21
+2014-09-14,Denver Broncos,24,Kansas City Chiefs,17
+2014-09-14,Houston Texans,30,Oakland Raiders,14
+2014-09-14,Green Bay Packers,31,New York Jets,24
+2014-09-14,Chicago Bears,28,San Francisco 49ers,20
+2014-09-15,Philadelphia Eagles,30,Indianapolis Colts,27
+2014-09-18,Atlanta Falcons,56,Tampa Bay Buccaneers,14
+2014-09-21,Dallas Cowboys,34,St. Louis Rams,31
+2014-09-21,Baltimore Ravens,23,Cleveland Browns,21
+2014-09-21,Tennessee Titans,7,Cincinnati Bengals,33
+2014-09-21,Philadelphia Eagles,37,Washington Redskins,34
+2014-09-21,San Diego Chargers,22,Buffalo Bills,10
+2014-09-21,New York Giants,30,Houston Texans,17
+2014-09-21,Oakland Raiders,9,New England Patriots,16
+2014-09-21,Indianapolis Colts,44,Jacksonville Jaguars,17
+2014-09-21,Green Bay Packers,7,Detroit Lions,19
+2014-09-21,Minnesota Vikings,9,New Orleans Saints,20
+2014-09-21,Arizona Cardinals,23,San Francisco 49ers,14
+2014-09-21,Seattle Seahawks,26,Denver Broncos,20
+2014-09-21,Kansas City Chiefs,34,Miami Dolphins,15
+2014-09-21,Pittsburgh Steelers,37,Carolina Panthers,19
+2014-09-22,Chicago Bears,27,New York Jets,19
+2014-09-25,New York Giants,45,Washington Redskins,14
+2014-09-28,Houston Texans,23,Buffalo Bills,17
+2014-09-28,Green Bay Packers,38,Chicago Bears,17
+2014-09-28,Baltimore Ravens,38,Carolina Panthers,10
+2014-09-28,Detroit Lions,24,New York Jets,17
+2014-09-28,Indianapolis Colts,41,Tennessee Titans,17
+2014-09-28,Tampa Bay Buccaneers,27,Pittsburgh Steelers,24
+2014-09-28,Miami Dolphins,38,Oakland Raiders,14
+2014-09-28,San Diego Chargers,33,Jacksonville Jaguars,14
+2014-09-28,Minnesota Vikings,41,Atlanta Falcons,28
+2014-09-28,San Francisco 49ers,26,Philadelphia Eagles,21
+2014-09-28,Dallas Cowboys,38,New Orleans Saints,17
+2014-09-29,Kansas City Chiefs,41,New England Patriots,14
+2014-10-02,Green Bay Packers,42,Minnesota Vikings,10
+2014-10-05,Philadelphia Eagles,34,St. Louis Rams,28
+2014-10-05,Cleveland Browns,29,Tennessee Titans,28
+2014-10-05,Jacksonville Jaguars,9,Pittsburgh Steelers,17
+2014-10-05,Buffalo Bills,17,Detroit Lions,14
+2014-10-05,Dallas Cowboys,20,Houston Texans,17
+2014-10-05,Indianapolis Colts,20,Baltimore Ravens,13
+2014-10-05,Carolina Panthers,31,Chicago Bears,24
+2014-10-05,New York Giants,30,Atlanta Falcons,20
+2014-10-05,New Orleans Saints,37,Tampa Bay Buccaneers,31
+2014-10-05,Denver Broncos,41,Arizona Cardinals,20
+2014-10-05,San Francisco 49ers,22,Kansas City Chiefs,17
+2014-10-05,San Diego Chargers,31,New York Jets,0
+2014-10-05,New England Patriots,43,Cincinnati Bengals,17
+2014-10-06,Seattle Seahawks,27,Washington Redskins,17
+2014-10-09,Indianapolis Colts,33,Houston Texans,28
+2014-10-12,Cleveland Browns,31,Pittsburgh Steelers,10
+2014-10-12,Baltimore Ravens,48,Tampa Bay Buccaneers,17
+2014-10-12,New England Patriots,37,Buffalo Bills,22
+2014-10-12,Tennessee Titans,16,Jacksonville Jaguars,14
+2014-10-12,Denver Broncos,31,New York Jets,17
+2014-10-12,Minnesota Vikings,3,Detroit Lions,17
+2014-10-12,Green Bay Packers,27,Miami Dolphins,24
+2014-10-12,Cincinnati Bengals,37,Carolina Panthers,37
+2014-10-12,Arizona Cardinals,30,Washington Redskins,20
+2014-10-12,San Diego Chargers,31,Oakland Raiders,28
+2014-10-12,Chicago Bears,27,Atlanta Falcons,13
+2014-10-12,Dallas Cowboys,30,Seattle Seahawks,23
+2014-10-12,Philadelphia Eagles,27,New York Giants,0
+2014-10-13,San Francisco 49ers,31,St. Louis Rams,17
+2014-10-16,New England Patriots,27,New York Jets,25
+2014-10-19,Miami Dolphins,27,Chicago Bears,14
+2014-10-19,St. Louis Rams,28,Seattle Seahawks,26
+2014-10-19,Indianapolis Colts,27,Cincinnati Bengals,0
+2014-10-19,Washington Redskins,19,Tennessee Titans,17
+2014-10-19,Buffalo Bills,17,Minnesota Vikings,16
+2014-10-19,Atlanta Falcons,7,Baltimore Ravens,29
+2014-10-19,Cleveland Browns,6,Jacksonville Jaguars,24
+2014-10-19,Green Bay Packers,38,Carolina Panthers,17
+2014-10-19,Detroit Lions,24,New Orleans Saints,23
+2014-10-19,Kansas City Chiefs,23,San Diego Chargers,20
+2014-10-19,Dallas Cowboys,31,New York Giants,21
+2014-10-19,Arizona Cardinals,24,Oakland Raiders,13
+2014-10-19,Denver Broncos,42,San Francisco 49ers,17
+2014-10-20,Pittsburgh Steelers,30,Houston Texans,23
+2014-10-23,Denver Broncos,35,San Diego Chargers,21
+2014-10-26,Detroit Lions,22,Atlanta Falcons,21
+2014-10-26,Cincinnati Bengals,27,Baltimore Ravens,24
+2014-10-26,Buffalo Bills,43,New York Jets,23
+2014-10-26,New England Patriots,51,Chicago Bears,23
+2014-10-26,Miami Dolphins,27,Jacksonville Jaguars,13
+2014-10-26,Minnesota Vikings,19,Tampa Bay Buccaneers,13
+2014-10-26,Houston Texans,30,Tennessee Titans,16
+2014-10-26,Carolina Panthers,9,Seattle Seahawks,13
+2014-10-26,St. Louis Rams,7,Kansas City Chiefs,34
+2014-10-26,Arizona Cardinals,24,Philadelphia Eagles,20
+2014-10-26,Cleveland Browns,23,Oakland Raiders,13
+2014-10-26,Pittsburgh Steelers,51,Indianapolis Colts,34
+2014-10-26,New Orleans Saints,44,Green Bay Packers,23
+2014-10-27,Washington Redskins,20,Dallas Cowboys,17
+2014-10-30,New Orleans Saints,28,Carolina Panthers,10
+2014-11-02,Cleveland Browns,22,Tampa Bay Buccaneers,17
+2014-11-02,Cincinnati Bengals,33,Jacksonville Jaguars,23
+2014-11-02,Miami Dolphins,37,San Diego Chargers,0
+2014-11-02,Kansas City Chiefs,24,New York Jets,10
+2014-11-02,Philadelphia Eagles,31,Houston Texans,21
+2014-11-02,Minnesota Vikings,29,Washington Redskins,26
+2014-11-02,Arizona Cardinals,28,Dallas Cowboys,17
+2014-11-02,St. Louis Rams,13,San Francisco 49ers,10
+2014-11-02,New England Patriots,43,Denver Broncos,21
+2014-11-02,Seattle Seahawks,30,Oakland Raiders,24
+2014-11-02,Pittsburgh Steelers,43,Baltimore Ravens,23
+2014-11-03,Indianapolis Colts,40,New York Giants,24
+2014-11-06,Cincinnati Bengals,3,Cleveland Browns,24
+2014-11-09,Detroit Lions,20,Miami Dolphins,16
+2014-11-09,Kansas City Chiefs,17,Buffalo Bills,13
+2014-11-09,New York Jets,20,Pittsburgh Steelers,13
+2014-11-09,Tennessee Titans,7,Baltimore Ravens,21
+2014-11-09,San Francisco 49ers,27,New Orleans Saints,24
+2014-11-09,Atlanta Falcons,27,Tampa Bay Buccaneers,17
+2014-11-09,Dallas Cowboys,31,Jacksonville Jaguars,17
+2014-11-09,Denver Broncos,41,Oakland Raiders,17
+2014-11-09,Arizona Cardinals,31,St. Louis Rams,14
+2014-11-09,Seattle Seahawks,38,New York Giants,17
+2014-11-09,Green Bay Packers,55,Chicago Bears,14
+2014-11-10,Philadelphia Eagles,45,Carolina Panthers,21
+2014-11-13,Buffalo Bills,9,Miami Dolphins,22
+2014-11-16,Denver Broncos,7,St. Louis Rams,22
+2014-11-16,Chicago Bears,21,Minnesota Vikings,13
+2014-11-16,Cincinnati Bengals,27,New Orleans Saints,10
+2014-11-16,Cleveland Browns,7,Houston Texans,23
+2014-11-16,Washington Redskins,7,Tampa Bay Buccaneers,27
+2014-11-16,Atlanta Falcons,19,Carolina Panthers,17
+2014-11-16,San Francisco 49ers,16,New York Giants,10
+2014-11-16,Kansas City Chiefs,24,Seattle Seahawks,20
+2014-11-16,Oakland Raiders,6,San Diego Chargers,13
+2014-11-16,Detroit Lions,6,Arizona Cardinals,14
+2014-11-16,Green Bay Packers,53,Philadelphia Eagles,20
+2014-11-16,New England Patriots,42,Indianapolis Colts,20
+2014-11-17,Pittsburgh Steelers,27,Tennessee Titans,24
+2014-11-20,Oakland Raiders,24,Kansas City Chiefs,20
+2014-11-23,Cincinnati Bengals,22,Houston Texans,13
+2014-11-23,Jacksonville Jaguars,3,Indianapolis Colts,23
+2014-11-23,Chicago Bears,21,Tampa Bay Buccaneers,13
+2014-11-23,Cleveland Browns,26,Atlanta Falcons,24
+2014-11-23,Philadelphia Eagles,43,Tennessee Titans,24
+2014-11-23,Detroit Lions,9,New England Patriots,34
+2014-11-23,Green Bay Packers,24,Minnesota Vikings,21
+2014-11-23,San Diego Chargers,27,St. Louis Rams,24
+2014-11-23,Arizona Cardinals,3,Seattle Seahawks,19
+2014-11-23,Denver Broncos,39,Miami Dolphins,36
+2014-11-23,San Francisco 49ers,17,Washington Redskins,13
+2014-11-23,Dallas Cowboys,31,New York Giants,28
+2014-11-24,Buffalo Bills,38,New York Jets,3
+2014-11-24,Baltimore Ravens,34,New Orleans Saints,27
+2014-11-27,Detroit Lions,34,Chicago Bears,17
+2014-11-27,Philadelphia Eagles,33,Dallas Cowboys,10
+2014-11-27,San Francisco 49ers,3,Seattle Seahawks,19
+2014-11-30,St. Louis Rams,52,Oakland Raiders,0
+2014-11-30,Indianapolis Colts,49,Washington Redskins,27
+2014-11-30,Buffalo Bills,26,Cleveland Browns,10
+2014-11-30,Cincinnati Bengals,14,Tampa Bay Buccaneers,13
+2014-11-30,San Diego Chargers,34,Baltimore Ravens,33
+2014-11-30,New Orleans Saints,35,Pittsburgh Steelers,32
+2014-11-30,Minnesota Vikings,31,Carolina Panthers,13
+2014-11-30,Houston Texans,45,Tennessee Titans,21
+2014-11-30,Jacksonville Jaguars,25,New York Giants,24
+2014-11-30,Atlanta Falcons,29,Arizona Cardinals,18
+2014-11-30,Green Bay Packers,26,New England Patriots,21
+2014-11-30,Denver Broncos,29,Kansas City Chiefs,16
+2014-12-01,Miami Dolphins,16,New York Jets,13
+2014-12-04,Dallas Cowboys,41,Chicago Bears,28
+2014-12-07,Detroit Lions,34,Tampa Bay Buccaneers,17
+2014-12-07,Pittsburgh Steelers,42,Cincinnati Bengals,21
+2014-12-07,Minnesota Vikings,30,New York Jets,24
+2014-12-07,Baltimore Ravens,28,Miami Dolphins,13
+2014-12-07,St. Louis Rams,24,Washington Redskins,0
+2014-12-07,Indianapolis Colts,25,Cleveland Browns,24
+2014-12-07,Tennessee Titans,7,New York Giants,36
+2014-12-07,Carolina Panthers,41,New Orleans Saints,10
+2014-12-07,Houston Texans,27,Jacksonville Jaguars,13
+2014-12-07,Denver Broncos,24,Buffalo Bills,17
+2014-12-07,Arizona Cardinals,17,Kansas City Chiefs,14
+2014-12-07,Oakland Raiders,24,San Francisco 49ers,13
+2014-12-07,Seattle Seahawks,24,Philadelphia Eagles,14
+2014-12-07,New England Patriots,23,San Diego Chargers,14
+2014-12-08,Green Bay Packers,43,Atlanta Falcons,37
+2014-12-11,St. Louis Rams,6,Arizona Cardinals,12
+2014-12-14,Indianapolis Colts,17,Houston Texans,10
+2014-12-14,Cincinnati Bengals,30,Cleveland Browns,0
+2014-12-14,Buffalo Bills,21,Green Bay Packers,13
+2014-12-14,Baltimore Ravens,20,Jacksonville Jaguars,12
+2014-12-14,Pittsburgh Steelers,27,Atlanta Falcons,20
+2014-12-14,New York Giants,24,Washington Redskins,13
+2014-12-14,New England Patriots,41,Miami Dolphins,13
+2014-12-14,Carolina Panthers,19,Tampa Bay Buccaneers,17
+2014-12-14,Kansas City Chiefs,31,Oakland Raiders,13
+2014-12-14,Denver Broncos,22,San Diego Chargers,10
+2014-12-14,New York Jets,16,Tennessee Titans,11
+2014-12-14,Detroit Lions,16,Minnesota Vikings,14
+2014-12-14,San Francisco 49ers,7,Seattle Seahawks,17
+2014-12-14,Dallas Cowboys,38,Philadelphia Eagles,27
+2014-12-15,New Orleans Saints,31,Chicago Bears,15
+2014-12-18,Jacksonville Jaguars,21,Tennessee Titans,13
+2014-12-20,Washington Redskins,27,Philadelphia Eagles,24
+2014-12-20,San Diego Chargers,38,San Francisco 49ers,35
+2014-12-21,Pittsburgh Steelers,20,Kansas City Chiefs,12
+2014-12-21,New England Patriots,17,New York Jets,16
+2014-12-21,Houston Texans,25,Baltimore Ravens,13
+2014-12-21,Detroit Lions,20,Chicago Bears,14
+2014-12-21,Tampa Bay Buccaneers,3,Green Bay Packers,20
+2014-12-21,Atlanta Falcons,30,New Orleans Saints,14
+2014-12-21,Miami Dolphins,37,Minnesota Vikings,35
+2014-12-21,Carolina Panthers,17,Cleveland Browns,13
+2014-12-21,New York Giants,37,St. Louis Rams,27
+2014-12-21,Oakland Raiders,26,Buffalo Bills,24
+2014-12-21,Indianapolis Colts,7,Dallas Cowboys,42
+2014-12-21,Arizona Cardinals,6,Seattle Seahawks,35
+2014-12-22,Cincinnati Bengals,37,Denver Broncos,28
+2014-12-28,New York Jets,37,Miami Dolphins,24
+2014-12-28,Baltimore Ravens,20,Cleveland Browns,10
+2014-12-28,Indianapolis Colts,27,Tennessee Titans,10
+2014-12-28,Philadelphia Eagles,34,New York Giants,26
+2014-12-28,New England Patriots,9,Buffalo Bills,17
+2014-12-28,Chicago Bears,9,Minnesota Vikings,13
+2014-12-28,San Diego Chargers,7,Kansas City Chiefs,19
+2014-12-28,New Orleans Saints,23,Tampa Bay Buccaneers,20
+2014-12-28,Houston Texans,23,Jacksonville Jaguars,17
+2014-12-28,Dallas Cowboys,44,Washington Redskins,17
+2014-12-28,San Francisco 49ers,20,Arizona Cardinals,17
+2014-12-28,Green Bay Packers,30,Detroit Lions,20
+2014-12-28,Denver Broncos,47,Oakland Raiders,14
+2014-12-28,Carolina Panthers,34,Atlanta Falcons,3
+2014-12-28,St. Louis Rams,6,Seattle Seahawks,20
+2014-12-28,Pittsburgh Steelers,27,Cincinnati Bengals,17
+2015-09-10,New England Patriots,28,Pittsburgh Steelers,21
+2015-09-13,Green Bay Packers,31,Chicago Bears,23
+2015-09-13,St. Louis Rams,34,Seattle Seahawks,31
+2015-09-13,Miami Dolphins,17,Washington Redskins,10
+2015-09-13,Kansas City Chiefs,27,Houston Texans,20
+2015-09-13,Buffalo Bills,27,Indianapolis Colts,14
+2015-09-13,Jacksonville Jaguars,9,Carolina Panthers,20
+2015-09-13,New York Jets,31,Cleveland Browns,10
+2015-09-13,Arizona Cardinals,31,New Orleans Saints,19
+2015-09-13,San Diego Chargers,33,Detroit Lions,28
+2015-09-13,Denver Broncos,19,Baltimore Ravens,13
+2015-09-13,Tennessee Titans,42,Tampa Bay Buccaneers,14
+2015-09-13,Cincinnati Bengals,33,Oakland Raiders,13
+2015-09-13,Dallas Cowboys,27,New York Giants,26
+2015-09-14,Atlanta Falcons,26,Philadelphia Eagles,24
+2015-09-14,Minnesota Vikings,3,San Francisco 49ers,20
+2015-09-17,Denver Broncos,31,Kansas City Chiefs,24
+2015-09-20,Arizona Cardinals,48,Chicago Bears,23
+2015-09-20,Cleveland Browns,28,Tennessee Titans,14
+2015-09-20,Carolina Panthers,24,Houston Texans,17
+2015-09-20,Pittsburgh Steelers,43,San Francisco 49ers,18
+2015-09-20,New England Patriots,40,Buffalo Bills,32
+2015-09-20,Atlanta Falcons,24,New York Giants,20
+2015-09-20,Tampa Bay Buccaneers,26,New Orleans Saints,19
+2015-09-20,Cincinnati Bengals,24,San Diego Chargers,19
+2015-09-20,Washington Redskins,24,St. Louis Rams,10
+2015-09-20,Minnesota Vikings,26,Detroit Lions,16
+2015-09-20,Oakland Raiders,37,Baltimore Ravens,33
+2015-09-20,Jacksonville Jaguars,23,Miami Dolphins,20
+2015-09-20,Dallas Cowboys,20,Philadelphia Eagles,10
+2015-09-20,Green Bay Packers,27,Seattle Seahawks,17
+2015-09-21,Indianapolis Colts,7,New York Jets,20
+2015-09-24,New York Giants,32,Washington Redskins,21
+2015-09-27,St. Louis Rams,6,Pittsburgh Steelers,12
+2015-09-27,Cincinnati Bengals,28,Baltimore Ravens,24
+2015-09-27,Oakland Raiders,27,Cleveland Browns,20
+2015-09-27,Minnesota Vikings,31,San Diego Chargers,14
+2015-09-27,Atlanta Falcons,39,Dallas Cowboys,28
+2015-09-27,Carolina Panthers,27,New Orleans Saints,22
+2015-09-27,Indianapolis Colts,35,Tennessee Titans,33
+2015-09-27,Philadelphia Eagles,24,New York Jets,17
+2015-09-27,Tampa Bay Buccaneers,9,Houston Texans,19
+2015-09-27,New England Patriots,51,Jacksonville Jaguars,17
+2015-09-27,San Francisco 49ers,7,Arizona Cardinals,47
+2015-09-27,Buffalo Bills,41,Miami Dolphins,14
+2015-09-27,Seattle Seahawks,26,Chicago Bears,0
+2015-09-27,Denver Broncos,24,Detroit Lions,12
+2015-09-28,Green Bay Packers,38,Kansas City Chiefs,28
+2015-10-01,Baltimore Ravens,23,Pittsburgh Steelers,20
+2015-10-04,New York Jets,27,Miami Dolphins,14
+2015-10-04,Indianapolis Colts,16,Jacksonville Jaguars,13
+2015-10-04,Chicago Bears,22,Oakland Raiders,20
+2015-10-04,New York Giants,24,Buffalo Bills,10
+2015-10-04,Atlanta Falcons,48,Houston Texans,21
+2015-10-04,Cincinnati Bengals,36,Kansas City Chiefs,21
+2015-10-04,Washington Redskins,23,Philadelphia Eagles,20
+2015-10-04,Carolina Panthers,37,Tampa Bay Buccaneers,23
+2015-10-04,St. Louis Rams,24,Arizona Cardinals,22
+2015-10-04,San Diego Chargers,30,Cleveland Browns,27
+2015-10-04,San Francisco 49ers,3,Green Bay Packers,17
+2015-10-04,Denver Broncos,23,Minnesota Vikings,20
+2015-10-04,New Orleans Saints,26,Dallas Cowboys,20
+2015-10-05,Seattle Seahawks,13,Detroit Lions,10
+2015-10-08,Indianapolis Colts,27,Houston Texans,20
+2015-10-11,Green Bay Packers,24,St. Louis Rams,10
+2015-10-11,Tampa Bay Buccaneers,38,Jacksonville Jaguars,31
+2015-10-11,Atlanta Falcons,25,Washington Redskins,19
+2015-10-11,Cleveland Browns,33,Baltimore Ravens,30
+2015-10-11,Chicago Bears,18,Kansas City Chiefs,17
+2015-10-11,Cincinnati Bengals,27,Seattle Seahawks,24
+2015-10-11,Buffalo Bills,14,Tennessee Titans,13
+2015-10-11,Philadelphia Eagles,39,New Orleans Saints,17
+2015-10-11,Arizona Cardinals,42,Detroit Lions,17
+2015-10-11,Dallas Cowboys,6,New England Patriots,30
+2015-10-11,Denver Broncos,16,Oakland Raiders,10
+2015-10-11,New York Giants,30,San Francisco 49ers,27
+2015-10-12,Pittsburgh Steelers,24,San Diego Chargers,20
+2015-10-15,New Orleans Saints,31,Atlanta Falcons,21
+2015-10-18,Detroit Lions,37,Chicago Bears,34
+2015-10-18,Denver Broncos,26,Cleveland Browns,23
+2015-10-18,Cincinnati Bengals,34,Buffalo Bills,21
+2015-10-18,New York Jets,34,Washington Redskins,20
+2015-10-18,Minnesota Vikings,16,Kansas City Chiefs,10
+2015-10-18,Houston Texans,31,Jacksonville Jaguars,20
+2015-10-18,Miami Dolphins,38,Tennessee Titans,10
+2015-10-18,Pittsburgh Steelers,25,Arizona Cardinals,13
+2015-10-18,Carolina Panthers,27,Seattle Seahawks,23
+2015-10-18,Green Bay Packers,27,San Diego Chargers,20
+2015-10-18,San Francisco 49ers,25,Baltimore Ravens,20
+2015-10-18,New England Patriots,34,Indianapolis Colts,27
+2015-10-19,New York Giants,7,Philadelphia Eagles,27
+2015-10-22,San Francisco 49ers,3,Seattle Seahawks,20
+2015-10-25,Jacksonville Jaguars,34,Buffalo Bills,31
+2015-10-25,Cleveland Browns,6,St. Louis Rams,24
+2015-10-25,Minnesota Vikings,28,Detroit Lions,19
+2015-10-25,Tennessee Titans,7,Atlanta Falcons,10
+2015-10-25,New England Patriots,30,New York Jets,23
+2015-10-25,Miami Dolphins,44,Houston Texans,26
+2015-10-25,Kansas City Chiefs,23,Pittsburgh Steelers,13
+2015-10-25,New Orleans Saints,27,Indianapolis Colts,21
+2015-10-25,Washington Redskins,31,Tampa Bay Buccaneers,30
+2015-10-25,Oakland Raiders,37,San Diego Chargers,29
+2015-10-25,New York Giants,27,Dallas Cowboys,20
+2015-10-25,Carolina Panthers,27,Philadelphia Eagles,16
+2015-10-26,Arizona Cardinals,26,Baltimore Ravens,18
+2015-10-29,Miami Dolphins,7,New England Patriots,36
+2015-11-01,Kansas City Chiefs,45,Detroit Lions,10
+2015-11-01,Minnesota Vikings,23,Chicago Bears,20
+2015-11-01,San Francisco 49ers,6,St. Louis Rams,27
+2015-11-01,Arizona Cardinals,34,Cleveland Browns,20
+2015-11-01,Baltimore Ravens,29,San Diego Chargers,26
+2015-11-01,Tampa Bay Buccaneers,23,Atlanta Falcons,20
+2015-11-01,Cincinnati Bengals,16,Pittsburgh Steelers,10
+2015-11-01,New Orleans Saints,52,New York Giants,49
+2015-11-01,Tennessee Titans,6,Houston Texans,20
+2015-11-01,Oakland Raiders,34,New York Jets,20
+2015-11-01,Seattle Seahawks,13,Dallas Cowboys,12
+2015-11-01,Denver Broncos,29,Green Bay Packers,10
+2015-11-02,Carolina Panthers,29,Indianapolis Colts,26
+2015-11-05,Cincinnati Bengals,31,Cleveland Browns,10
+2015-11-08,Minnesota Vikings,21,St. Louis Rams,18
+2015-11-08,Buffalo Bills,33,Miami Dolphins,17
+2015-11-08,Pittsburgh Steelers,38,Oakland Raiders,35
+2015-11-08,New York Jets,28,Jacksonville Jaguars,23
+2015-11-08,New England Patriots,27,Washington Redskins,10
+2015-11-08,Tennessee Titans,34,New Orleans Saints,28
+2015-11-08,Carolina Panthers,37,Green Bay Packers,29
+2015-11-08,New York Giants,32,Tampa Bay Buccaneers,18
+2015-11-08,San Francisco 49ers,17,Atlanta Falcons,16
+2015-11-08,Indianapolis Colts,27,Denver Broncos,24
+2015-11-08,Philadelphia Eagles,33,Dallas Cowboys,27
+2015-11-09,Chicago Bears,22,San Diego Chargers,19
+2015-11-12,Buffalo Bills,22,New York Jets,17
+2015-11-15,Chicago Bears,37,St. Louis Rams,13
+2015-11-15,Carolina Panthers,27,Tennessee Titans,10
+2015-11-15,Detroit Lions,18,Green Bay Packers,16
+2015-11-15,Cleveland Browns,9,Pittsburgh Steelers,30
+2015-11-15,Miami Dolphins,20,Philadelphia Eagles,19
+2015-11-15,Washington Redskins,47,New Orleans Saints,14
+2015-11-15,Dallas Cowboys,6,Tampa Bay Buccaneers,10
+2015-11-15,Jacksonville Jaguars,22,Baltimore Ravens,20
+2015-11-15,Minnesota Vikings,30,Oakland Raiders,14
+2015-11-15,Kansas City Chiefs,29,Denver Broncos,13
+2015-11-15,New England Patriots,27,New York Giants,26
+2015-11-15,Arizona Cardinals,39,Seattle Seahawks,32
+2015-11-16,Cincinnati Bengals,6,Houston Texans,10
+2015-11-19,Jacksonville Jaguars,19,Tennessee Titans,13
+2015-11-22,Detroit Lions,18,Oakland Raiders,13
+2015-11-22,Denver Broncos,17,Chicago Bears,15
+2015-11-22,Carolina Panthers,44,Washington Redskins,16
+2015-11-22,Indianapolis Colts,24,Atlanta Falcons,21
+2015-11-22,Baltimore Ravens,16,St. Louis Rams,13
+2015-11-22,Tampa Bay Buccaneers,45,Philadelphia Eagles,17
+2015-11-22,Dallas Cowboys,24,Miami Dolphins,14
+2015-11-22,Houston Texans,24,New York Jets,17
+2015-11-22,Kansas City Chiefs,33,San Diego Chargers,3
+2015-11-22,Green Bay Packers,30,Minnesota Vikings,13
+2015-11-22,Seattle Seahawks,29,San Francisco 49ers,13
+2015-11-22,Arizona Cardinals,34,Cincinnati Bengals,31
+2015-11-23,New England Patriots,20,Buffalo Bills,13
+2015-11-26,Detroit Lions,45,Philadelphia Eagles,14
+2015-11-26,Carolina Panthers,33,Dallas Cowboys,14
+2015-11-26,Chicago Bears,17,Green Bay Packers,13
+2015-11-29,Indianapolis Colts,25,Tampa Bay Buccaneers,12
+2015-11-29,St. Louis Rams,7,Cincinnati Bengals,31
+2015-11-29,Minnesota Vikings,20,Atlanta Falcons,10
+2015-11-29,Oakland Raiders,24,Tennessee Titans,21
+2015-11-29,New York Jets,38,Miami Dolphins,20
+2015-11-29,New Orleans Saints,6,Houston Texans,24
+2015-11-29,Washington Redskins,20,New York Giants,14
+2015-11-29,Kansas City Chiefs,30,Buffalo Bills,22
+2015-11-29,San Diego Chargers,31,Jacksonville Jaguars,25
+2015-11-29,Arizona Cardinals,19,San Francisco 49ers,13
+2015-11-29,Seattle Seahawks,39,Pittsburgh Steelers,30
+2015-11-29,Denver Broncos,30,New England Patriots,24
+2015-11-30,Baltimore Ravens,33,Cleveland Browns,27
+2015-12-03,Green Bay Packers,27,Detroit Lions,23
+2015-12-06,St. Louis Rams,3,Arizona Cardinals,27
+2015-12-06,Minnesota Vikings,7,Seattle Seahawks,38
+2015-12-06,San Francisco 49ers,26,Chicago Bears,20
+2015-12-06,Buffalo Bills,30,Houston Texans,21
+2015-12-06,Tennessee Titans,42,Jacksonville Jaguars,39
+2015-12-06,Miami Dolphins,15,Baltimore Ravens,13
+2015-12-06,Tampa Bay Buccaneers,23,Atlanta Falcons,19
+2015-12-06,Cincinnati Bengals,37,Cleveland Browns,3
+2015-12-06,New York Jets,23,New York Giants,20
+2015-12-06,San Diego Chargers,3,Denver Broncos,17
+2015-12-06,Kansas City Chiefs,34,Oakland Raiders,20
+2015-12-06,Philadelphia Eagles,35,New England Patriots,28
+2015-12-06,Carolina Panthers,41,New Orleans Saints,38
+2015-12-06,Pittsburgh Steelers,45,Indianapolis Colts,10
+2015-12-07,Dallas Cowboys,19,Washington Redskins,16
+2015-12-10,Arizona Cardinals,23,Minnesota Vikings,20
+2015-12-13,Philadelphia Eagles,23,Buffalo Bills,20
+2015-12-13,Cleveland Browns,24,San Francisco 49ers,10
+2015-12-13,New Orleans Saints,24,Tampa Bay Buccaneers,17
+2015-12-13,Pittsburgh Steelers,33,Cincinnati Bengals,20
+2015-12-13,Baltimore Ravens,6,Seattle Seahawks,35
+2015-12-13,Washington Redskins,24,Chicago Bears,21
+2015-12-13,St. Louis Rams,21,Detroit Lions,14
+2015-12-13,Tennessee Titans,8,New York Jets,30
+2015-12-13,Jacksonville Jaguars,51,Indianapolis Colts,16
+2015-12-13,Carolina Panthers,38,Atlanta Falcons,0
+2015-12-13,San Diego Chargers,3,Kansas City Chiefs,10
+2015-12-13,Oakland Raiders,15,Denver Broncos,12
+2015-12-13,Dallas Cowboys,7,Green Bay Packers,28
+2015-12-13,Houston Texans,6,New England Patriots,27
+2015-12-14,New York Giants,31,Miami Dolphins,24
+2015-12-17,St. Louis Rams,31,Tampa Bay Buccaneers,23
+2015-12-19,New York Jets,19,Dallas Cowboys,16
+2015-12-20,New England Patriots,33,Tennessee Titans,16
+2015-12-20,Minnesota Vikings,38,Chicago Bears,17
+2015-12-20,Atlanta Falcons,23,Jacksonville Jaguars,17
+2015-12-20,Houston Texans,16,Indianapolis Colts,10
+2015-12-20,Kansas City Chiefs,34,Baltimore Ravens,14
+2015-12-20,Carolina Panthers,38,New York Giants,35
+2015-12-20,Washington Redskins,35,Buffalo Bills,25
+2015-12-20,Green Bay Packers,30,Oakland Raiders,20
+2015-12-20,Seattle Seahawks,30,Cleveland Browns,13
+2015-12-20,Cincinnati Bengals,24,San Francisco 49ers,14
+2015-12-20,San Diego Chargers,30,Miami Dolphins,14
+2015-12-20,Pittsburgh Steelers,34,Denver Broncos,27
+2015-12-20,Arizona Cardinals,40,Philadelphia Eagles,17
+2015-12-21,Detroit Lions,35,New Orleans Saints,27
+2015-12-24,Oakland Raiders,23,San Diego Chargers,20
+2015-12-26,Washington Redskins,38,Philadelphia Eagles,24
+2015-12-27,Dallas Cowboys,6,Buffalo Bills,16
+2015-12-27,Atlanta Falcons,20,Carolina Panthers,13
+2015-12-27,Baltimore Ravens,20,Pittsburgh Steelers,17
+2015-12-27,Tennessee Titans,6,Houston Texans,34
+2015-12-27,New York Jets,26,New England Patriots,20
+2015-12-27,Indianapolis Colts,18,Miami Dolphins,12
+2015-12-27,Detroit Lions,32,San Francisco 49ers,17
+2015-12-27,Chicago Bears,26,Tampa Bay Buccaneers,21
+2015-12-27,Kansas City Chiefs,17,Cleveland Browns,13
+2015-12-27,New Orleans Saints,38,Jacksonville Jaguars,27
+2015-12-27,Green Bay Packers,8,Arizona Cardinals,38
+2015-12-27,St. Louis Rams,23,Seattle Seahawks,17
+2015-12-27,Minnesota Vikings,49,New York Giants,17
+2015-12-28,Denver Broncos,20,Cincinnati Bengals,17
+2016-01-03,Pittsburgh Steelers,28,Cleveland Browns,12
+2016-01-03,Cincinnati Bengals,24,Baltimore Ravens,16
+2016-01-03,Detroit Lions,24,Chicago Bears,20
+2016-01-03,Miami Dolphins,20,New England Patriots,10
+2016-01-03,Buffalo Bills,22,New York Jets,17
+2016-01-03,Jacksonville Jaguars,6,Houston Texans,30
+2016-01-03,New Orleans Saints,20,Atlanta Falcons,17
+2016-01-03,Indianapolis Colts,30,Tennessee Titans,24
+2016-01-03,Philadelphia Eagles,35,New York Giants,30
+2016-01-03,Washington Redskins,34,Dallas Cowboys,23
+2016-01-03,San Francisco 49ers,19,St. Louis Rams,16
+2016-01-03,Carolina Panthers,38,Tampa Bay Buccaneers,10
+2016-01-03,Denver Broncos,27,San Diego Chargers,20
+2016-01-03,Arizona Cardinals,6,Seattle Seahawks,36
+2016-01-03,Kansas City Chiefs,23,Oakland Raiders,17
+2016-01-03,Minnesota Vikings,20,Green Bay Packers,13
+2016-09-08,Denver Broncos,21,Carolina Panthers,20
+2016-09-11,Buffalo Bills,7,Baltimore Ravens,13
+2016-09-11,Green Bay Packers,27,Jacksonville Jaguars,23
+2016-09-11,Houston Texans,23,Chicago Bears,14
+2016-09-11,Tampa Bay Buccaneers,31,Atlanta Falcons,24
+2016-09-11,Philadelphia Eagles,29,Cleveland Browns,10
+2016-09-11,Minnesota Vikings,25,Tennessee Titans,16
+2016-09-11,Cincinnati Bengals,23,New York Jets,22
+2016-09-11,Oakland Raiders,35,New Orleans Saints,34
+2016-09-11,Kansas City Chiefs,33,San Diego Chargers,27
+2016-09-11,Seattle Seahawks,12,Miami Dolphins,10
+2016-09-11,New York Giants,20,Dallas Cowboys,19
+2016-09-11,Detroit Lions,39,Indianapolis Colts,35
+2016-09-11,New England Patriots,23,Arizona Cardinals,21
+2016-09-12,Pittsburgh Steelers,38,Washington Redskins,16
+2016-09-12,San Francisco 49ers,28,Los Angeles Rams,0
+2016-09-15,New York Jets,37,Buffalo Bills,31
+2016-09-18,Tennessee Titans,16,Detroit Lions,15
+2016-09-18,Baltimore Ravens,25,Cleveland Browns,20
+2016-09-18,Pittsburgh Steelers,24,Cincinnati Bengals,16
+2016-09-18,New England Patriots,31,Miami Dolphins,24
+2016-09-18,Houston Texans,19,Kansas City Chiefs,12
+2016-09-18,Dallas Cowboys,27,Washington Redskins,23
+2016-09-18,Carolina Panthers,46,San Francisco 49ers,27
+2016-09-18,New York Giants,16,New Orleans Saints,13
+2016-09-18,Tampa Bay Buccaneers,7,Arizona Cardinals,40
+2016-09-18,Los Angeles Rams,9,Seattle Seahawks,3
+2016-09-18,Denver Broncos,34,Indianapolis Colts,20
+2016-09-18,San Diego Chargers,38,Jacksonville Jaguars,14
+2016-09-18,Atlanta Falcons,35,Oakland Raiders,28
+2016-09-18,Minnesota Vikings,17,Green Bay Packers,14
+2016-09-19,Philadelphia Eagles,29,Chicago Bears,14
+2016-09-22,New England Patriots,27,Houston Texans,0
+2016-09-25,Denver Broncos,29,Cincinnati Bengals,17
+2016-09-25,Minnesota Vikings,22,Carolina Panthers,10
+2016-09-25,Buffalo Bills,33,Arizona Cardinals,18
+2016-09-25,Oakland Raiders,17,Tennessee Titans,10
+2016-09-25,Washington Redskins,29,New York Giants,27
+2016-09-25,Miami Dolphins,30,Cleveland Browns,24
+2016-09-25,Baltimore Ravens,19,Jacksonville Jaguars,17
+2016-09-25,Green Bay Packers,34,Detroit Lions,27
+2016-09-25,Los Angeles Rams,37,Tampa Bay Buccaneers,32
+2016-09-25,Seattle Seahawks,37,San Francisco 49ers,18
+2016-09-25,Indianapolis Colts,26,San Diego Chargers,22
+2016-09-25,Philadelphia Eagles,34,Pittsburgh Steelers,3
+2016-09-25,New York Jets,3,Kansas City Chiefs,24
+2016-09-25,Dallas Cowboys,31,Chicago Bears,17
+2016-09-26,Atlanta Falcons,45,New Orleans Saints,32
+2016-09-29,Miami Dolphins,7,Cincinnati Bengals,22
+2016-10-02,Jacksonville Jaguars,30,Indianapolis Colts,27
+2016-10-02,Chicago Bears,17,Detroit Lions,14
+2016-10-02,Houston Texans,27,Tennessee Titans,20
+2016-10-02,Oakland Raiders,28,Baltimore Ravens,27
+2016-10-02,Buffalo Bills,16,New England Patriots,0
+2016-10-02,Seattle Seahawks,27,New York Jets,17
+2016-10-02,Atlanta Falcons,48,Carolina Panthers,33
+2016-10-02,Washington Redskins,31,Cleveland Browns,20
+2016-10-02,Los Angeles Rams,17,Arizona Cardinals,13
+2016-10-02,Tampa Bay Buccaneers,7,Denver Broncos,27
+2016-10-02,Dallas Cowboys,24,San Francisco 49ers,17
+2016-10-02,New Orleans Saints,35,San Diego Chargers,34
+2016-10-02,Pittsburgh Steelers,43,Kansas City Chiefs,14
+2016-10-03,Minnesota Vikings,24,New York Giants,10
+2016-10-06,Arizona Cardinals,33,San Francisco 49ers,21
+2016-10-09,Detroit Lions,24,Philadelphia Eagles,23
+2016-10-09,Indianapolis Colts,29,Chicago Bears,23
+2016-10-09,New England Patriots,33,Cleveland Browns,13
+2016-10-09,Pittsburgh Steelers,31,New York Jets,13
+2016-10-09,Tennessee Titans,30,Miami Dolphins,17
+2016-10-09,Washington Redskins,16,Baltimore Ravens,10
+2016-10-09,Minnesota Vikings,31,Houston Texans,13
+2016-10-09,Atlanta Falcons,23,Denver Broncos,16
+2016-10-09,Dallas Cowboys,28,Cincinnati Bengals,14
+2016-10-09,Buffalo Bills,30,Los Angeles Rams,19
+2016-10-09,Oakland Raiders,34,San Diego Chargers,31
+2016-10-09,Green Bay Packers,23,New York Giants,16
+2016-10-10,Tampa Bay Buccaneers,17,Carolina Panthers,14
+2016-10-13,San Diego Chargers,21,Denver Broncos,13
+2016-10-16,Detroit Lions,31,Los Angeles Rams,28
+2016-10-16,Jacksonville Jaguars,17,Chicago Bears,16
+2016-10-16,Buffalo Bills,45,San Francisco 49ers,16
+2016-10-16,Tennessee Titans,28,Cleveland Browns,26
+2016-10-16,New York Giants,27,Baltimore Ravens,23
+2016-10-16,New England Patriots,35,Cincinnati Bengals,17
+2016-10-16,Miami Dolphins,30,Pittsburgh Steelers,15
+2016-10-16,Washington Redskins,27,Philadelphia Eagles,20
+2016-10-16,New Orleans Saints,41,Carolina Panthers,38
+2016-10-16,Kansas City Chiefs,26,Oakland Raiders,10
+2016-10-16,Dallas Cowboys,30,Green Bay Packers,16
+2016-10-16,Seattle Seahawks,26,Atlanta Falcons,24
+2016-10-16,Houston Texans,26,Indianapolis Colts,23
+2016-10-17,New York Jets,3,Arizona Cardinals,28
+2016-10-20,Green Bay Packers,26,Chicago Bears,10
+2016-10-23,New York Giants,17,Los Angeles Rams,10
+2016-10-23,Oakland Raiders,33,Jacksonville Jaguars,16
+2016-10-23,Detroit Lions,20,Washington Redskins,17
+2016-10-23,Cincinnati Bengals,31,Cleveland Browns,17
+2016-10-23,Philadelphia Eagles,21,Minnesota Vikings,10
+2016-10-23,Indianapolis Colts,34,Tennessee Titans,26
+2016-10-23,Miami Dolphins,28,Buffalo Bills,25
+2016-10-23,Kansas City Chiefs,27,New Orleans Saints,21
+2016-10-23,New York Jets,24,Baltimore Ravens,16
+2016-10-23,Tampa Bay Buccaneers,34,San Francisco 49ers,17
+2016-10-23,San Diego Chargers,33,Atlanta Falcons,30
+2016-10-23,New England Patriots,27,Pittsburgh Steelers,16
+2016-10-23,Arizona Cardinals,6,Seattle Seahawks,6
+2016-10-24,Houston Texans,9,Denver Broncos,27
+2016-10-27,Tennessee Titans,36,Jacksonville Jaguars,22
+2016-10-30,Cincinnati Bengals,27,Washington Redskins,27
+2016-10-30,Carolina Panthers,30,Arizona Cardinals,20
+2016-10-30,New York Jets,31,Cleveland Browns,28
+2016-10-30,New England Patriots,41,Buffalo Bills,25
+2016-10-30,Oakland Raiders,30,Tampa Bay Buccaneers,24
+2016-10-30,Kansas City Chiefs,30,Indianapolis Colts,14
+2016-10-30,New Orleans Saints,25,Seattle Seahawks,20
+2016-10-30,Houston Texans,20,Detroit Lions,13
+2016-10-30,Denver Broncos,27,San Diego Chargers,19
+2016-10-30,Atlanta Falcons,33,Green Bay Packers,32
+2016-10-30,Dallas Cowboys,29,Philadelphia Eagles,23
+2016-10-31,Chicago Bears,20,Minnesota Vikings,10
+2016-11-03,Atlanta Falcons,43,Tampa Bay Buccaneers,28
+2016-11-06,Detroit Lions,22,Minnesota Vikings,16
+2016-11-06,Miami Dolphins,27,New York Jets,23
+2016-11-06,Kansas City Chiefs,19,Jacksonville Jaguars,14
+2016-11-06,Dallas Cowboys,35,Cleveland Browns,10
+2016-11-06,Baltimore Ravens,21,Pittsburgh Steelers,14
+2016-11-06,New York Giants,28,Philadelphia Eagles,23
+2016-11-06,New Orleans Saints,41,San Francisco 49ers,23
+2016-11-06,Carolina Panthers,13,Los Angeles Rams,10
+2016-11-06,Indianapolis Colts,31,Green Bay Packers,26
+2016-11-06,San Diego Chargers,43,Tennessee Titans,35
+2016-11-06,Oakland Raiders,30,Denver Broncos,20
+2016-11-07,Seattle Seahawks,31,Buffalo Bills,25
+2016-11-10,Cleveland Browns,7,Baltimore Ravens,28
+2016-11-13,Denver Broncos,25,New Orleans Saints,23
+2016-11-13,Houston Texans,24,Jacksonville Jaguars,21
+2016-11-13,Washington Redskins,26,Minnesota Vikings,20
+2016-11-13,Kansas City Chiefs,20,Carolina Panthers,17
+2016-11-13,Tampa Bay Buccaneers,36,Chicago Bears,10
+2016-11-13,Philadelphia Eagles,24,Atlanta Falcons,15
+2016-11-13,Tennessee Titans,47,Green Bay Packers,25
+2016-11-13,Los Angeles Rams,9,New York Jets,6
+2016-11-13,Miami Dolphins,31,San Diego Chargers,24
+2016-11-13,Arizona Cardinals,23,San Francisco 49ers,20
+2016-11-13,Dallas Cowboys,35,Pittsburgh Steelers,30
+2016-11-13,Seattle Seahawks,31,New England Patriots,24
+2016-11-14,New York Giants,21,Cincinnati Bengals,20
+2016-11-17,Carolina Panthers,23,New Orleans Saints,20
+2016-11-20,Detroit Lions,26,Jacksonville Jaguars,19
+2016-11-20,Dallas Cowboys,27,Baltimore Ravens,17
+2016-11-20,Indianapolis Colts,24,Tennessee Titans,17
+2016-11-20,Cleveland Browns,9,Pittsburgh Steelers,24
+2016-11-20,Buffalo Bills,16,Cincinnati Bengals,12
+2016-11-20,New York Giants,22,Chicago Bears,16
+2016-11-20,Minnesota Vikings,30,Arizona Cardinals,24
+2016-11-20,Tampa Bay Buccaneers,19,Kansas City Chiefs,17
+2016-11-20,Miami Dolphins,14,Los Angeles Rams,10
+2016-11-20,New England Patriots,30,San Francisco 49ers,17
+2016-11-20,Seattle Seahawks,26,Philadelphia Eagles,15
+2016-11-20,Washington Redskins,42,Green Bay Packers,24
+2016-11-21,Oakland Raiders,27,Houston Texans,20
+2016-11-24,Detroit Lions,16,Minnesota Vikings,13
+2016-11-24,Dallas Cowboys,31,Washington Redskins,26
+2016-11-24,Indianapolis Colts,7,Pittsburgh Steelers,28
+2016-11-27,Tennessee Titans,27,Chicago Bears,21
+2016-11-27,Buffalo Bills,28,Jacksonville Jaguars,21
+2016-11-27,Atlanta Falcons,38,Arizona Cardinals,19
+2016-11-27,Baltimore Ravens,19,Cincinnati Bengals,14
+2016-11-27,New Orleans Saints,49,Los Angeles Rams,21
+2016-11-27,Miami Dolphins,31,San Francisco 49ers,24
+2016-11-27,San Diego Chargers,21,Houston Texans,13
+2016-11-27,New York Giants,27,Cleveland Browns,13
+2016-11-27,Seattle Seahawks,5,Tampa Bay Buccaneers,14
+2016-11-27,Oakland Raiders,35,Carolina Panthers,32
+2016-11-27,New England Patriots,22,New York Jets,17
+2016-11-27,Kansas City Chiefs,30,Denver Broncos,27
+2016-11-28,Green Bay Packers,27,Philadelphia Eagles,13
+2016-12-01,Dallas Cowboys,17,Minnesota Vikings,15
+2016-12-04,Green Bay Packers,21,Houston Texans,13
+2016-12-04,Cincinnati Bengals,32,Philadelphia Eagles,14
+2016-12-04,San Francisco 49ers,6,Chicago Bears,26
+2016-12-04,Kansas City Chiefs,29,Atlanta Falcons,28
+2016-12-04,Miami Dolphins,6,Baltimore Ravens,38
+2016-12-04,New England Patriots,26,Los Angeles Rams,10
+2016-12-04,Detroit Lions,28,New Orleans Saints,13
+2016-12-04,Denver Broncos,20,Jacksonville Jaguars,10
+2016-12-04,Oakland Raiders,38,Buffalo Bills,24
+2016-12-04,Arizona Cardinals,31,Washington Redskins,23
+2016-12-04,Tampa Bay Buccaneers,28,San Diego Chargers,21
+2016-12-04,Pittsburgh Steelers,24,New York Giants,14
+2016-12-04,Carolina Panthers,7,Seattle Seahawks,40
+2016-12-05,Indianapolis Colts,41,New York Jets,10
+2016-12-08,Kansas City Chiefs,21,Oakland Raiders,13
+2016-12-11,Detroit Lions,20,Chicago Bears,17
+2016-12-11,Houston Texans,22,Indianapolis Colts,17
+2016-12-11,Cincinnati Bengals,23,Cleveland Browns,10
+2016-12-11,Carolina Panthers,28,San Diego Chargers,16
+2016-12-11,Pittsburgh Steelers,27,Buffalo Bills,20
+2016-12-11,Washington Redskins,27,Philadelphia Eagles,22
+2016-12-11,Tennessee Titans,13,Denver Broncos,10
+2016-12-11,Miami Dolphins,26,Arizona Cardinals,23
+2016-12-11,Minnesota Vikings,25,Jacksonville Jaguars,16
+2016-12-11,New York Jets,23,San Francisco 49ers,17
+2016-12-11,Tampa Bay Buccaneers,16,New Orleans Saints,11
+2016-12-11,Atlanta Falcons,42,Los Angeles Rams,14
+2016-12-11,Green Bay Packers,38,Seattle Seahawks,10
+2016-12-11,Dallas Cowboys,7,New York Giants,10
+2016-12-12,New England Patriots,30,Baltimore Ravens,23
+2016-12-15,Los Angeles Rams,3,Seattle Seahawks,24
+2016-12-17,Miami Dolphins,34,New York Jets,13
+2016-12-18,Pittsburgh Steelers,24,Cincinnati Bengals,20
+2016-12-18,Green Bay Packers,30,Chicago Bears,27
+2016-12-18,Buffalo Bills,33,Cleveland Browns,13
+2016-12-18,Baltimore Ravens,27,Philadelphia Eagles,26
+2016-12-18,Detroit Lions,6,New York Giants,17
+2016-12-18,Minnesota Vikings,6,Indianapolis Colts,34
+2016-12-18,Tennessee Titans,19,Kansas City Chiefs,17
+2016-12-18,Houston Texans,21,Jacksonville Jaguars,20
+2016-12-18,Atlanta Falcons,41,San Francisco 49ers,13
+2016-12-18,New Orleans Saints,48,Arizona Cardinals,41
+2016-12-18,Oakland Raiders,19,San Diego Chargers,16
+2016-12-18,Denver Broncos,3,New England Patriots,16
+2016-12-18,Dallas Cowboys,26,Tampa Bay Buccaneers,20
+2016-12-19,Carolina Panthers,26,Washington Redskins,15
+2016-12-22,Philadelphia Eagles,24,New York Giants,19
+2016-12-24,Green Bay Packers,38,Minnesota Vikings,25
+2016-12-24,Cleveland Browns,20,San Diego Chargers,17
+2016-12-24,Washington Redskins,41,Chicago Bears,21
+2016-12-24,Atlanta Falcons,33,Carolina Panthers,16
+2016-12-24,Miami Dolphins,34,Buffalo Bills,31
+2016-12-24,New England Patriots,41,New York Jets,3
+2016-12-24,Jacksonville Jaguars,38,Tennessee Titans,17
+2016-12-24,Oakland Raiders,33,Indianapolis Colts,25
+2016-12-24,Arizona Cardinals,34,Seattle Seahawks,31
+2016-12-24,San Francisco 49ers,22,Los Angeles Rams,21
+2016-12-24,New Orleans Saints,31,Tampa Bay Buccaneers,24
+2016-12-24,Houston Texans,12,Cincinnati Bengals,10
+2016-12-25,Pittsburgh Steelers,31,Baltimore Ravens,27
+2016-12-25,Kansas City Chiefs,33,Denver Broncos,10
+2016-12-26,Dallas Cowboys,42,Detroit Lions,21
+2017-01-01,New England Patriots,35,Miami Dolphins,14
+2017-01-01,Tampa Bay Buccaneers,17,Carolina Panthers,16
+2017-01-01,Indianapolis Colts,24,Jacksonville Jaguars,20
+2017-01-01,Cincinnati Bengals,27,Baltimore Ravens,10
+2017-01-01,Pittsburgh Steelers,27,Cleveland Browns,24
+2017-01-01,Philadelphia Eagles,27,Dallas Cowboys,13
+2017-01-01,Tennessee Titans,24,Houston Texans,17
+2017-01-01,New York Jets,30,Buffalo Bills,10
+2017-01-01,Minnesota Vikings,38,Chicago Bears,10
+2017-01-01,New York Giants,19,Washington Redskins,10
+2017-01-01,Oakland Raiders,6,Denver Broncos,24
+2017-01-01,Seattle Seahawks,25,San Francisco 49ers,23
+2017-01-01,Kansas City Chiefs,37,San Diego Chargers,27
+2017-01-01,Los Angeles Rams,6,Arizona Cardinals,44
+2017-01-01,Atlanta Falcons,38,New Orleans Saints,32
+2017-01-01,Green Bay Packers,31,Detroit Lions,24

@@ -1,5 +1,10 @@
 library(rvest)
 library(dplyr)
+library(readr)
+
+# set working directory to whatever here:
+setwd('~/nfl')
+
 years <- seq.int(2006, 2016)
 weeks <- seq.int(1, 17)
 urls  <- data.frame(url = character(), year = integer(), week = integer()) 
@@ -48,3 +53,5 @@ for (i in seq.int(1, nrow(urls))) {
   }
 }
 
+# write to output CSV
+write_csv(results, 'data/game_results.csv')
