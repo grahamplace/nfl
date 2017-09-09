@@ -12,7 +12,7 @@ for (y in years) {
   for (w in weeks) {
     y_str <- paste("https://www.pro-football-reference.com/years/", y, sep='')
     w_str <- paste(paste("/week_", w, sep=""), ".htm", sep ="")
-    u = data.frame(url = paste(y_str, w_str, sep=""), year = y, week = w)
+    u <- data.frame(url = paste(y_str, w_str, sep=""), year = y, week = w)
     urls <- rbind(urls, u)
   }
 }
